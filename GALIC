@@ -1,0 +1,518 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/ch5.png",1 CH5
+http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/nbt.png",2 NBT HD
+http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",3 ThaiPBS HD
+http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
+
+#EXTINF:-1, group-title="Kids" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",4 Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",5 Gang Cartoon
+http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",6 Boomerang
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://ztvthai.online/uploads/tv_image/universal.jpg",7 Universal Channel
+https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",8 Channel 8  
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://thaich2.com/images/logoch2-nm.png",9 CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://www.doohdbox.com/assets/20190526113654844678530.jpg",10 TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",11 Esan TV
+https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_360p/manifest.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",12 MVTV
+https://edge6a.v2h-cdn.com/v2hlive4a/MVTV75.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",13 MV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg",14 MV Myanmar 
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/288/058/000/pavp0r3fv2XLVMHFZlf-o.jpg",15 Series Channel
+http://203.154.243.31:8081/live/series/index.m3u8
+
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://pbs.twimg.com/profile_images/1267140826057998337/DLyFwcx0_400x400.jpg",16 TNN16
+http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/wNdpnUj.png" ,17 M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/newtv.png",18 New TV
+https://load1.v2h-cdn.com/redirect/INFO_T1/NEW.stream_720p?type=m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",19 TVB Thai
+https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",20 Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV"tvg-logo="https://teevee-hd.com/img/voicetv.png",21 Voice TV
+https://edge2a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/nation.png",22 Nation
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/workpoint.png",23 Workpoint
+https://tv5.chang55.com:448/live2/tvdwpchxjp.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/true4u.png",24 True4U
+https://tv5.chang55.com:448/live2/tvdt4yyxjp.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/gmm.png",25 GMM25
+https://tv5.chang55.com:448/live2/tvdgmm3xjp.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f5ed26ed-a8df-433a-94a2-5a5f1a56688a.png",26 Fan TV
+https://edge4a.v2h-cdn.com/INFO_T4/FanTV.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/ch8.png",27 CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://teevee-hd.com/img/monoplus.png",28 Mono Plus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/mono29.png",29 Mono29 
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/mcot-hd.png",30 MCOT HD
+http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/onehd.png",31 ONE HD
+http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/thairath.png",32 Thairath HD
+http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
+
+##EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/ch3-hd.png",33 CH3
+https://tv5.chang55.com:448/live2/tvdch3xjp.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/amarin1.png",34 Amarin HD
+http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/ch7-hd.png",35 CH7
+https://tv5.chang55.com:448/live2/tvdch7xjo.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/pptv.png",36 PPTV HD
+http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
+
+
+---------------------------------------------------
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/pml1.jpg",Premiere HD1
+https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/pml2.jpg",Premiere HD2
+https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/pml3.jpg",Premiere HD3
+https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/pml4.jpg",Premiere HD4
+https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/pml5.jpg",Premiere HD5
+https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-tsport1.png",True Sport HD1
+https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-tsport2.png",True Sport HD2
+https://tv4.chang55.com:446/live2/tv4ch15.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-tsport3.png",True Sport HD3
+https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-tsport4.png",True Sport HD4
+http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/sd-tsport2.png",True Sport 2
+http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/sd-tsport5.png",True Sport 5
+https://tv4.chang55.com:446/live2/tv4ch99.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/sd-tsport6.png",True Sport 6  
+https://tv4.chang55.com:446/live2/tv4ch100.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/sd-tsport7.png",True Sport 7
+http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
+ 
+ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",BEIN1
+https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-bein2.png",BEIN2
+https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
+ 
+ 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-1.jpg",AR Bein 1
+http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-2.jpg",AR Bein 2
+http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-3.jpg",AR Bein 3
+http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-4.jpg",AR Bein 4
+http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 5
+http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-foxsports1.png",Fox Sports 1
+https://tv4.chang55.com:446/live2/tv4ch95.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/sd-foxsports2.png",Fox Sports 2
+http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/sd-foxsports3.png",Fox Sports 3
+http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_big.png" group-title="Sports", foxsport1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w1385361093_b1344100_sleng_.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_big.png" group-title="Sports", foxsport2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1139282438_b1344100_sleng_.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_big.png" group-title="Sports", foxsport3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w742716253_b1344100_sleng_.m3u8
+
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",UK Sky Sports News
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Main Event
+http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", Sky Sports Premiere League 
+http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
+http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png",Sky Sports Golf
+http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-action.png",Sky Sports Action
+http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-arena.png",Sky Sports Arena
+http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-cricket.png",Sky Sports Cricket
+http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-f1.png",Sky Sports F1
+http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/BT-Sport1.jpg" group-title="Sports",BT SPORTS 1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/BT-Sport2.jpg" group-title="Sports",BT SPORTS 2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258133_files/btsport3.png" group-title="Sports",BT SPORTS 3
+http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258133_files/btsportespn.png" group-title="Sports",BT ESPN
+http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
+https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
+http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-tennis.png",True Tennis
+https://tv4.chang55.com:446/live2/tv4ch22.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
+https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
+https://tv4.chang55.com:446/live2/tv4ch46.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports1.png",Skynet Sport 1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports2.png",Skynet Sport 2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports3.png",Skynet Sport 3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports4.png",Skynet Sport 4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports5.png",Skynet Sport 5
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports6.png",Skynet Sport 6
+https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
+ 
+ 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-golf.png",True Golf
+https://tv4.chang55.com:446/live2/tv4ch08.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/hd-nba.png",NBA
+https://tv4.chang55.com:446/live2/tv4ch23.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png", Golf Channel
+https://vcdnjt.useetv.com/joss/15/golfplus/chunklist_w1132599279_b1344100_sleng_.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591654819823_movie_image.jpg&d=movie",World Snooker
+http://203.154.243.31:8081/live/snooker/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE
+https://tv4.chang55.com:446/live2/tv4ch96.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-fightsports.jpg",Fightsports
+https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://p1.img.cctvpic.com/photoworkspace/contentimg/2016/09/02/2016090211304753780.png",cctv5 sport
+http://111.40.205.89/wh7f454c46tw652161352_387395295/PLTV/88888888/224/3221225689/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="Sports", Redbull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/201908241422071906728369.jpg",HI SPORT
+http://203.154.243.31:8081/live/hisport/index.m3u8
+
+
+---------------------------------------------------
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-discovery.png",Discovery Channel TH
+https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-discoveryeng.png",Discovery ENG
+http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia TH
+http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discoveryeng.png",Discovery Asia ENG
+http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discoveryhistory
+http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History TH
+https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2 TH
+https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Natgeo Graphic TH 
+https://livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-natgeoeng.png",Natgeo Graphic ENG
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Natgeo Wild TH
+https://livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-natgeowildeng.png",Natgeo Wild ENG
+http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Natgeo People TH
+https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-natgeopeopleeng.png",Natgeo People ENG
+http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discoveryturbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-animalplanet.png",Animal Planet TH
+https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expwild.png",True Explore Wild TH
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expsci.png",True Explore Sci TH
+http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-explife.png",True Explore Life TH
+http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
+http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
+http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+
+
+--------------------------------------------------
+  
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxaction.png",Fox Action
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxpremium.png",Fox Movies
+https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxfamily.png",Fox Family
+https://tv4.chang55.com:446/live2/tv4ch91.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxcrime.png",Fox Crime
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/sd-fox.png",Fox Thai
+https://tv4.chang55.com:446/live2/tv4ch89.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO Thai
+https://tv4.chang55.com:446/live2/tv4ch30.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS
+https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbofamily.png",HBO FAMILY
+https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-warnertv.png",Warner TV
+https://tv4.chang55.com:446/live2/tv4ch88.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX HD
+https://tv4.chang55.com:446/live2/tv4ch32.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-axn.png",AXN HD
+http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://teevee-hd.com/img/truethaifilm.png",TRUE THAIFILM
+https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://teevee-hd.com/img/truefilmasia.png",true film asia
+http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hits
+http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://teevee-hd.com/img/Sky_series.jpg",SERiES+HD
+http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian TH 
+https://tv4.chang55.com:446/live2/tv4ch94.stream/chunks.m3u8
+
+
+...................................................................
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truexzyte.png",X-Zyte HD
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png",MTV Live HD
+http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1590243159594_movie_image.jpg&d=movie",Very
+http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.doofree88.com/storage/live/0fOZOKWgUnuhwZqZbTD0gX3giN8qXydJoSwA4ml5.png",Thai Thai
+http://160.119.77.50/iptv/sd-thaithai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-kbsworld.png",KBS World
+http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_big.png",wakuwaku
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1617550139_b1344100_sleng_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png" group-title="Entertainment",kix
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1951885540_b1344100_sleng_.m3u8
+
+-------------------------------------------------------
+
+#EXTINF:-1 group-title="News" tvg-logo="https://images.iptvhero.com/channel/hd-cnn.png",CNN
+https://tv4.chang55.com:446/live2/tv4ch27.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cnbc.png",CNBC
+http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nhkworld.png",NHK World
+http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nhkpremium.png",NHK Premium
+http://160.119.77.50/iptv/sd-nhkpremium.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-bloomberg.png",Bloomberg News
+http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
+
+
+--------------------------------------------------------
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_big.png?v=2.0.0.13",horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w47486546_b684100_sleng_.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",TOM & JERRY
+http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoon Network
+https://tv4.chang55.com:446/live2/tv4ch20.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel
+http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney XD
+https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr TH
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Kids"tvg-logo='https://center.beinsport.biz//assets/images/channel_new_mini/sd-animax.png',ANIMAX
+http://203.154.243.31:8081/live/animax/index.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo='https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1589576605113_movie_image.jpg&d=movie',TOONEE
+http://96.30.124.100:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo='https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1587439019711_movie_image.jpg&d=movie',Disney junior
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo='https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591351048614_movie_image.jpg&d=movie',Cartoonito 
+http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo='https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=159179482459_movie_image.jpg&d=movie',cbeebieshd  
+http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo='https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1590993028419_movie_image.jpg&d=movie',LARVA
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://www.androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.androidpolice.com%2Fwp-content%2Fuploads%2F2019%2F08%2FAndroid-logo_stacked-RGB.png" group-title="- Update: 23.06.2020",- Update: 23.06.2020
+https://androidtvtech.blogspot.com@Garlicsurin.mp4
