@@ -13,7 +13,7 @@ http://tv.guchill.com/TPBS-Live.html
 http://live.parliament.go.th/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1267140826057998337/DLyFwcx0_400x400.jpg",TNN16
-http://tv.guchill.com/TNN24-Live.html
+https://www.tnnthailand.com/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
 https://www.mvtv.co.th/channel/v2t2tv
@@ -26,6 +26,36 @@ https://www.we-play.tv/videos/digital-tv/workpoint/?wpvsopen=1
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1125650171776253953/CTYYDkQt_400x400.jpg",True4U
 http://tv.guchill.com/True4u-Live.html
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",GMM25
+https://www.we-play.tv/videos/digital-tv/gmm25/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",CH8
+https://www.thaich8.com/live?var_link=720p
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",MONO29
+https://mono29.com/livetv
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",MCOT HD
+https://www.we-play.tv/videos/digital-tv/mcot-hd/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",ONE
+https://www.we-play.tv/videos/digital-tv/one-hd/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",Thairath
+https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",CH3
+https://www.we-play.tv/videos/digital-tv/ch3-hd/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",Amarint TV
+https://www.we-play.tv/videos/digital-tv/amarin-tv/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",CH7
+https://www.we-play.tv/videos/digital-tv/ch7-hd/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",PPTV
+https://www.we-play.tv/videos/digital-tv/pptv-hd/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/?wpvsopen=1
