@@ -59,3 +59,18 @@ https://www.pptvhd36.com/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/?wpvsopen=1
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://myustv.com/wp-content/uploads/2019/11/vh1-341x220.png",VH1
+http://myustv.com/watch/vh1/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC
+https://ustvgo.tv/abc-live-streaming-free/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://seeklogo.com/images/A/amc-logo-AB7E62FB02-seeklogo.com.png",AMC
+https://ustvgo.tv/amc-live/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
+https://ustvgo.tv/animal-planet-live/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.wwe.com/f/wwe_blackbg_whitered.jpg",WWE Network
+https://ustvgo.tv/wwe-network/
