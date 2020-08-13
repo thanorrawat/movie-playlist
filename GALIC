@@ -7,7 +7,7 @@ https://www.we-play.tv/videos/digital-tv/ch5-hd/?wpvsopen=1
 http://tv.guchill.com/NBT-Live.html
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",3 ThaiPBS HD
-http://tv.guchill.com/TPBS-Live.html
+https://program.thaipbs.or.th/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="http://live.parliament.go.th/images/logo-trans.png",3 TPTV
 http://live.parliament.go.th/
@@ -43,19 +43,19 @@ https://www.we-play.tv/videos/digital-tv/mcot-hd/
 https://www.we-play.tv/videos/digital-tv/one-hd/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png",Thairath
-https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
+https://www.thairath.co.th/tv/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
-https://www.we-play.tv/videos/digital-tv/ch3-hd/
+https://ch3plus.com/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",Amarint TV
-https://www.we-play.tv/videos/digital-tv/amarin-tv/
+https://www.amarintv.com/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
 https://www.we-play.tv/videos/digital-tv/ch7-hd/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
-https://www.we-play.tv/videos/digital-tv/pptv-hd/
+https://www.pptvhd36.com/live
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/?wpvsopen=1
