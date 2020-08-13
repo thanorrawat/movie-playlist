@@ -1,16 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/ch5.png",1 CH5
-https://www.we-play.tv/videos/digital-tv/ch5-hd/
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",1 CH5
+https://www.we-play.tv/videos/digital-tv/ch5-hd/?wpvsopen=1
 
-#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/nbt.png",2 NBT HD
-http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",2 NBT HD
+http://tv.guchill.com/NBT-Live.html
 
-#EXTINF:-1 group-title="DTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",3 ThaiPBS HD
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",3 ThaiPBS HD
+http://tv.guchill.com/TPBS-Live.html
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="http://live.parliament.go.th/images/logo-trans.png",3 TPTV
+http://live.parliament.go.th/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1267140826057998337/DLyFwcx0_400x400.jpg",TNN16
+http://tv.guchill.com/TNN24-Live.html
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
+https://www.mvtv.co.th/channel/v2t2tv
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1215191170222919682/GVYbfGGB_400x400.jpg",Nation
+https://www.we-play.tv/videos/digital-tv/nationtv/?wpvsopen=1
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3cfa5ba8-74dd-43b6-b28c-aa0f129b8cc8-profile_image-300x300.png",WorkPoint
+https://www.we-play.tv/videos/digital-tv/workpoint/?wpvsopen=1
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1125650171776253953/CTYYDkQt_400x400.jpg",True4U
+http://tv.guchill.com/True4u-Live.html
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
-https://www.we-play.tv/videos/tv-entertainment/true-music-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://f.ptcdn.info/595/057/000/p8r4siriaTnODm5nFU7-o.png",New TV
-https://www.dailymotion.com/embed/video/x7kx5i7?autoplay=1
+https://www.we-play.tv/videos/tv-entertainment/true-music-hd/?wpvsopen=1
