@@ -75,10 +75,18 @@ https://ustvgo.tv/animal-planet-live/
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.wwe.com/f/wwe_blackbg_whitered.jpg",WWE Network
 https://ustvgo.tv/wwe-network/
 
-
 #EXTINF:-1 group-title="USA" tvg-logo="https://cdn.seat42f.com/wp-content/uploads/2012/08/12000434/BBC-AMERICA-Logo.jpg",BBC America 
 https://ustvgo.tv/bbc-america-live/
 
-
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png" ,Boomerang 
 https://ustvgo.tv/boomerang/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bravo_TV_%282017_Logo%29.png/318px-Bravo_TV_%282017_Logo%29.png" ,Bravo
+https://ustvgo.tv/bravo-channel-live-free/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY400_.png" ,CBS
+https://ustvgo.tv/cbs-live-streaming-free/
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" ,Cinemax
+https://ustvgo.tv/cinemax/
+
