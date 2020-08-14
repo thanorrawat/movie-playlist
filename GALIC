@@ -15,7 +15,7 @@ http://live.parliament.go.th/
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1267140826057998337/DLyFwcx0_400x400.jpg",TNN16
 https://www.tnnthailand.com/live
 
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1267140826057998337/DLyFwcx0_400x400.jpg",New TV
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",New TV
 https://www.adintrend.tv/hd/index.php?t=live&ch=30
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
@@ -63,9 +63,6 @@ https://www.we-play.tv/videos/digital-tv/pptv-hd/
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/?wpvsopen=1
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://myustv.com/wp-content/uploads/2019/11/vh1-341x220.png",VH1
-http://myustv.com/watch/vh1/
-
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC
 https://ustvgo.tv/abc-live-streaming-free/
 
@@ -77,3 +74,11 @@ https://ustvgo.tv/animal-planet-live/
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.wwe.com/f/wwe_blackbg_whitered.jpg",WWE Network
 https://ustvgo.tv/wwe-network/
+
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.seat42f.com/wp-content/uploads/2012/08/12000434/BBC-AMERICA-Logo.jpg",BBC America 
+https://ustvgo.tv/bbc-america-live/
+
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png" ,Boomerang 
+https://ustvgo.tv/boomerang/
