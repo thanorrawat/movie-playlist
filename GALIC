@@ -139,7 +139,7 @@ http://hindimean.com/freestreams/skysportsmainevent.php
 http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia
-http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discovery History
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
@@ -151,7 +151,7 @@ http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-history.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2
-http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Nat Geo Graphic
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
