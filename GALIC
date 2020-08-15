@@ -128,44 +128,51 @@ https://www.we-play.tv/videos/sport/nba-tv/
 
 
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-1.jpg",AR Bein Sports News
+
+
+
+
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",AR Bein Sports News
+http://62.210.181.164:7777/yacinenew663/yacinenew663/13
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
 http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-1.jpg",AR Bein 1
-http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-2.jpg",AR Bein 2
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png",AR Bein 2
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-3.jpg",AR Bein 3
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png",AR Bein 3
 http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-4.jpg",AR Bein 4
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png",AR Bein 4
 http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 5
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png",AR Bein 5
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 6
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png",AR Bein 6
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 7
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png",AR Bein 7
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 8
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png",AR Bein 8
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 9
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png",AR Bein 9
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 10
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png",AR Bein 10
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 11
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN11-Small.png",AR Bein 11
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://www.onlinethailand.net/tv_online/images/bein-sports-5.jpg",AR Bein 12
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN12-Small.png",AR Bein 12
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
+
+
 
 
 
