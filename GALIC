@@ -135,6 +135,91 @@ http://hindimean.com/freestreams/skysportsmainevent.php
 
 
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-discoveryeng.png",Discovery Channel 
+http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia
+http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discovery History
+http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History
+http://160.119.77.50/iptv/hd-history.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2
+http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Nat Geo Graphic
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
+http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Nat Geo People
+http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expwild.png",True Explore Wild TH
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expsci.png",True Explore Sci TH
+http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-explife.png",True Explore Life TH
+http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
+http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
+http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/truexzyte.png",X-Zyte HD
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoon Network
+http://160.119.77.50/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel
+http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney XD
+http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1587439019711_movie_image.jpg&d=movie",Disney junior
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png",CBeebies 
+http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",TOM & JERRY
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 group-title="Kids"tvg-logo="http://tubaani.com/wp-content/uploads/2016/10/03-parallax-front.png",LARVA
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC
 https://ustvgo.tv/abc-live-streaming-free/
