@@ -197,35 +197,40 @@ https://www.we-play.tv/videos/sport/nba-tv/
 
 
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 1
+
+
+
+
+
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 1
 https://www.we-play.tv/videos/sport/bein1/
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 2
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 2
 https://www.we-play.tv/videos/sport/bein2/
 
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",AR Bein Sports News
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",AR Bein Sports News
 http://62.210.181.164:7777/yacinenew770/yacinenew770/13
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/100.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png",AR Bein 2
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png",AR Bein 2
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/101.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png",AR Bein 3
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png",AR Bein 3
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/102.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png",AR Bein 4
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png",AR Bein 4
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/103.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png",AR Bein 5
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png",AR Bein 5
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/104.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png",AR Bein 6
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png",AR Bein 6
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/105.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png",AR Bein 7
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png",AR Bein 7
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/106.ts
 
 #EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png",AR Bein 8
@@ -242,6 +247,8 @@ http://iptvtree.net:8080/live/valintina/b09c0423ae8a/110.ts
 
 #EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN12-Small.png",AR Bein 12
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
+
+
 
 
 
