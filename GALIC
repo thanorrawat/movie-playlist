@@ -78,17 +78,56 @@ https://www.we-play.tv/videos/tv-entertainment/true-thai-film/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",True Asian Series
 https://www.we-play.tv/videos/tv-entertainment/true-asian-series-hd/
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_XZYTE.jpg",True X Zyte
+https://www.we-play.tv/videos/tv-entertainment/true-x-zyte/
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",Cinemax
+https://www.we-play.tv/videos/tv-entertainment/cinemax/
 
-
-
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png",Warner Tv
+https://www.we-play.tv/videos/tv-entertainment/warner-tv/
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",Paramount Channel
 https://www.we-play.tv/videos/tv-entertainment/paramount-channel/
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
 https://www.we-play.tv/videos/tv-entertainment/hits-movies/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo_hits.png",Hits
+https://www.we-play.tv/videos/tv-entertainment/hits/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",Fox Thai
+https://www.we-play.tv/videos/tv-entertainment/fox-%E0%B9%84%E0%B8%97%E0%B8%A2/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FMP.jpg",Fox Movies Premium
+https://www.we-play.tv/videos/tv-entertainment/fox-movies-premium/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FAM.jpg",Fox Action Movies
+https://www.we-play.tv/videos/tv-entertainment/fox-action-movies/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg",Fox Crime
+https://www.we-play.tv/videos/tv-entertainment/fox-crime-th/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FFM.jpg",Fox Family Movies
+https://www.we-play.tv/videos/tv-entertainment/fox-family-movies/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_51fox_life_asia.jpg",Fox Life
+https://www.we-play.tv/videos/tv-entertainment/fox-life/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",HBO HD
+https://www.we-play.tv/videos/tv-entertainment/hbo-hd/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO Hits
+https://www.we-play.tv/videos/tv-entertainment/hbo-hit/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",HBO RED
+https://www.we-play.tv/videos/tv-entertainment/red-by-hbo/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png",HBO Family
+https://www.we-play.tv/videos/tv-entertainment/hbo-family/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",HBO signature 
+https://www.we-play.tv/videos/tv-entertainment/hbo-signature/
 
 
 
@@ -529,4 +568,3 @@ https://ustvgo.tv/wwe-network/
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png" ,Yes Network
 https://ustvgo.tv/yes-network/
-
