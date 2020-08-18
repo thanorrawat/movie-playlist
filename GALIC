@@ -60,8 +60,36 @@ https://www.we-play.tv/videos/digital-tv/ch7-hd/
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
 https://www.we-play.tv/videos/digital-tv/pptv-hd/
 
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
-https://www.we-play.tv/videos/tv-entertainment/true-music-hd/?wpvsopen=1
+
+
+
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
+https://www.we-play.tv/videos/tv-entertainment/true-music-hd/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",True Film HD
+https://www.we-play.tv/videos/tv-entertainment/true-film-hd/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_THAIF.jpg",True Thai Film
+https://www.we-play.tv/videos/tv-entertainment/true-thai-film/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",True Asian Series
+https://www.we-play.tv/videos/tv-entertainment/true-asian-series-hd/
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",Paramount Channel
+www.we-play.tv/videos/tv-entertainment/paramount-channel/
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
+https://www.we-play.tv/videos/tv-entertainment/hits-movies/
+
 
 
 
@@ -130,46 +158,50 @@ https://www.we-play.tv/videos/sport/nba-tv/
 
 
 
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 1
+https://www.we-play.tv/videos/sport/bein1/
 
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 2
+https://www.we-play.tv/videos/sport/bein2/
 
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",AR Bein Sports News
-http://62.210.181.164:7777/yacinenew663/yacinenew663/13
+http://62.210.181.164:7777/yacinenew770/yacinenew770/13
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
-http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/100.ts
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png",AR Bein 2
-http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/101.ts
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png",AR Bein 3
-http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/102.ts
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png",AR Bein 4
-http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/103.ts
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png",AR Bein 5
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/104.ts
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png",AR Bein 6
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/105.ts
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png",AR Bein 7
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/106.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png",AR Bein 8
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png",AR Bein 8
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/107.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png",AR Bein 9
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png",AR Bein 9
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/108.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png",AR Bein 10
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png",AR Bein 10
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/109.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN11-Small.png",AR Bein 11
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN11-Small.png",AR Bein 11
+http://iptvtree.net:8080/live/valintina/b09c0423ae8a/110.ts
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://runnel.ir/ax/logo/beIN12-Small.png",AR Bein 12
+#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN12-Small.png",AR Bein 12
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
 
 
@@ -177,54 +209,11 @@ http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
 
 
 
-
-
-
-
-
-
- 
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",UK Sky Sports News
-http://live.highstream.club/live/SSN/playlist.m3u8
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Main Event
-http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", Sky Sports Premiere League 
-http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
-http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png",Sky Sports Golf
-http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
-https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-action.png",Sky Sports Action
-http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-arena.png",Sky Sports Arena
-http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-cricket.png",Sky Sports Cricket
-http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-f1.png",Sky Sports F1
-http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/BT-Sport1.jpg" group-title="InterSports",BT SPORTS 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-1-hd/
 
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/BT-Sport2.jpg" group-title="InterSports",BT SPORTS 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-2-hd/
 
 #EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258133_files/btsport3.png" group-title="InterSports",BT SPORTS 3
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
@@ -269,8 +258,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://203.154.243.31:8081/live/snooker/index.m3u8
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/us-wwe/liveorigin/us-wwe_480/chunks.m3u8
-
+http://xtream.encohd.co:25461/live/JXCH2323DC/D3LG6g7Z9E/13.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="InterSports", Redbull TV UHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -541,3 +529,4 @@ https://ustvgo.tv/wwe-network/
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png" ,Yes Network
 https://ustvgo.tv/yes-network/
+
