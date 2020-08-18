@@ -246,41 +246,75 @@ http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
 
 
 
+ 
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",UK Sky Sports News
+https://www.movie1168.com/live/sky-sports-news
+ 
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Main Event
+https://www.movie1168.com/live/sky-sports-main-event
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", Sky Sports Premiere League 
+https://www.movie1168.com/live/sky-sports-premier-league
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
+https://www.movie1168.com/live/sky-sports-football
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png",Sky Sports Golf
+https://www.movie1168.com/live/sky-sports-golf
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
+https://www.movie1168.com/live/sky-sports-mix
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-action.png",Sky Sports Action
+https://www.movie1168.com/live/sky-sports-action
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-arena.png",Sky Sports Arena
+https://www.movie1168.com/live/sky-sports-arena
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-cricket.png",Sky Sports Cricket
+https://www.movie1168.com/live/sky-sports-cricket
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-f1.png",Sky Sports F1
+https://www.movie1168.com/live/sky-sports-f1
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/BT-Sport1.jpg" group-title="InterSports",BT SPORTS 1
+
+
+
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="InterSports",BT SPORTS 1
 https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-1-hd/
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/BT-Sport2.jpg" group-title="InterSports",BT SPORTS 2
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="InterSports",BT SPORTS 2
 https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-2-hd/
 
-#EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258133_files/btsport3.png" group-title="InterSports",BT SPORTS 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="InterSports",BT SPORTS 3
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-3-hd/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
-http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
+https://www.movie1168.com/live/eurosport
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
-http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
+https://www.movie1168.com/live/eurosport-2
 
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
-http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport-hd/
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
 http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports1.png",Skynet Sport 1
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport1/
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports2.png",Skynet Sport 2
-http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport2/
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports3.png",Skynet Sport 3
-http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport3/
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports4.png",Skynet Sport 4
-http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport4/
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports5.png",Skynet Sport 5
 http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
@@ -377,17 +411,20 @@ http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",Boomerang
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png" ,Boomerang 
+https://ustvgo.tv/boomerang/
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoon Network
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/cartoon-network/
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel
-http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/320px-Disney_Channel_logo_%282014%29.svg.png" ,Disney Channel
+https://ustvgo.tv/disney-channel-live-streaming-free/
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney XD
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/disney-xd/
 
-#EXTINF:-1 group-title="Kids"tvg-logo="https://www.uokpl.rs/fpng/f/8-88979_disney-junior-logo.png",Disney junior
-http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" ,Disney Junior
+http://myustv.com/watch/disney-junior/
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
@@ -410,6 +447,59 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 
 #EXTINF:-1 group-title='Kids'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTusUSThC0YjGx5AhFTNVpvFNY5TAhR-4Xwtw&usqp=CAU",จ๊ะทิงจา
 https://tv.trueid.net/live/jatingjatv
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://www.theknowledgeonline.com/files/lib/ckfinder/userfiles/images/BBC%20News%20logo%20220.jpg",BBC 1
+https://uk.easyview.eu/hls/bbc-london.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/400px-BBC_Two.svg.png",BBC 2
+https://uk.easyview.eu/hls/bbc-two.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/400px-BBC_Four.svg.png",BBC 4
+https://uk.easyview.eu/hls/bbc-four.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://www.comedy.co.uk/images/channels/bbc_one_wales.jpg",BBC 1 Wales
+https://uk.easyview.eu/hls/bbc-one-wales.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc1_scotland.jpg",BBC 1 Scotland 
+https://uk.easyview.eu/hls/bbc-one-scotland.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/BBC_One_Northern_Ireland.svg/1599px-BBC_One_Northern_Ireland.svg.png",BBC 1 N Ireland
+https://uk.easyview.eu/hls/bbc-one-northern-ireland.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",BBC News
+https://uk.easyview.eu/hls/nbcb.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/400px-BBC_Parliament_Logo.svg.png",BBC Parliament 
+https://uk.easyview.eu/hls/bbc-parliament.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Alba_%28new%29.svg/440px-BBC_Alba_%28new%29.svg.png",BBC Alba
+https://uk.easyview.eu/hls/bbc-alba.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png",CBeebies
+https://uk.easyview.eu/hls/cbeebies.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/400px-CBBC_2016_logo.svg.png",CBBC
+https://uk.easyview.eu/hls/cbbc.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Stwnsh_logo.png/220px-Stwnsh_logo.png",S4C
+https://uk.easyview.eu/hls/s4c.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png",ITV 2
+http://51.52.156.22:8888/http/005
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png",ITV 3
+http://51.52.156.22:8888/http/006
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png",ITV 4
+http://51.52.156.22:8888/http/007
 
 
 
@@ -591,3 +681,6 @@ https://ustvgo.tv/wwe-network/
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png" ,Yes Network
 https://ustvgo.tv/yes-network/
+
+#EXTINF:-1 group-title="19.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
+https://androidtvtech.blogspot.com
