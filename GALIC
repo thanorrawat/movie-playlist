@@ -197,11 +197,6 @@ https://www.we-play.tv/videos/sport/nba-tv/
 
 
 
-
-
-
-
-
 #EXTINF:-1 group-title="BeinSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 1
 https://www.we-play.tv/videos/sport/bein1/
 
@@ -247,8 +242,6 @@ http://iptvtree.net:8080/live/valintina/b09c0423ae8a/110.ts
 
 #EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN12-Small.png",AR Bein 12
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
-
-
 
 
 
@@ -303,7 +296,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://wst.tv/wp-content/uploads/2015/06/WS-logo-1024x894.jpg",World Snooker
 http://203.154.243.31:8081/live/snooker/index.m3u8
 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE Network
 http://xtream.encohd.co:25461/live/JXCH2323DC/D3LG6g7Z9E/13.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="InterSports", Redbull TV UHD
@@ -317,7 +310,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-discoveryeng.png",Discovery Channel 
-http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia
 https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/
@@ -328,23 +321,23 @@ http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo
 http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History
-http://160.119.77.50/iptv/hd-history.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History HD
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2
 https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Nat Geo Graphic
-http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
-http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/nat-geo-wild/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Nat Geo People
 http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expwild.png",True Explore Wild TH
 http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
@@ -356,33 +349,55 @@ http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
-http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/
 
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
-http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/truexzyte.png",X-Zyte HD
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",Outdoor Channel
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/
 
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",Gang Cartoon
+http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",Boomerang
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoon Network
-http://160.119.77.50/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/cartoon-network/
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney XD
-http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/disney-xd/
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.uokpl.rs/fpng/f/8-88979_disney-junior-logo.png",Disney junior
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids"tvg-logo="https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1587439019711_movie_image.jpg&d=movie",Disney junior
-http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo="http://tvsmagazine.com/images/channels/sm_NICK.jpg",Nickelodeon
+https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/nickelodeon/
+
+
+#EXTINF:-1 group-title="Kids"tvg-logo="http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",True Spark Jump
+https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/true-spark-jump/
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png",CBeebies 
 http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
@@ -393,7 +408,8 @@ http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high
 #EXTINF:-1 group-title="Kids"tvg-logo="http://tubaani.com/wp-content/uploads/2016/10/03-parallax-front.png",LARVA
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
-
+#EXTINF:-1 group-title='Kids'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTusUSThC0YjGx5AhFTNVpvFNY5TAhR-4Xwtw&usqp=CAU",จ๊ะทิงจา
+https://tv.trueid.net/live/jatingjatv
 
 
 
