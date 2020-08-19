@@ -36,6 +36,10 @@ https://www.we-play.tv/videos/digital-tv/gmm25/
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
 https://www.thaich8.com/live?var_link=720p
 
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png",MONO Plus
+https://edge2-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
 https://www.we-play.tv/videos/digital-tv/mono29/
 
@@ -59,6 +63,60 @@ https://www.we-play.tv/videos/digital-tv/ch7-hd/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
 https://www.we-play.tv/videos/digital-tv/pptv-hd/
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",MVTV
+https://www.mvtv.co.th/channel/mvtv_home
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB DRAMA THAI
+https://www.mvtv.co.th/channel/tvb-drama-thai
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",บันเทิง100
+https://www.mvtv.co.th/channel/banteng100
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/2-4.jpg",V2H2
+https://www.mvtv.co.th/channel/v2t2tv
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",Mix Major 
+https://www.mvtv.co.th/channel/mix-major-channel
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MV Laos 
+https://www.mvtv.co.th/channel/mvlao-channel
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MVMyanmar 
+https://www.mvtv.co.th/channel/mvm
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",ไทบ้าน
+https://www.mvtv.co.th/channel/thaiban
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69TV
+https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",Happy TV
+https://www.mvtv.co.th/channel/happy-tv
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",อีสานทีวี
+https://www.mvtv.co.th/channel/esan-tv
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/9.jpg",V2H9
+https://www.mvtv.co.th/channel/v2h9
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/11.jpg",V2H11
+https://www.mvtv.co.th/channel/v2h11
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",สยาม
+https://www.mvtv.co.th/channel/siamchannel
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",ลิโด้
+https://www.mvtv.co.th/channel/lidochannell
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",สกาล่า
+https://www.mvtv.co.th/channel/sakalachannel
+
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",ราม่า
+https://www.mvtv.co.th/channel/ramachannel
+
+
+
 
 
 
