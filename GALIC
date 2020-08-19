@@ -167,7 +167,7 @@ https://freetvdd.com/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/true-sport-hd-4-th/
 https://www.we-play.tv/videos/sport/true-sport-2/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5
-https://www.we-play.tv/videos/sport/true-sport-5/
+https://www.ballsoi8.com/live/?ch=truesport5
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 6
 https://www.we-play.tv/videos/sport/true-sport-6/
@@ -291,50 +291,24 @@ https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="InterSports",BT SPORTS 3
 https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-3-hd/
 
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="InterSports",BT SPORTS Espn
+https://www.ballsoi8.com/live/?ch=btsportespn
+
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
 https://www.movie1168.com/live/eurosport
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
 https://www.movie1168.com/live/eurosport-2
 
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport-hd/
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
-http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports1.png",Skynet Sport 1
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport1/
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports2.png",Skynet Sport 2
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport2/
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports3.png",Skynet Sport 3
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport3/
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports4.png",Skynet Sport 4
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/skynet-sport4/
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports5.png",Skynet Sport 5
-http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports6.png",SKYNET6 sport
-http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://wst.tv/wp-content/uploads/2015/06/WS-logo-1024x894.jpg",World Snooker
-http://203.154.243.31:8081/live/snooker/index.m3u8
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE Network
 http://xtream.encohd.co:25461/live/JXCH2323DC/D3LG6g7Z9E/13.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="InterSports", Redbull TV UHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 
 
 
