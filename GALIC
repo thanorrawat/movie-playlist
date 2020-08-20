@@ -717,19 +717,33 @@ https://ustvgo.tv/yes-network/
 #EXTINF:-1 group-title="20.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
 https://androidtvtech.blogspot.com
 
+#EXTM3U
 
-#EXTINF:-1 group-title="My Style Movie" tvg-logo="http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg" ,เฮียคลั่ง! ดับเครื่องชน 2020
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg" ,เฮียคลั่ง! ดับเครื่องชน 2020
 https://lb1.one3up.com/hls/6dd3b53f67597b036b7b20c47437e761/6dd3b53f67597b036b7b20c47437e761.m3u8
 
-#EXTINF:-1 group-title="My Style Movie" tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,แค้นลั่นนรก2019
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,แค้นลั่นนรก2019
 https://lb1.one3up.com/hls/b1a65ea4b26ec264f94349f44388377b/b1a65ea4b26ec264f94349f44388377b.m3u8
 
-#EXTINF:-1 group-title="My Style Movie" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b69e4be561f722bfe841d0de8d269dd3.jpg" ,หาดนรก สาปสวรรค์ 2008
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://movie285.com/wp-content/uploads/2019/08/1303.jpg" ,Wolf Creek 2 2013
+https://lb1.one3up.com/hls/fe48e30a43c072669961b145dc2a0595/fe48e30a43c072669961b145dc2a0595.m3u8
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b69e4be561f722bfe841d0de8d269dd3.jpg" ,หาดนรก สาปสวรรค์ 2008
 https://lb1.one3up.com/hls/a97af96c3275ce28dda1eb0b7910c3c5/a97af96c3275ce28dda1eb0b7910c3c5.m3u8
 
-#EXTINF:-1 group-title="My Style Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_SX178_AL_.jpg" ,โชคดีที่ตายก่อน 2006
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/HHE2DomTeaserPoster.jpg/220px-HHE2DomTeaserPoster.jpg" ,โชคดีที่ตายก่อน 2 2007
+https://lb1.one3up.com/hls/645cfcc93051efec3c955748b6f16736/645cfcc93051efec3c955748b6f16736.m3u8
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_SX178_AL_.jpg" ,โชคดีที่ตายก่อน 2006
 https://lb1.one3up.com/hls/03ea0dae46684a4102102405e65aabf2/03ea0dae46684a4102102405e65aabf2.m3u8
 
-#EXTINF:-1 group-title="My Style Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1MDI1NDM1NF5BMl5BanBnXkFtZTcwMzU5OTkyMQ@@._V1_SX178_AL_.jpg" ,Land Of The Dead 2005
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Wolfcreek.png/220px-Wolfcreek.png" ,Wolf Creek 2005
+https://lb1.one3up.com/hls/6b6b0b89e46d18c13020af7e65e3a859/6b6b0b89e46d18c13020af7e65e3a859.m3u8
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1MDI1NDM1NF5BMl5BanBnXkFtZTcwMzU5OTkyMQ@@._V1_SX178_AL_.jpg" ,Land Of The Dead 2005
 https://lb1.one3up.com/hls/da1584080f156a51661a4ab6be367798/da1584080f156a51661a4ab6be367798.m3u8
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="http://topicstock.pantip.com/chalermthai/topicstock/2007/03/A5191421/A5191421-svote2.jpg" ,นรกรอชำแหละ 1 2005
+https://lb1.one3up.com/hls/bbbc704454080645089e344c1cd4edf6/bbbc704454080645089e344c1cd4edf6.m3u8
 
