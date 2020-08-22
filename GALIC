@@ -261,10 +261,6 @@ https://www.we-play.tv/videos/sport/bein1/
 #EXTINF:-1 group-title="BeinSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 2
 https://www.we-play.tv/videos/sport/bein2/
 
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",AR Bein Sports News
-http://62.210.181.164:7777/yacinenew770/yacinenew770/13
-
 #EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
 http://iptvtree.net:8080/live/valintina/b09c0423ae8a/100.ts
 
@@ -714,9 +710,8 @@ https://ustvgo.tv/wwe-network/
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png" ,Yes Network
 https://ustvgo.tv/yes-network/
 
-#EXTINF:-1 group-title="20.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
+#EXTINF:-1 group-title="22.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
 https://androidtvtech.blogspot.com
-
 
 
 
@@ -732,11 +727,17 @@ https://androidtvtech.blogspot.com
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg" ,เฮียคลั่ง! ดับเครื่องชน 2020
 https://lb1.one3up.com/hls/6dd3b53f67597b036b7b20c47437e761/6dd3b53f67597b036b7b20c47437e761.m3u8
 
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/06/The-Hunt-2020-300x450.png" ,The Hunt 2020
+https://cdn.livedoomovies.com/hls/020acfe1c8eff1fd871b860beaaafbc8/020acfe1c8eff1fd871b860beaaafbc8.m3u8
+
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,แค้นลั่นนรก 2019
 https://lb1.one3up.com/hls/b1a65ea4b26ec264f94349f44388377b/b1a65ea4b26ec264f94349f44388377b.m3u8
 
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/What_Keeps_You_Alive.png" ,What Keeps You Alive 2018
 https://lb1.one3up.com/hls/1ee381e1b9785f97d0d4e5d0d8d6cf79/1ee381e1b9785f97d0d4e5d0d8d6cf79.m3u8
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://www.dunung-hd.com/wp-content/uploads/2018/05/cb656773f452fc7232f789e34ecc733a.jpg" ,WalKing Out 2017
+https://lb1.one3up.com/hls/87f43d3fa683ceee67ccb7b49d99ab80/87f43d3fa683ceee67ccb7b49d99ab80.m3u8
 
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="https://pm1.narvii.com/7142/f4295385bc7cc47f42027dfe0ec41f4dca17043cr1-500-707v2_hq.jpg" ,Downrange 2017
 https://lb1.one3up.com/hls/6efcae45b5560a643c872435a63acae0/6efcae45b5560a643c872435a63acae0.m3u8
@@ -747,6 +748,9 @@ https://lb1.one3up.com/hls/a310920b00093fe3daff79082e94b676/a310920b00093fe3daff
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b69e4be561f722bfe841d0de8d269dd3.jpg" ,หาดนรก สาปสวรรค์ 2008
 https://lb1.one3up.com/hls/a97af96c3275ce28dda1eb0b7910c3c5/a97af96c3275ce28dda1eb0b7910c3c5.m3u8
 
+
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://pic.pimg.tw/always1027/1438843014-3230013114_wn.jpg" ,The Ruins 2008
+https://lb1.one3up.com/hls/be9604b4ca41d7260e299398042c9a2f/be9604b4ca41d7260e299398042c9a2f.m3u8
 
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_SX178_AL_.jpg" ,โชคดีที่ตายก่อน 2006
 https://lb1.one3up.com/hls/03ea0dae46684a4102102405e65aabf2/03ea0dae46684a4102102405e65aabf2.m3u8
@@ -809,27 +813,8 @@ https://lb1.one3up.com/hls/a3514d54f524cae0df32cc3aab816928/a3514d54f524cae0df32
 https://lb1.one3up.com/hls/32d74e5beb3fdf7544c467ecec63982a/32d74e5beb3fdf7544c467ecec63982a.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="My Style Movies" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/04/Dont-Breathe.jpg" ,Don't Breathe 2016
+https://lb1.one3up.com/hls/65a93ebc091267a80bd5d53b0d5347bc/65a93ebc091267a80bd5d53b0d5347bc.m3u8
 
 
 
