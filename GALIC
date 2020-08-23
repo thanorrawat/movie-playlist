@@ -37,7 +37,7 @@ https://www.we-play.tv/videos/digital-tv/gmm25/
 https://www.thaich8.com/live?var_link=720p
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png",MONO Plus
-https://edge2-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/playlist.m3u8
+https://monoplus.mthai.com/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
 https://www.ballsoi8.com/live/?ch=mono29
