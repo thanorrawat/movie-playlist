@@ -36,9 +36,6 @@ https://www.we-play.tv/videos/digital-tv/gmm25/
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
 https://www.thaich8.com/live?var_link=720p
 
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png",MONO Plus
-https://monoplus.mthai.com/
-
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
 https://www.ballsoi8.com/live/?ch=mono29
 
@@ -359,8 +356,40 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE Network
 http://xtream.encohd.co:25461/live/JXCH2323DC/D3LG6g7Z9E/13.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="InterSports", Redbull TV UHD
+#EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="InterSports", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png" group-title="InterSports",M La Liga 
+http://lacalleochotv.org/la-liga-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/09/goltv.jpg" group-title="InterSports",Latin GoL TV 
+http://lacalleochotv.org/gol-tv-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/tudn.jpg" group-title="InterSports",TUDN
+http://lacalleochotv.org/tudn-online-en-directo/
+
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/tvcdeportes.jpg" group-title="InterSports",TVC Deportes
+http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -472,8 +501,12 @@ http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high
 #EXTINF:-1 group-title="Kids"tvg-logo="http://tubaani.com/wp-content/uploads/2016/10/03-parallax-front.png",LARVA
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
-#EXTINF:-1 group-title='Kids'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTusUSThC0YjGx5AhFTNVpvFNY5TAhR-4Xwtw&usqp=CAU",จ๊ะทิงจา
-https://tv.trueid.net/live/jatingjatv
+
+
+
+
+
+
 
 
 
@@ -709,7 +742,7 @@ https://ustvgo.tv/wwe-network/
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png" ,Yes Network
 https://ustvgo.tv/yes-network/
 
-#EXTINF:-1 group-title="22.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
+#EXTINF:-1 group-title="23.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
 https://androidtvtech.blogspot.com
 
 
@@ -814,6 +847,5 @@ https://lb1.one3up.com/hls/32d74e5beb3fdf7544c467ecec63982a/32d74e5beb3fdf7544c4
 
 #EXTINF:-1 group-title="My Style Movies" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/04/Dont-Breathe.jpg" ,Don't Breathe 2016
 https://lb1.one3up.com/hls/65a93ebc091267a80bd5d53b0d5347bc/65a93ebc091267a80bd5d53b0d5347bc.m3u8
-
 
 
