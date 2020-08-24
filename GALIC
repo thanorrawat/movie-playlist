@@ -9,6 +9,9 @@ http://tv.guchill.com/NBT-Live.html
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
 https://program.thaipbs.or.th/live
 
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ThaiPBS HD
+https://www.altv.tv/live
+
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="http://live.parliament.go.th/images/logo-trans.png",TPTV
 http://live.parliament.go.th/
 
