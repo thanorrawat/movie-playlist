@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
-https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/%e0%b8%97%e0%b8%97%e0%b8%9a-5/
+https://www.we-play.tv/videos/digital-tv/ch5-hd/
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
-http://tv.guchill.com/NBT-Live.html
+https://www.adintrend.tv/hd/m/ch11
 
 #EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
 https://program.thaipbs.or.th/live
@@ -183,7 +183,8 @@ https://www.we-play.tv/videos/tv-entertainment/hbo-family/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",HBO signature 
 https://www.we-play.tv/videos/tv-entertainment/hbo-signature/
 
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truexzyte.png",X-Zyte HD
+https://www.we-play.tv/videos/tv-entertainment/true-x-zyte/
 
 
 
@@ -215,13 +216,13 @@ https://www.we-play.tv/videos/sport/true-sport-hd-2/
 https://www.we-play.tv/videos/sport/true-sport-hd-3/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",True Sport HD 4
-https://freetvdd.com/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/true-sport-hd-4-th/
+https://siammoviehd.com/835/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 2
 https://www.we-play.tv/videos/sport/true-sport-2/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5
-https://www.ballsoi8.com/live/?ch=truesport5
+https://www.we-play.tv/videos/sport/true-sport-5/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 6
 https://www.we-play.tv/videos/sport/true-sport-6/
@@ -301,31 +302,38 @@ http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
 https://edge-n1.worldwidetv.club/z_XoBI-rtLqkOhHURbhduw/1598285525/live-abr/uk-skysports-news/playlist.m3u8
  
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",UK Sky Sports Main Event
-https://edge-n2.worldwidetv.club/SzRXHgyHLnFc0aPgE_4l9g/1598285575/live-abr/uk-skysports-mainevent/playlist.m3u8
+http://freestreams-live1.com/sky-sp-mainevent/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg", Sky Sports Premiere League 
-https://edge-n4.worldwidetv.club/LC6FSjbhwQ_6hNUPVBO-nQ/1598285612/live-abr/uk-skysports-epl/playlist.m3u8
+http://runnel.ir/tv/tv/sky-sports-premier-league-tv-1.php
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",Sky Sports Football
-https://edge-n1.worldwidetv.club/EaXiCfiGViR2Yu_ltxlhiQ/1598285859/live-abr/uk-skysports-football/playlist.m3u8
+http://freestreams-live1.com/skysportsfootball-uk/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",Sky Sports Golf
-https://edge-n4.worldwidetv.club/egv3VM33IqzeHeI0tc-lHw/1598286060/live-abr/uk-skysports-golf/playlist.m3u8
+http://freestreams-live1.com/skyspgolf/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
-https://edge-n3.worldwidetv.club/owhKKaIXvGA5WokMVWIZpw/1598286139/live-abr/uk-skysports-mix/playlist.m3u8
+http://freestreams-live1.com/skyspmix/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg",Sky Sports Action
-https://edge-n3.worldwidetv.club/rocU6gRg_DXbHxj5csi1lQ/1598286187/live-abr/uk-skysports-action/playlist.m3u8
+http://freestreams-live1.com/skyspaction/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg",Sky Sports Arena
-https://edge-n3.worldwidetv.club/IVvyhX9rGlALrlCnq0kcEA/1598286226/live-abr/uk-skysports-arena/playlist.m3u8
+http://freestreams-live1.com/skysparena1/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg",Sky Sports Cricket
-https://edge-n2.worldwidetv.club/oS4UcOS8JfFaEezcyJePHQ/1598286264/live-abr/uk-skysports-cricket/playlist.m3u8
+http://freestreams-live1.com/skysportscricket/
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg",Sky Sports F1
-https://edge-n1.worldwidetv.club/MxWGd8Ftd1y9i4KnAWHcrA/1598286311/live-abr/uk-skysports-f1/playlist.m3u8
+http://freestreams-live1.com/sky-spf1/
+
+#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySportsRacing.png_1926146284.png",Sky Sports Racing
+http://freestreams-live1.com/skyspracing/
+
+
+
+
 
 
 
@@ -344,8 +352,7 @@ https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b
 https://www.ballsoi8.com/live/?ch=btsportespn
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
-http://runnel.ir/tv/tv/eurosport-uk-1-1.php
-
+http://freestreams-live1.com/euro1hd-s2/
 #EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
 http://runnel.ir/tv/tv/eurosport-uk-2-1.php
 
@@ -413,8 +420,7 @@ https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
 https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/truexzyte.png",X-Zyte HD
-http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",Outdoor Channel
 https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/
@@ -770,30 +776,54 @@ https://ustvgo.tv/yes-network/
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png" group-title="LatinoTV",M La Liga 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png" group-title="LatinSports",M La Liga 
 http://lacalleochotv.org/la-liga-en-directo-gratis/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" group-title="LatinoTV",M Deportes 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/400px-Movistar_Liga_de_Campeones.svg.png" group-title="LatinSports",M Liga De Campeones 
 http://lacalleochotv.org/movistar-deportes-1-en-directo/
 
-#EXTINF:-1 tvg-logo="https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg" group-title="LatinoTV",GoL TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" group-title="LatinSports",M Deportes 1
+http://lacalleochotv.org/bein-sports-gratis/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="LatinSports",ESPN EXTRA
+http://lacalleochotv.org/espn-mas-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="LatinSports",ESPN HD
+http://lacalleochotv.org/espn-hd-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/440px-Espn2.svg.png" group-title="LatinSports",ESPN 2
+http://lacalleochotv.org/espn-2-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="LatinSports",ESPN 3
+http://lacalleochotv.org/espn3-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png" group-title="LatinSports",Fox Sports
+http://lacalleochotv.org/fox-sports-online-en-directo2-gratis/
+
+#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1.jpg" group-title="LatinSports",Fox Sports 2
+http://lacalleochotv.org/fox-sports-2-online-gratis/
+
+#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1-1.jpg" group-title="LatinSports",Fox Sports 3
+http://ttv.bz/live/nexgennnnn/TzGCKJYsl9/156.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg" group-title="LatinSports",GoL T 
 http://lacalleochotv.org/gol-tv-online-en-directo-gratis/
 
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR-1024x256.png" group-title="LatinoTV",TUDN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/Gol_tv-logo-44D99F0B55-seeklogo.com.png" group-title="LatinSports",GoL TV
+http://telegratis.org/goltv/
+
+#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR-1024x256.png" group-title="LatinSports",TUDN
 http://lacalleochotv.org/tudn-online-en-directo/
 
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Univision_TDN.png" group-title="LatinoTV",Univision TDN
-http://runnel.ir/tv/tv/univision-tdn-2.php
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg" group-title="LatinoTV",TVC Deportes
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg" group-title="LatinSports",TVC Deportes
 http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
 
 
 
 
 
-
-
-#EXTINF:-1 group-title="25.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
+#EXTINF:-1 group-title="27.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
 https://androidtvtech.blogspot.com
