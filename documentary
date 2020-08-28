@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-discoveryeng.png",Discovery Channel 
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/
+
+#EXTINF:-1 tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discovery History
+http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History HD
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Nat Geo Graphic
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/nat-geo-wild/
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Nat Geo People
+http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/sd-expwild.png",True Explore Wild TH
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/sd-expsci.png",True Explore Sci TH
+http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/sd-explife.png",True Explore Life TH
+http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/
+
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",Outdoor Channel
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/
+
