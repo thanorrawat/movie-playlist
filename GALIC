@@ -1,6 +1,6 @@
 {
 	"name": "WiseplayByGarlic",
-	"author": Youtubeแอนดรอยด์แอพฟรี",
+	"author": @แอนดรอยด์แอพฟรี",
 	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
 	"url": "https://androidtvtech.blogspot.com/",
 	"groups": [
@@ -52,7 +52,7 @@
 		},		
 
 {
-			"name": "สารคดี",
+			"name": "Documentary",
 			"image": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_documentary.svg/279px-Logo_documentary.svg.png",
 			"url": "http://tiny.cc/docs",
 			"import": false
