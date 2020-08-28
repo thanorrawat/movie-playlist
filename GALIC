@@ -40,14 +40,14 @@
 		{
 			"name": "World Sports",
 			"image": "https://bizimages.withfloats.com/actual/5c45e8e61ba77d0001198050.jpg",
-			"url": "http://tiny.cc/worldsports01",
+			"url": "http://tiny.cc/worldsports",
 			"import": false
 		},
 
 		{
 			"name": "Latin Sports",
 			"image": "https://scontent.fnak1-1.fna.fbcdn.net/v/t1.0-9/602225_231079450365097_698333936_n.png?_nc_cat=108&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=pwMAxsRgzfAAX_qfAWw&_nc_ht=scontent.fnak1-1.fna&oh=9fa9d8ba8cd6899780636788e883b786&oe=5F6CD00A",
-			"url": "http://tiny.cc/latinsports01",
+			"url": "http://tiny.cc/latinsports",
 			"import": false
 		},		
 
@@ -84,7 +84,7 @@
 		{
 			"name": "USA",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/United_States_-_Rounded_Flag.svg/512px-United_States_-_Rounded_Flag.svg.png",
-			"url": "http://tiny.cc/usa01",
+			"url": "http://tiny.cc/usa001",
                         "import": false
 		},
 
