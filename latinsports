@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",M La Liga 
+http://lacalleochotv.org/la-liga-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/400px-Movistar_Liga_de_Campeones.svg.png",M Liga De Campeones 
+http://lacalleochotv.org/movistar-deportes-1-en-directo/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png",M Deportes 1
+http://lacalleochotv.org/bein-sports-gratis/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA
+http://lacalleochotv.org/espn-mas-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
+http://lacalleochotv.org/espn-hd-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/440px-Espn2.svg.png",ESPN 2
+http://lacalleochotv.org/espn-2-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png",ESPN 3
+http://lacalleochotv.org/espn3-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png",Fox Sports
+http://lacalleochotv.org/fox-sports-online-en-directo2-gratis/
+
+#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1.jpg",Fox Sports 2
+http://lacalleochotv.org/fox-sports-2-online-gratis/
+
+#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1-1.jpg",Fox Sports 3
+http://ttv.bz/live/nexgennnnn/TzGCKJYsl9/156.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg",GoL T 
+http://lacalleochotv.org/gol-tv-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/Gol_tv-logo-44D99F0B55-seeklogo.com.png",GoL TV
+http://telegratis.org/goltv/
+
+#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR-1024x256.png",TUDN
+http://lacalleochotv.org/tudn-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg",TVC Deportes
+http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
