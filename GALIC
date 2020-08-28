@@ -24,7 +24,7 @@
 		{
 			"name": "True Sports",
 			"image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-			"url": "http://tiny.cc/truesports01",
+			"url": "http://tiny.cc/truesports",
 			"import": false
 		},
 
@@ -33,7 +33,7 @@
 		{
 			"name": "Bein Sports",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bein_mediagroup_logo.png/200px-Bein_mediagroup_logo.png",
-			"url": "http://tiny.cc/beinsports01",
+			"url": "http://tiny.cc/beinsports",
 			"import": false
 		},
 		
