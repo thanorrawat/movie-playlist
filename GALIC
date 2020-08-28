@@ -1,829 +1,105 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
-https://www.we-play.tv/videos/digital-tv/ch5-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
-https://www.adintrend.tv/hd/m/ch11
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
-https://program.thaipbs.or.th/live
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV4 by ThaiPBS
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="http://live.parliament.go.th/images/logo-trans.png",TPTV
-http://live.parliament.go.th/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1267140826057998337/DLyFwcx0_400x400.jpg",TNN16
-https://www.tnnthailand.com/live
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",New TV
-https://www.adintrend.tv/hd/index.php?t=live&ch=30
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
-https://www.mvtv.co.th/channel/v2t2tv
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1215191170222919682/GVYbfGGB_400x400.jpg",Nation
-https://www.we-play.tv/videos/digital-tv/nationtv/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3cfa5ba8-74dd-43b6-b28c-aa0f129b8cc8-profile_image-300x300.png",WorkPoint
-https://www.we-play.tv/videos/digital-tv/workpoint/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1125650171776253953/CTYYDkQt_400x400.jpg",True4U
-https://true4u.com/live/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",GMM25
-https://www.we-play.tv/videos/digital-tv/gmm25/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
-https://www.thaich8.com/live?var_link=720p
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
-https://www.ballsoi8.com/live/?ch=mono29
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://pbs.twimg.com/profile_images/1163745549532581889/05rAfoNE_400x400.jpg",MCOT HD
-https://www.we-play.tv/videos/digital-tv/mcot-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://p16-sg-default.akamaized.net/aweme/720x720/tiktok-obj/1661962014374913.jpeg",ONE
-https://www.we-play.tv/videos/digital-tv/one-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png",Thairath
-https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
-https://www.we-play.tv/videos/digital-tv/ch3-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",Amarint TV
-https://www.we-play.tv/videos/digital-tv/amarin-tv/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
-https://www.we-play.tv/videos/digital-tv/ch7-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
-https://www.we-play.tv/videos/digital-tv/pptv-hd/
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",MVTV
-https://www.mvtv.co.th/channel/mvtv_home
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB DRAMA THAI
-https://www.mvtv.co.th/channel/tvb-drama-thai
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",บันเทิง100
-https://www.mvtv.co.th/channel/banteng100
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/2-4.jpg",V2H2
-https://www.mvtv.co.th/channel/v2t2tv
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",Mix Major 
-https://www.mvtv.co.th/channel/mix-major-channel
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MV Laos 
-https://www.mvtv.co.th/channel/mvlao-channel
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MVMyanmar 
-https://www.mvtv.co.th/channel/mvm
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",ไทบ้าน
-https://www.mvtv.co.th/channel/thaiban
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69TV
-https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",Happy TV
-https://www.mvtv.co.th/channel/happy-tv
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/9.jpg",V2H9
-https://www.mvtv.co.th/channel/v2h9
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/11.jpg",V2H11
-https://www.mvtv.co.th/channel/v2h11
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",สยาม
-https://www.mvtv.co.th/channel/siamchannel
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",ลิโด้
-https://www.mvtv.co.th/channel/lidochannell
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",สกาล่า
-https://www.mvtv.co.th/channel/sakalachannel
-
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",ราม่า
-https://www.mvtv.co.th/channel/ramachannel
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",True Music
-https://www.we-play.tv/videos/tv-entertainment/true-music-hd/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",True Film HD
-https://www.we-play.tv/videos/tv-entertainment/true-film-hd/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_THAIF.jpg",True Thai Film
-https://www.we-play.tv/videos/tv-entertainment/true-thai-film/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",True Asian Series
-https://www.we-play.tv/videos/tv-entertainment/true-asian-series-hd/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_XZYTE.jpg",True X Zyte
-https://www.we-play.tv/videos/tv-entertainment/true-x-zyte/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",Cinemax
-https://www.we-play.tv/videos/tv-entertainment/cinemax/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png",Warner Tv
-https://www.we-play.tv/videos/tv-entertainment/warner-tv/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",Paramount Channel
-https://www.we-play.tv/videos/tv-entertainment/paramount-channel/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
-https://www.we-play.tv/videos/tv-entertainment/hits-movies/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo_hits.png",Hits
-https://www.we-play.tv/videos/tv-entertainment/hits/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",Fox Thai
-https://www.we-play.tv/videos/tv-entertainment/fox-%E0%B9%84%E0%B8%97%E0%B8%A2/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FMP.jpg",Fox Movies Premium
-https://www.we-play.tv/videos/tv-entertainment/fox-movies-premium/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FAM.jpg",Fox Action Movies
-https://www.we-play.tv/videos/tv-entertainment/fox-action-movies/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg",Fox Crime
-https://www.we-play.tv/videos/tv-entertainment/fox-crime-th/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_FFM.jpg",Fox Family Movies
-https://www.we-play.tv/videos/tv-entertainment/fox-family-movies/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_51fox_life_asia.jpg",Fox Life
-https://www.we-play.tv/videos/tv-entertainment/fox-life/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",HBO HD
-https://www.we-play.tv/videos/tv-entertainment/hbo-hd/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO Hits
-https://www.we-play.tv/videos/tv-entertainment/hbo-hit/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",HBO RED
-https://www.we-play.tv/videos/tv-entertainment/red-by-hbo/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png",HBO Family
-https://www.we-play.tv/videos/tv-entertainment/hbo-family/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",HBO signature 
-https://www.we-play.tv/videos/tv-entertainment/hbo-signature/
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truexzyte.png",X-Zyte HD
-https://www.we-play.tv/videos/tv-entertainment/true-x-zyte/
-
-
-
-
-
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",True Premiere Football HD 1
-https://www.ballsoi8.com/live/?ch=epl1
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",True Premiere Football HD 2
-https://www.we-play.tv/videos/sport/%e0%b8%97%e0%b8%a3%e0%b8%b9-%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b9%8c-%e0%b8%9f%e0%b8%b8%e0%b8%95%e0%b8%9a%e0%b8%ad%e0%b8%a5-%e0%b9%80%e0%b8%ad%e0%b8%8a-2/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",True Premiere Football HD 3
-https://www.we-play.tv/videos/sport/%e0%b8%97%e0%b8%a3%e0%b8%b9-%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b9%8c-%e0%b8%9f%e0%b8%b8%e0%b8%95%e0%b8%9a%e0%b8%ad%e0%b8%a5-%e0%b9%80%e0%b8%ad%e0%b8%8a-3/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",True Premiere Football HD 4
-https://www.we-play.tv/videos/sport/%e0%b8%97%e0%b8%a3%e0%b8%b9-%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b9%8c-%e0%b8%9f%e0%b8%b8%e0%b8%95%e0%b8%9a%e0%b8%ad%e0%b8%a5-%e0%b9%80%e0%b8%ad%e0%b8%8a-4/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",True Premiere Football HD 5
-https://www.we-play.tv/videos/sport/%e0%b8%97%e0%b8%a3%e0%b8%b9-%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b9%8c-%e0%b8%9f%e0%b8%b8%e0%b8%95%e0%b8%9a%e0%b8%ad%e0%b8%a5-%e0%b9%80%e0%b8%ad%e0%b8%8a-5/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",True Sport HD
-https://www.we-play.tv/videos/sport/true-sport-hd/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",True Sport HD 2
-https://www.we-play.tv/videos/sport/true-sport-hd-2/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",True Sport HD 3
-https://www.we-play.tv/videos/sport/true-sport-hd-3/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",True Sport HD 4
-https://siammoviehd.com/835/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 2
-https://www.we-play.tv/videos/sport/true-sport-2/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5
-https://www.we-play.tv/videos/sport/true-sport-5/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 6
-https://www.we-play.tv/videos/sport/true-sport-6/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7
-https://www.we-play.tv/videos/sport/true-sport-7/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://fifa55u.com/images/icon/FOXSportsHD.png",Fox Sports HD
-https://www.we-play.tv/videos/sport/fox-sport-hd/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://fifa55u.com/images/icon/FOXSports2.png",Fox Sports 2
-https://www.we-play.tv/videos/sport/fox-sport-2/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3
-https://www.we-play.tv/videos/sport/fox-sport-3/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png",True Tennis
-https://www.we-play.tv/videos/sport/true-tennis/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://fifa55u.com/images/icon/GolfChannel.png",Golf Channel
-https://www.we-play.tv/videos/sport/golf-channel/
-
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png",NBA TV True
-https://www.we-play.tv/videos/sport/nba-tv/
-
-
-
-
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 1
-https://www.we-play.tv/videos/sport/bein1/
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/08/beINSportsCONNECT-620x290.jpg",TH Bein Spots 2
-https://www.we-play.tv/videos/sport/bein2/
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/100.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png",AR Bein 2
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/101.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png",AR Bein 3
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/102.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png",AR Bein 4
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/103.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png",AR Bein 5
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/104.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png",AR Bein 6
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/105.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png",AR Bein 7
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/106.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png",AR Bein 8
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/107.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png",AR Bein 9
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/108.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png",AR Bein 10
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/109.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN11-Small.png",AR Bein 11
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/110.ts
-
-#EXTINF:-1 group-title="BeinSports" tvg-logo="http://runnel.ir/ax/logo/beIN12-Small.png",AR Bein 12
-http://iptvtree.net:8080/live/valintina/b09c0423ae8a/111.ts
-
-
-
-
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",UK Sky Sports News
-https://edge-n1.worldwidetv.club/z_XoBI-rtLqkOhHURbhduw/1598285525/live-abr/uk-skysports-news/playlist.m3u8
- 
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",UK Sky Sports Main Event
-http://freestreams-live1.com/sky-sp-mainevent/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg", Sky Sports Premiere League 
-http://runnel.ir/tv/tv/sky-sports-premier-league-tv-1.php
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",Sky Sports Football
-http://freestreams-live1.com/skysportsfootball-uk/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",Sky Sports Golf
-http://freestreams-live1.com/skyspgolf/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
-http://freestreams-live1.com/skyspmix/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg",Sky Sports Action
-http://freestreams-live1.com/skyspaction/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg",Sky Sports Arena
-http://freestreams-live1.com/skysparena1/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg",Sky Sports Cricket
-http://freestreams-live1.com/skysportscricket/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg",Sky Sports F1
-http://freestreams-live1.com/sky-spf1/
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySportsRacing.png_1926146284.png",Sky Sports Racing
-http://freestreams-live1.com/skyspracing/
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="InterSports",BT SPORTS 1
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-1-hd/
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="InterSports",BT SPORTS 2
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-2-hd/
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="InterSports",BT SPORTS 3
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-3-hd/
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="InterSports",BT SPORTS Espn
-https://www.ballsoi8.com/live/?ch=btsportespn
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
-http://freestreams-live1.com/euro1hd-s2/
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
-http://runnel.ir/tv/tv/eurosport-uk-2-1.php
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1 group-title="InterSports" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE Network
-https://ustvgo.tv/wwe-network/
-
-#EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg" group-title="InterSports", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-discoveryeng.png",Discovery Channel 
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discovery History
-http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo
-http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History HD
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Nat Geo Graphic
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/nat-geo-wild/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Nat Geo People
-http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expwild.png",True Explore Wild TH
-http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expsci.png",True Explore Sci TH
-http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-explife.png",True Explore Life TH
-http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/
-
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
-
-
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",Outdoor Channel
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-
-#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",Gang Cartoon
-http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",Boomerang
-http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png" ,Boomerang 
-https://ustvgo.tv/boomerang/
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoon Network
-https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/cartoon-network/
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/320px-Disney_Channel_logo_%282014%29.svg.png" ,Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free/
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney XD
-https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/disney-xd/
-
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" ,Disney Junior
-http://myustv.com/watch/disney-junior/
-
-#EXTINF:-1 group-title="Kids"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr
-http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids"tvg-logo="http://tvsmagazine.com/images/channels/sm_NICK.jpg",Nickelodeon
-https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/nickelodeon/
-
-
-#EXTINF:-1 group-title="Kids"tvg-logo="http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",True Spark Jump
-https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/true-spark-jump/
-
-#EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png",CBeebies 
-http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",TOM & JERRY
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-
-#EXTINF:-1 group-title="Kids"tvg-logo="http://tubaani.com/wp-content/uploads/2016/10/03-parallax-front.png",LARVA
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC
-https://onvision.info/channels/abcnews.html
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png" ,CNN
-https://ustvgo.tv/cnn-live-streaming-free/
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",BBC News
-https://uk.easyview.eu/hls/nbcb.m3u8
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://themaydan.com/wp-content/uploads/2018/02/aljazeera.jpg",Al Jazeera HD
-https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" ,Fox News
-https://ustvgo.tv/fox-news-live-streaming-free/
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/440px-NBC_Peacock_1986.svg.png" ,NBC
-https://ustvgo.tv/nbc/
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://nowontv.info/img/bloomberg.png" ,Bloomberg TV
-https://onvision.info/channels/bloombergtv.html
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY400_.png" ,CBSN
-https://ustvgo.tv/cbs-live-streaming-free/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="World News",Sky News
-http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="World News" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/4/NHK_WORLD_TV_LOGO_webready.jpg",NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/29752dw.jpg" group-title="World News",DW News
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="World News",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://www.theknowledgeonline.com/files/lib/ckfinder/userfiles/images/BBC%20News%20logo%20220.jpg",BBC 1
-https://uk.easyview.eu/hls/bbc-london.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/400px-BBC_Two.svg.png",BBC 2
-https://uk.easyview.eu/hls/bbc-two.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/400px-BBC_Four.svg.png",BBC 4
-https://uk.easyview.eu/hls/bbc-four.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://www.comedy.co.uk/images/channels/bbc_one_wales.jpg",BBC 1 Wales
-https://uk.easyview.eu/hls/bbc-one-wales.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc1_scotland.jpg",BBC 1 Scotland 
-https://uk.easyview.eu/hls/bbc-one-scotland.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/BBC_One_Northern_Ireland.svg/1599px-BBC_One_Northern_Ireland.svg.png",BBC 1 N Ireland
-https://uk.easyview.eu/hls/bbc-one-northern-ireland.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",BBC News
-https://uk.easyview.eu/hls/nbcb.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/400px-BBC_Parliament_Logo.svg.png",BBC Parliament 
-https://uk.easyview.eu/hls/bbc-parliament.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Alba_%28new%29.svg/440px-BBC_Alba_%28new%29.svg.png",BBC Alba
-https://uk.easyview.eu/hls/bbc-alba.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png",CBeebies
-https://uk.easyview.eu/hls/cbeebies.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/400px-CBBC_2016_logo.svg.png",CBBC
-https://uk.easyview.eu/hls/cbbc.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Stwnsh_logo.png/220px-Stwnsh_logo.png",S4C
-https://uk.easyview.eu/hls/s4c.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png",ITV 2
-http://51.52.156.22:8888/http/005
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png",ITV 3
-http://51.52.156.22:8888/http/006
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png",ITV 4
-http://51.52.156.22:8888/http/007
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC
-https://ustvgo.tv/abc-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://seeklogo.com/images/A/amc-logo-AB7E62FB02-seeklogo.com.png",AMC
-https://ustvgo.tv/amc-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
-https://ustvgo.tv/animal-planet-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.seat42f.com/wp-content/uploads/2012/08/12000434/BBC-AMERICA-Logo.jpg",BBC America 
-https://ustvgo.tv/bbc-america-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png" ,Boomerang 
-https://ustvgo.tv/boomerang/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bravo_TV_%282017_Logo%29.png/318px-Bravo_TV_%282017_Logo%29.png" ,Bravo
-https://ustvgo.tv/bravo-channel-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY400_.png" ,CBSN
-https://ustvgo.tv/cbs-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" ,Cinemax
-https://ustvgo.tv/cinemax/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/175px-CMT_2017.png" ,CMT
-https://ustvgo.tv/cmt/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network
-https://ustvgo.tv/cartoon-network/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/301px-CNBC_logo.svg.png" ,CNBC
-https://ustvgo.tv/cnbc/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png" ,CNN
-https://ustvgo.tv/cnn-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Comedy_Central_Logo_2011_vertikal.png/313px-Comedy_Central_Logo_2011_vertikal.png" ,Comedy Central
-https://ustvgo.tv/comedy-central-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://pmctvline2.files.wordpress.com/2016/01/cw_logo_2016.png" ,CW
-https://ustvgo.tv/the-cw-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://1.bp.blogspot.com/-y9K-1m-84-g/T3zFyLrsCxI/AAAAAAAAEx4/HUPU-Ely2nQ/s280/Destination+America+logo+2012.jpg" ,Destination America
-https://ustvgo.tv/destination-america/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/320px-Disney_Channel_logo_%282014%29.svg.png" ,Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" ,Disney Junior
-http://myustv.com/watch/disney-junior/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/400px-Disney_XD_-_2015.svg.png" ,Disney XD
-https://ustvgo.tv/disneyxd/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/espn2-768x757.jpg" ,ESPN2
-https://ustvgo.tv/espn2/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" ,Food Network 
-https://ustvgo.tv/food-network-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://pmctvline2.files.wordpress.com/2015/12/fox-logo-620.jpg" ,Fox
-https://ustvgo.tv/fox-hd-live-streaming/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/640px-Fox_Business.svg.png" ,Fox Business
-https://ustvgo.tv/fox-business-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" ,Fox News
-https://ustvgo.tv/fox-news-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" ,Fox Sports 2
-https://ustvgo.tv/fox-sports-2/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png" ,FX
-https://ustvgo.tv/fx-channel-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/400px-FXM_Logo.svg.png" ,FXM
-https://ustvgo.tv/fxm/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/400px-FXX_Logo.svg.png" ,FXX
-https://ustvgo.tv/fxx/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/400px-Hallmark_Channel_logo.svg.png" ,Hallmark Channel 
-https://ustvgo.tv/hallmark-channel-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/400px-HGTV_2010.svg.png" ,HGTV
-https://ustvgo.tv/hgtv-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/300px-HLN_%28TV_network%29_2017_logo.svg.png" ,HLN
-https://ustvgo.tv/hln/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png" ,Hallmark Movies Mysteries
-https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/432px-Investigation_Discovery_Logo_2018.svg.png" ,Investigation Discovery
-https://ustvgo.tv/investigation-discovery-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/280px-MLBNetworkLogo.svg.png" ,MLB Network 
-https://ustvgo.tv/mlb-network/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/motortrend.png" ,Moto Trend
-https://ustvgo.tv/motortrend/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/msnbc-logo-card.png" ,MSNBC
-https://ustvgo.tv/msnbc/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/400px-MTV_Logo_2010.svg.png" ,MTV
-https://ustvgo.tv/mtv/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png" ,NAT GEO WILD
-https://ustvgo.tv/nat-geo-wild-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/440px-NBC_Peacock_1986.svg.png" ,NBC
-https://ustvgo.tv/nbc/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/langfr-500px-NBC_Sports_Network_logo.svg.png" ,NBCSN
-https://ustvgo.tv/nbcsn/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://s30113.pcdn.co/wp-content/uploads/2019/04/p1cn94jnn71572imu1d9614ot9sd7.png" ,NFL network 
-https://ustvgo.tv/nfl-network-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo-768x230.png" ,Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1159.1405279210.png" ,Nicktoons
-https://ustvgo.tv/nicktoons/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/440px-PBS_logo.svg.png" ,PBS
-https://ustvgo.tv/pbs-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pop_Network_Logo.png/220px-Pop_Network_Logo.png" ,POP
-https://ustvgo.tv/pop/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/200px-Science_Channel_2016.png" ,Science
-https://ustvgo.tv/science/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://cordcutting.com/wp-content/uploads/2016/05/starz-logo.png" ,Starz
-https://ustvgo.tv/starz-channel-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.pngitem.com/pimgs/m/74-746398_sundance-channel-logos-hd-png-download.png" ,Sundance
-https://ustvgo.tv/sundance-tv/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/440px-Syfy.svg.png" ,SYFY
-https://ustvgo.tv/syfy-channel-live/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png" ,TBS
-https://ustvgo.tv/tbs-channel-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/440px-Telemundo_logo_2018.svg.png" ,Telemundo
-https://ustvgo.tv/telemundo/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" ,TLC
-https://ustvgo.tv/tlc-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.iinfo.cz/images/78/travel-channel-hd-logo-2013-1.jpg" ,Travel Channel
-https://ustvgo.tv/travel-channel-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/400px-TruTV_2014.svg.png" ,TruTV
-https://ustvgo.tv/trutv/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/440px-TV_Land_2015_logo.svg.png" ,TV Land
-https://ustvgo.tv/tv-land-live-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.hostapk.com/wp-content/uploads/2018/12/The-Weather-Channel.png" ,The Weather Channel
-https://ustvgo.tv/the-weather-channel-live-streaming-free/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/400px-Logo_Univision_2019.svg.png" ,Univision
-https://ustvgo.tv/univision/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.wwe.com/f/wwe_blackbg_whitered.jpg",WWE Network
-https://ustvgo.tv/wwe-network/
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png" ,Yes Network
-https://ustvgo.tv/yes-network/
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png" group-title="LatinSports",M La Liga 
-http://lacalleochotv.org/la-liga-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/400px-Movistar_Liga_de_Campeones.svg.png" group-title="LatinSports",M Liga De Campeones 
-http://lacalleochotv.org/movistar-deportes-1-en-directo/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" group-title="LatinSports",M Deportes 1
-http://lacalleochotv.org/bein-sports-gratis/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="LatinSports",ESPN EXTRA
-http://lacalleochotv.org/espn-mas-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="LatinSports",ESPN HD
-http://lacalleochotv.org/espn-hd-online-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/440px-Espn2.svg.png" group-title="LatinSports",ESPN 2
-http://lacalleochotv.org/espn-2-online-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="LatinSports",ESPN 3
-http://lacalleochotv.org/espn3-online-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png" group-title="LatinSports",Fox Sports
-http://lacalleochotv.org/fox-sports-online-en-directo2-gratis/
-
-#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1.jpg" group-title="LatinSports",Fox Sports 2
-http://lacalleochotv.org/fox-sports-2-online-gratis/
-
-#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1-1.jpg" group-title="LatinSports",Fox Sports 3
-http://ttv.bz/live/nexgennnnn/TzGCKJYsl9/156.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg" group-title="LatinSports",GoL T 
-http://lacalleochotv.org/gol-tv-online-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/Gol_tv-logo-44D99F0B55-seeklogo.com.png" group-title="LatinSports",GoL TV
-http://telegratis.org/goltv/
-
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR-1024x256.png" group-title="LatinSports",TUDN
-http://lacalleochotv.org/tudn-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg" group-title="LatinSports",TVC Deportes
-http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
-
-
-
-
-
-#EXTINF:-1 group-title="27.08.20" tvg-logo="http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg" ,แอนดรอยด์แอพฟรี
-https://androidtvtech.blogspot.com
+{
+	"name": "WiseplayByGarlic",
+	"author": Youtubeแอนดรอยด์แอพฟรี",
+	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+	"url": "https://androidtvtech.blogspot.com/",
+	"groups": [
+	
+
+	{
+			"name": "Thai TV",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
+			"url": "http://tiny.cc/wiseplay",
+			"import": false
+		},	
+
+		{
+			"name": "Entertainment",
+			"image": "https://pbs.twimg.com/profile_images/892744367449964544/TTPUoKHv_400x400.jpg",
+			"url": "http://tiny.cc/entertainment",
+			"import": false
+		},
+
+
+		{
+			"name": "True Sports",
+			"image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+			"url": "http://tiny.cc/truesports",
+			"import": false
+		},
+
+					
+		
+		{
+			"name": "Bein Sports",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bein_mediagroup_logo.png/200px-Bein_mediagroup_logo.png",
+			"url": "http://tiny.cc/beinsports",
+			"import": false
+		},
+		
+		{
+			"name": "World Sports",
+			"image": "https://bizimages.withfloats.com/actual/5c45e8e61ba77d0001198050.jpg",
+			"url": "http://tiny.cc/worldsports",
+			"import": false
+		},
+
+		{
+			"name": "Latin Sports",
+			"image": "https://scontent.fnak1-1.fna.fbcdn.net/v/t1.0-9/602225_231079450365097_698333936_n.png?_nc_cat=108&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=pwMAxsRgzfAAX_qfAWw&_nc_ht=scontent.fnak1-1.fna&oh=9fa9d8ba8cd6899780636788e883b786&oe=5F6CD00A",
+			"url": "http://tiny.cc/latinsports",
+			"import": false
+		},		
+
+{
+			"name": "สารคดี",
+			"image": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_documentary.svg/279px-Logo_documentary.svg.png",
+			"url": "http://tiny.cc/docs",
+			"import": false
+		},
+		
+{
+			"name": "Kids",
+			"image": "https://images.megapixl.com/4907/49070655.jpg",
+			"url": "http://tiny.cc/kids",
+			"import": false
+		},
+
+		{
+			"name": "Worldnews",
+			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d77a6343106623.57e3765daad26.jpg",
+			"url": "http://tiny.cc/worldnews",
+			"import": false
+		},	
+
+		{
+			"name": "UK",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/640px-Flag_of_the_United_Kingdom_%282-3%29.svg.png",
+			"url": "http://tiny.cc",
+			"import": false
+		},	
+
+
+
+		{
+			"name": "USA",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/United_States_-_Rounded_Flag.svg/512px-United_States_-_Rounded_Flag.svg.png",
+			"import": false
+		},
+
+
+	{
+			"name": "30-08-20",
+			"image": "https://www.vippng.com/png/detail/82-825404_excerptweek-update-update-stamp-png.png",
+			"url": "https://androidtvtech.blogspot.com",
+			"import": false
+		},			
+	
+        
+				
+			]
+		},
+		
+		
+    ]
+}
