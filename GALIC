@@ -53,7 +53,7 @@
 
 {
 			"name": "Documentary",
-			"image": "https://www.cbc.ca/documentarychannel/content/images/docchannel_logo.png",
+			"image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
 			"url": "http://tiny.cc/docs01",
 			"import": false
 		},
