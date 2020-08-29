@@ -7,7 +7,7 @@ https://www.we-play.tv/videos/digital-tv/ch5-hd/
 https://www.adintrend.tv/hd/m/ch11
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
-https://program.thaipbs.or.th/live
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV4 by ThaiPBS
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
