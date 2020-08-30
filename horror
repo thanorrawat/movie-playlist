@@ -1,12 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg" ,เฮียคลั่ง! ดับเครื่องชน 2020
+#EXTINF:-1 tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/08/Train-to-Busan-2.jpg" ,Peninsula 2020
+https://lh3.googleusercontent.com/IdH0rN2uSARrNJjHVXmhMeGrzPR0zGBd9i59hp93r8paamssIxL9Utm79vq9lq2aESYBPnIMLD4S0ZDWJlxwJOoaW4RZRj05PPqGmaO5Hiz_RpMnXVu8DOqhjALt1ypGHCuMv4OUhw=dv
+
+#EXTINF:-1 tvg-logo="http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg" ,Unhinged 2020
 https://lb1.one3up.com/hls/6dd3b53f67597b036b7b20c47437e761/6dd3b53f67597b036b7b20c47437e761.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/06/The-Hunt-2020-300x450.png" ,The Hunt 2020
 https://cdn.livedoomovies.com/hls/020acfe1c8eff1fd871b860beaaafbc8/020acfe1c8eff1fd871b860beaaafbc8.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,แค้นลั่นนรก 2019
+#EXTINF:-1 tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,Cold Pursuit 2019
 https://lb1.one3up.com/hls/b1a65ea4b26ec264f94349f44388377b/b1a65ea4b26ec264f94349f44388377b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/What_Keeps_You_Alive.png" ,What Keeps You Alive 2018
@@ -21,16 +24,16 @@ https://lb1.one3up.com/hls/6efcae45b5560a643c872435a63acae0/6efcae45b5560a643c87
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/417/053/000/ovpe52l6kni8J4Y40hY-o.jpg" ,Killing Ground 2016
 https://lb1.one3up.com/hls/a310920b00093fe3daff79082e94b676/a310920b00093fe3daff79082e94b676.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b69e4be561f722bfe841d0de8d269dd3.jpg" ,หาดนรก สาปสวรรค์ 2008
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b69e4be561f722bfe841d0de8d269dd3.jpg" ,Eden Lake 2008
 https://lb1.one3up.com/hls/a97af96c3275ce28dda1eb0b7910c3c5/a97af96c3275ce28dda1eb0b7910c3c5.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.pimg.tw/always1027/1438843014-3230013114_wn.jpg" ,The Ruins 2008
 https://lb1.one3up.com/hls/be9604b4ca41d7260e299398042c9a2f/be9604b4ca41d7260e299398042c9a2f.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_SX178_AL_.jpg" ,โชคดีที่ตายก่อน 2006
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_SX178_AL_.jpg" ,The Hills Have Eyes 2006
 https://lb1.one3up.com/hls/03ea0dae46684a4102102405e65aabf2/03ea0dae46684a4102102405e65aabf2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/HHE2DomTeaserPoster.jpg/220px-HHE2DomTeaserPoster.jpg" ,โชคดีที่ตายก่อน 2 2007
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/HHE2DomTeaserPoster.jpg/220px-HHE2DomTeaserPoster.jpg" ,The Hills Have Eyes 2 2007
 https://lb1.one3up.com/hls/645cfcc93051efec3c955748b6f16736/645cfcc93051efec3c955748b6f16736.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Wolfcreek.png/220px-Wolfcreek.png" ,Wolf Creek 2005
@@ -45,13 +48,13 @@ https://lb1.one3up.com/hls/da1584080f156a51661a4ab6be367798/da1584080f156a51661a
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY264_CR0,0,178,264_AL_.jpg" ,Dawn Of The Dead 2004
 https://lb1.one3up.com/hls/b88ea5f807b44516994f0dc8dd87f46f/b88ea5f807b44516994f0dc8dd87f46f.m3u8
 
-#EXTINF:-1 tvg-logo="http://topicstock.pantip.com/chalermthai/topicstock/2007/03/A5191421/A5191421-svote2.jpg" ,นรกรอชำแหละ 1 2005
+#EXTINF:-1 tvg-logo="http://topicstock.pantip.com/chalermthai/topicstock/2007/03/A5191421/A5191421-svote2.jpg" ,Hostel part I 2005
 https://lb1.one3up.com/hls/bbbc704454080645089e344c1cd4edf6/bbbc704454080645089e344c1cd4edf6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vojkuhd.com/wp-content/uploads/2016/12/Hostel-2-Part-II-2007-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%8A%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%B0-2.jpg" ,นรกรอชำแหละ 2 2007
+#EXTINF:-1 tvg-logo="https://www.vojkuhd.com/wp-content/uploads/2016/12/Hostel-2-Part-II-2007-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%8A%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%B0-2.jpg" ,Hostel part II 2007
 https://lb1.one3up.com/hls/16fcc5bb2f2c26e477d7b348b9ae64e7/16fcc5bb2f2c26e477d7b348b9ae64e7.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.horrorphilia.com/wp-content/uploads/2012/01/Hostel-3-BD.jpg" ,นรกรอชำแหละ 3 2011
+#EXTINF:-1 tvg-logo="https://www.horrorphilia.com/wp-content/uploads/2012/01/Hostel-3-BD.jpg" ,Hostel part III 2011
 https://lb1.one3up.com/hls/288ca5ceb9a4522d843eb44271e9de9c/288ca5ceb9a4522d843eb44271e9de9c.m3u8
 
 #EXTINF:-1 tvg-logo="https://movie285.com/wp-content/uploads/2019/08/1431.jpg" ,Wrong Turn 1 2003
