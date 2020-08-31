@@ -30,6 +30,15 @@ https://lb1.one3up.com/hls/6efcae45b5560a643c872435a63acae0/6efcae45b5560a643c87
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/417/053/000/ovpe52l6kni8J4Y40hY-o.jpg" ,Killing Ground 2016
 https://lb1.one3up.com/hls/a310920b00093fe3daff79082e94b676/a310920b00093fe3daff79082e94b676.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNjMmM5OTYtYmY0Ny00ZTNjLWEyNGYtYTBiYWEwMTRkZDFlXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX178_AL_.jpg" ,Preservation 2014
+https://cloudfront.tubi.video/1183a8ef-8a63-4fed-99a4-b1e00dae5e28/bafek3snkq.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjMwYTVkYi1hYjVlLTRmZWUtODk1ZC0wZTM5ZTY5ZWQyZGMiLCJleHAiOjE1OTkwOTIzNDMsInBsYXRmb3JtIjoiV0VCIiwidXNlcl9pZCI6MH0.Q701JgK049AbYKS_etiYmKDhioUdgPbZHEcXDEWoEOk
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MTA2MTQ0Ml5BMl5BanBnXkFtZTgwMzkxNTAwOTE@._V1_SX178_AL_.jpg" ,Carnage Park 2016
+https://ww5.fmovie.sc/online/carnage-park-2016/watching.html/?ep=7
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjkyZTU5OWQtOTZiMy00NzdmLWE4ODgtNmRkZTE2MTZmYWI3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY264_CR0,0,178,264_AL_.jpg" ,Rust Creek 2018
+https://ww5.fmovie.sc/online/rust-creek-2018/watching.html/?ep=7
+
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b69e4be561f722bfe841d0de8d269dd3.jpg" ,Eden Lake 2008
 https://lb1.one3up.com/hls/a97af96c3275ce28dda1eb0b7910c3c5/a97af96c3275ce28dda1eb0b7910c3c5.m3u8
 
