@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://s.isanook.com/mv/0/ud/11/58009/5.jpg" ,Cabin Fever 2016
+https://ww5.fmovie.sc/online/cabin-fever-2016/watching.html/?ep=10
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiM2FhOTUtZTE4My00ZDNlLWEyZWItZDBiNDFjZDk2MWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY264_CR0,0,178,264_AL_.jpg" ,Dead Snow 2009
+https://ww5.fmovie.sc/online/dead-snow-2009/watching.html/?ep=7
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2MTEwOTcwOF5BMl5BanBnXkFtZTgwMDEzMjM2MjE@._V1_SY264_CR0,0,178,264_AL_.jpg" ,Dead Snow 2 2014
+https://ww5.fmovie.sc/online/dead-snow-2-2014/watching.html/?ep=7
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMTM4MDAwOF5BMl5BanBnXkFtZTcwODcyMDIzMg@@._V1_SY264_CR0,0,178,264_AL_.jpg" ,The Last House on the Left 2009
+https://lb1.one3up.com/hls/7402c9e058d3bcd8d7c5053b7da0e822/7402c9e058d3bcd8d7c5053b7da0e822.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzMzI0OTgwM15BMl5BanBnXkFtZTgwMzU5ODQxMDE@._V1_SY264_CR4,0,178,264_AL_.jpg" ,No One Lives 2012
+https://lb1.one3up.com/hls/0292abca381e49717a4b5eeb2aa5f9e4/0292abca381e49717a4b5eeb2aa5f9e4.m3u8
+
 #EXTINF:-1 tvg-logo="https://movie285.com/wp-content/uploads/2019/06/748.jpg" ,Desierto 2015
 https://lb3.cherry1688.com/view/ba65d985-e032-5f92-96eb-097115c08b84.txt
 
