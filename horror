@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.movie2mee.com/wp-content/uploads/2020/08/Cold-Blood-202x300.jpg" ,Cold Blood 2019
+https://lb1.one3up.com/hls/f9a9871d43734dd0d4bccd26167dfe8c/f9a9871d43734dd0d4bccd26167dfe8c.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/08/7e70f0d8147a6f5808dc9f46c256712f.jpg" ,Hell Fest 2018
+https://lb1.one3up.com/hls/ed747bb4915129fa6a0744aff938c2de/ed747bb4915129fa6a0744aff938c2de.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/08/The-Furies.jpg" ,The Furies 2019
+https://ww5.fmovie.sc/online/the-furies-2019/watching.html/?ep=7
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZhZjJlNzMtZmVlNi00MTIxLTg3OTMtMTI2NTVkYWQ4NDQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY264_CR0,0,178,264_AL_.jpg" ,Revenge 2018
+https://lb1.one3up.com/hls/0c7cd779272e2ed869923a3ae5595d52/0c7cd779272e2ed869923a3ae5595d52.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2YTZmMjYtZDUwYi00NTc1LTlkMjAtM2ViZDkzOTlhNGNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX178_AL_.jpg" ,Truth Or Dare 2018
+https://ww5.fmovie.sc/online/truth-or-dare-2018/watching.html/?ep=7
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM0M2Y5MGItNzhiMC00OWJjLTlkMGQtMTVjOGQ4YzliODBhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY264_CR0,0,178,264_AL_.jpg" ,Low Tide 2019
 https://ww5.fmovie.sc/online/low-tide-2019/watching.html/?ep=7
