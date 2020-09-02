@@ -51,5 +51,8 @@ http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-5-star.jpg",5STAR
 https://easyview.eu/watch.php?stream=5star
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/250px-Gold_2014.svg.png",GOLD
+https://easyview.eu/watch.php?stream=gold
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2322957758/met3raagu330cu8mbj69_400x400.jpeg",4SEVEN
 https://easyview.eu/watch.php?stream=4seven
