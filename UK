@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.theknowledgeonline.com/files/lib/ckfinder/userfiles/images/BBC%20News%20logo%20220.jpg",BBC 1
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1041.1406401993.png",BBC 1
 https://uk.easyview.eu/hls/bbc-london.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/400px-BBC_Two.svg.png",BBC 2
