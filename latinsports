@@ -9,6 +9,9 @@ http://lacalleochotv.org/bein-sports-gratis/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png",M Deportes 1
 http://lacalleochotv.org/movistar-deportes-1-en-directo/
 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espndeportes.png",ESPN Deportes
+http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/8881
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA
 http://lacalleochotv.org/espn-mas-online-en-directo/
 
@@ -18,7 +21,7 @@ http://lacalleochotv.org/espn-hd-online-en-directo-gratis/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/440px-Espn2.svg.png",ESPN 2
 http://lacalleochotv.org/espn-2-online-en-directo-gratis/
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png",ESPN 3
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1706904.jpg",ESPN 3
 http://lacalleochotv.org/espn3-online-en-directo-gratis/
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png",Fox Sports
@@ -41,6 +44,9 @@ http://lacalleochotv.org/tudn-online-en-directo/
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg",TVC Deportes
 http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/220px-Aztecadeporteslogo.png",AZTECA DEPORTES
+http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/9891
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports.png",LATINO | DIRECTV SPORTS
 http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65970
