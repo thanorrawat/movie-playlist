@@ -48,6 +48,15 @@ http://lacalleochotv.org/tyc-sports-online-en-directo/
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg",TVC Deportes
 http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
 
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/cb/13/4b/cb134b11-cf3f-fba0-7aba-a0c0a64b6ad3/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.png",TNT Sports
+http://lacalleochotv.org/tnt-sports-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://showtime.sgp1.cdn.digitaloceanspaces.com/media/uploaded/icon/golf_channel-logo.jpg",Golf Channel
+http://lacalleochotv.org/golf-channel-latino-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://www.ilovesatellitetv.com/images/fuel-tv.jpg",FUEL TV
+http://lacalleochotv.org/fuel-tv-online-en-directo/
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports.png",LATINO | DIRECTV SPORTS
 http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65970
 
@@ -56,3 +65,6 @@ http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65968
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports_Plus.png",LATINO | DIREC TV PLUS
 http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65969
+
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/espnarg-1.jpg",ESPN Argentina
+http://lacalleochotv.org/espn-argentina-en-directo/
