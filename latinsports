@@ -9,9 +9,6 @@ http://lacalleochotv.org/bein-sports-gratis/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png",M Deportes 1
 http://lacalleochotv.org/movistar-deportes-1-en-directo/
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espndeportes.png",ESPN Deportes
-http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/8881
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA
 http://lacalleochotv.org/espn-mas-online-en-directo/
 
@@ -56,12 +53,3 @@ http://lacalleochotv.org/golf-channel-latino-online-en-directo/
 
 #EXTINF:-1 tvg-logo="https://www.ilovesatellitetv.com/images/fuel-tv.jpg",FUEL TV
 http://lacalleochotv.org/fuel-tv-online-en-directo/
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports.png",LATINO | DIRECTV SPORTS
-http://runnel.ir/tv/tv/directv-sports-1-2.php
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports_2.png",LATINO | DIRECTV SPORTS 2
-http://runnel.ir/tv/tv/directv-sports-2-1.php
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports_Plus.png",LATINO | DIREC TV PLUS
-http://runnel.ir/tv/tv/directv-sports-plus-1.php
