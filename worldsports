@@ -56,3 +56,7 @@ https://ustvgo.tv/wwe-network/
 
 #EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png", Olympic Channel 
+http://azrotv.com/iphone/En/ch/olympic.php
