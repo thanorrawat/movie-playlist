@@ -9,6 +9,9 @@ http://lacalleochotv.org/bein-sports-gratis/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png",M Deportes 1
 http://lacalleochotv.org/movistar-deportes-1-en-directo/
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",ESPN Deportes
+https://www.televisiongratishd.com/live2/espndeportes1.php
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA
 http://lacalleochotv.org/espn-mas-online-en-directo/
 
