@@ -9,31 +9,31 @@ http://lacalleochotv.org/bein-sports-gratis/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png",M Deportes 1
 http://lacalleochotv.org/movistar-deportes-1-en-directo/
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",ESPN Deportes
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-Deportes.png",ESPN Deportes
 https://www.televisiongratishd.com/live2/espndeportes1.php
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-Plus.png",ESPN Plus
 http://lacalleochotv.org/espn-mas-online-en-directo/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-TV_logo.png",ESPN HD
 http://lacalleochotv.org/espn-hd-online-en-directo-gratis/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/440px-Espn2.svg.png",ESPN 2
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-2-TV_logo.png",ESPN 2
 http://lacalleochotv.org/espn-2-online-en-directo-gratis/
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1706894.png",ESPN 3
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-3-TV_logo.png",ESPN 3
 http://lacalleochotv.org/espn3-online-en-directo-gratis/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/640px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",Fox Sports Premium
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Fox_Sports_Premium_Logo.png",Fox Sports Premium
 https://www.televisiongratishd.com/live2/foxsportspremium1.php
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png",Fox Sports
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Fox-Sports-Logo.png",Fox Sports
 http://lacalleochotv.org/fox-sports-online-en-directo2-gratis/
 
-#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1.jpg",Fox Sports 2
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Fox-Sports-2-Logo-2.png",Fox Sports 2
 http://lacalleochotv.org/fox-sports-2-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://siammoviehd.com/wp-content/uploads/2020/06/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-1-1.jpg",Fox Sports 3
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-3-TV_logo.png",Fox Sports 3
 https://www.televisiongratishd.com/live2/foxsports31.php
 
 #EXTINF:-1 tvg-logo="https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg",GoL T 
