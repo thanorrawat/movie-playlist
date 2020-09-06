@@ -45,8 +45,11 @@ https://www.liveballsod.com/tv-online/ch091/
 #EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
 https://cricfree.stream/euro-sport-live-streaming
 
-#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/eurosport4k.png",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
+https://cricfree.stream/euro-sport-2-live-streaming
 
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
