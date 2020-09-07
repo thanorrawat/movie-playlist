@@ -102,7 +102,7 @@
         "image": "https://us.123rf.com/450wm/duug/duug1206/duug120600003/13966994-sport-logo.jpg",
         "stations": [
 
-       {
+         {
              "name": "WheresTheMatch",  
              "image": "https://www.wheresthematch.com/images/wtm-menu-logo.png",  
              "url": "https://www.wheresthematch.com/",
@@ -112,6 +112,18 @@
  
            },
  
+
+         {
+             "name": "Live Guide",  
+             "image": "http://www.4androidapk.com/data/programs/images/live-sports-tv-listings-guide_40783.png",  
+             "url": "https://sport-tv-guide.live/",
+             "embed": "true",
+             "playInNatPlayer": "true",
+             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ 
+           },
+
+
 				
 
 	       ]
