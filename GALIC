@@ -6,7 +6,55 @@
 	"groups": [
 	
 
-	{
+
+         {
+        "name": "ไกด์ดูกีฬา",
+        "image": "https://us.123rf.com/450wm/duug/duug1206/duug120600003/13966994-sport-logo.jpg",
+        "stations": [
+
+          {
+             "name": "เช็คไลฟ์-เว็บไทย",  
+             "image": "https://sv1.picz.in.th/images/2020/08/28/EyhaIR.jpg",  
+             "url": "https://www.chklive.com",
+             "embed": "true",
+             "playInNatPlayer": "true",
+             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ 
+           },
+ 
+
+         {
+             "name": "Live Guide",  
+             "image": "http://www.4androidapk.com/data/programs/images/live-sports-tv-listings-guide_40783.png",  
+             "url": "https://sport-tv-guide.live/",
+             "embed": "true",
+             "playInNatPlayer": "true",
+             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ 
+           },
+				
+
+         {
+             "name": "WheresTheMatch",  
+             "image": "https://www.wheresthematch.com/images/wtm-menu-logo.png",  
+             "url": "https://www.wheresthematch.com/",
+             "embed": "true",
+             "playInNatPlayer": "true",
+             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ 
+           },
+
+
+
+	       ]
+
+	},	
+
+
+
+
+
+	        {
 			"name": "Thai TV",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
 			"url": "http://tiny.cc/thaitv01",
@@ -19,6 +67,23 @@
 			"url": "http://tiny.cc/entertainment01",
 			"import": false
 		},
+
+               {
+			"name": "Documentary",
+			"image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
+			"url": "http://tiny.cc/docs01",
+			"import": false
+		},
+		
+               {
+			"name": "Kids",
+			"image": "https://images.megapixl.com/4907/49070655.jpg",
+			"url": "http://tiny.cc/kids01",
+			"import": false
+		},
+
+
+
 
 
 		{
@@ -51,19 +116,6 @@
 			"import": false
 		},		
 
-{
-			"name": "Documentary",
-			"image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
-			"url": "http://tiny.cc/docs01",
-			"import": false
-		},
-		
-{
-			"name": "Kids",
-			"image": "https://images.megapixl.com/4907/49070655.jpg",
-			"url": "http://tiny.cc/kids01",
-			"import": false
-		},
 
 		{
 			"name": "Worldnews",
@@ -97,38 +149,7 @@
 		},		
 
 
-         {
-        "name": "ไกด์ดูกีฬา",
-        "image": "https://us.123rf.com/450wm/duug/duug1206/duug120600003/13966994-sport-logo.jpg",
-        "stations": [
 
-         {
-             "name": "WheresTheMatch",  
-             "image": "https://www.wheresthematch.com/images/wtm-menu-logo.png",  
-             "url": "https://www.wheresthematch.com/",
-             "embed": "true",
-             "playInNatPlayer": "true",
-             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
- 
-           },
- 
-
-         {
-             "name": "Live Guide",  
-             "image": "http://www.4androidapk.com/data/programs/images/live-sports-tv-listings-guide_40783.png",  
-             "url": "https://sport-tv-guide.live/",
-             "embed": "true",
-             "playInNatPlayer": "true",
-             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
- 
-           },
-
-
-				
-
-	       ]
-
-	},	
 		
 		
     ]
