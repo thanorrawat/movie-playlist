@@ -97,9 +97,14 @@
 		},		
 
 
+         {
+        "name": "ไกด์ดูกีฬา",
+        "image": "https://us.123rf.com/450wm/duug/duug1206/duug120600003/13966994-sport-logo.jpg",
+        "stations": [
+
        {
-             "name": "ไกด์ดูกีฬา",  
-             "image": "https://sv1.picz.in.th/images/2020/08/28/EyhaIR.jpg",  
+             "name": "WheresTheMatch",  
+             "image": "https://www.wheresthematch.com/images/wtm-menu-logo.png",  
              "url": "https://www.wheresthematch.com/",
              "embed": "true",
              "playInNatPlayer": "true",
@@ -107,7 +112,11 @@
  
            },
  
-	
+				
+
+	       ]
+
+	},	
 		
 		
     ]
