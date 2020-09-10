@@ -9,6 +9,21 @@ http://lacalleochotv.org/bein-sports-gratis/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png",M Deportes 1
 http://lacalleochotv.org/movistar-deportes-1-en-directo/
 
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV1-Small.png",Sport TV 1 Portugal
+http://runnel.ir/tv/tv/sport.tv-1-1.php
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV2-Small.png",Sport TV 2 Portugal
+http://runnel.ir/tv/tv/sport.tv-2-1.php
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV3-Small.png",Sport TV 3 Portugal
+
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV4-Small.png",Sport TV 4 Portugal
+
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png",Sport TV 5 Portugal
+
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/ESPN-Deportes.png",ESPN Deportes
 https://www.televisiongratishd.com/live2/espndeportes1.php
 
