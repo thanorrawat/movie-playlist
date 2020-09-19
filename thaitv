@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
-https://www.we-play.tv/videos/digital-tv/ch5-hd/
+https://bettopfivemovie.com/tv5hd1/
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
-https://www.adintrend.tv/hd/m/ch11
+https://bettopfivemovie.com/nbt2hd/
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
@@ -19,49 +19,49 @@ http://live.parliament.go.th/
 https://www.tnnthailand.com/live
 
 #EXTINF:-1 tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",New TV
-https://www.adintrend.tv/hd/index.php?t=live&ch=30
+https://bettopfivemovie.com/new18/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
 https://www.mvtv.co.th/channel/v2t2tv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215191170222919682/GVYbfGGB_400x400.jpg",Nation
-https://www.we-play.tv/videos/digital-tv/nationtv/
+https://bettopfivemovie.com/nationtv-22/
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3cfa5ba8-74dd-43b6-b28c-aa0f129b8cc8-profile_image-300x300.png",WorkPoint
-https://www.we-play.tv/videos/digital-tv/workpoint/
+https://bettopfivemovie.com/workpoint-tv/
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1125650171776253953/CTYYDkQt_400x400.jpg",True4U
 https://true4u.com/live/
 
 #EXTINF:-1 tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",GMM25
-https://www.we-play.tv/videos/digital-tv/gmm25/
+https://bettopfivemovie.com/gmm25/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
-https://www.thaich8.com/live?var_link=720p
+https://bettopfivemovie.com/ch8/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
-https://www.ballsoi8.com/live/?ch=mono29
+https://bettopfivemovie.com/mono-29/
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1163745549532581889/05rAfoNE_400x400.jpg",MCOT HD
-https://www.we-play.tv/videos/digital-tv/mcot-hd/
+https://bettopfivemovie.com/9-mcot/
 
 #EXTINF:-1 tvg-logo="https://p16-sg-default.akamaized.net/aweme/720x720/tiktok-obj/1661962014374913.jpeg",ONE
-https://www.we-play.tv/videos/digital-tv/one-hd/
+https://bettopfivemovie.com/one31/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png",Thairath
-https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
+https://bettopfivemovie.com/thairathtv/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
-https://www.ballsoi8.com/live/?ch=3hd
+https://bettopfivemovie.com/ch3-hd/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",Amarint TV
-https://www.we-play.tv/videos/digital-tv/amarin-tv/
+https://bettopfivemovie.com/amarin-tv-hd/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
-https://www.we-play.tv/videos/digital-tv/ch7-hd/
+https://bettopfivemovie.com/ch7hd/
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
-https://www.we-play.tv/videos/digital-tv/pptv-hd/
+https://bettopfivemovie.com/pptv-hd-36/
 
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",MVTV
 https://www.mvtv.co.th/channel/mvtv_home
