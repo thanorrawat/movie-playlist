@@ -7,19 +7,19 @@ https://www.we-play.tv/videos/sport/bein1/
 https://www.we-play.tv/videos/sport/bein2/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",Bein Sports USA
-https://espn-live.stream/stream/68949.html
+https://live-golf.stream/stream/68949.html
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",Bein Sports Ñ
-https://espn-live.stream/stream/69175.html
+https://live-golf.stream/stream/69175.html
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",Bein Sports Español 
-https://espn-live.stream/stream/68950.html
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",Bein Sports Extra
+https://live-golf.stream/stream/68718.html
 
 #EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",Bein Sports La Liga 
-https://espn-live.stream/stream/69176.html
+https://live-golf.stream/stream/69176.html
 
 #EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",Bein Sports La Liga en Español
-https://espn-live.stream/stream/69177.html
+https://live-golf.stream/stream/69177.html
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",AR Bein 1
 http://ok2.se:8000/superman/12345/4814
