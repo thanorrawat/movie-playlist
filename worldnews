@@ -25,7 +25,7 @@ https://onvision.info/channels/bloombergtv.html
 https://ustvgo.tv/cbs-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",Sky News
-http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
+https://onvision.info/channels/skynews.html
 
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/4/NHK_WORLD_TV_LOGO_webready.jpg",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8
