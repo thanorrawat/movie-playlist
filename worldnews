@@ -15,8 +15,8 @@ https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" ,Fox News
 https://ustvgo.tv/fox-news-live-streaming-free/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/440px-NBC_Peacock_1986.svg.png" ,NBC
-https://ustvgo.tv/nbc/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/440px-NBC_Peacock_1986.svg.png" ,NBC NEWS
+https://www.youtube.com/watch?v=pILMrZ3tscw
 
 #EXTINF:-1 tvg-logo="https://nowontv.info/img/bloomberg.png" ,Bloomberg TV
 https://onvision.info/channels/bloombergtv.html
