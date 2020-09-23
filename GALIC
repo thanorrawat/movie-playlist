@@ -121,7 +121,7 @@
          {
              "name": "มู่หลาน 2020",  
              "image": "https://www.doomovie-hd.com/assets/movie_poster/4/41d55424a6f5c1f8f6c3d3572a9b93ac.jpg",  
-             "url": "https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/f0e710ff43aaf2991f11e47d157acb23/f0e710ff43aaf2991f11e47d157acb23.m3u8"
+             "url": "https://cdn.livedoomovies.com/hls/f0e710ff43aaf2991f11e47d157acb23/f0e710ff43aaf2991f11e47d157acb23.m3u8"
  
            },
 				
@@ -129,9 +129,28 @@
          {
              "name": "ฝ่านรกซอมบี้คลั่ง 2020",  
              "image": "https://www.doomovie-hd.com/assets/movie_poster/f/ffff169bd7e6c6c19c6bf3fa62be2c06.jpg",  
-             "url": "https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/61313de0d681277c616ccba19bb3117f/61313de0d681277c616ccba19bb3117f.m3u8"
+             "url": "https://cdn.livedoomovies.com/hls/61313de0d681277c616ccba19bb3117f/61313de0d681277c616ccba19bb3117f.m3u8"
  
            },
+
+         {
+             "name": "ตู้นรกไม่ได้ผุดไม่ได้เกิด 2020",  
+             "image": "https://www.037hdmovie.com/wp-content/uploads/2020/03/The-Closet-%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9C%E0%B8%B8%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94-2020.jpg",  
+             "url": "https://lb1.one3up.com/hls/3fb07294d7a8f0af4004846868c31312/3fb07294d7a8f0af4004846868c31312.m3u8"
+ 
+           },
+				
+
+         {
+             "name": "มันอยู่ในบ้าน 2020",  
+             "image": "https://www.037hdmovie.com/wp-content/uploads/2020/09/You-Should-Have-Left-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",  
+             "url": "https://lb1.one3up.com/hls/68445865cb9c58245ec48be39890a206/68445865cb9c58245ec48be39890a206.m3u8"
+ 
+           },
+
+
+
+
 
 
 
