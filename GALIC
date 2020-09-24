@@ -39,6 +39,12 @@
 		},
 
 
+		{
+			"name": "Worldnews",
+			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d77a6343106623.57e3765daad26.jpg",
+			"url": "http://tiny.cc/worldnews01",
+			"import": false
+		},	
 
 
 
@@ -65,20 +71,7 @@
 			"import": false
 		},
 
-		{
-			"name": "Latin Sports",
-			"image": "https://scontent.fnak1-1.fna.fbcdn.net/v/t1.0-9/602225_231079450365097_698333936_n.png?_nc_cat=108&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=pwMAxsRgzfAAX_qfAWw&_nc_ht=scontent.fnak1-1.fna&oh=9fa9d8ba8cd6899780636788e883b786&oe=5F6CD00A",
-			"url": "http://tiny.cc/latinsports",
-			"import": false
-		},		
 
-
-		{
-			"name": "Worldnews",
-			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d77a6343106623.57e3765daad26.jpg",
-			"url": "http://tiny.cc/worldnews01",
-			"import": false
-		},	
 
 		{
 			"name": "UK",
