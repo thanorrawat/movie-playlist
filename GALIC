@@ -211,8 +211,23 @@
 
          {
              "name": "The King of Staten Island",  
-             "image": "https://m.media-amazon.com/images/M/MV5BNmY3ZGJkYjEtY2ZjZC00NzRlLWE5MmItOWYyMGY1NTU1M2Q3XkEyXkFqcGdeQWFybm8@._V1_CR0,1,1319,742_AL_UX477_CR0,0,477,268_AL_.jpg",  
+             "image": "https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX178_AL_.jpg",  
              "url": "https://lb1.one3up.com/hls/085b2bbcd97ba84482edf317cf9b3f78/085b2bbcd97ba84482edf317cf9b3f78.m3u8"
+ 
+           },
+
+         {
+             "name": "I Still Believe",  
+             "image": "https://yucommentator.com/wp-content/uploads/2020/06/I-Still-Believe-Poster.jpg",  
+             "url": "https://lb1.one3up.com/hls/6777eafedab626eab6b371a4208a85d7/6777eafedab626eab6b371a4208a85d7.m3u8"
+ 
+           },
+
+
+         {
+             "name": "The Paramedic",  
+             "image": "https://movie2uhd.com/wp-content/uploads/2020/09/The-Paramedic-2020.jpg",  
+             "url": "https://lb1.one3up.com/hls/24183a945015d6db32744c70b1a2d80a/24183a945015d6db32744c70b1a2d80a.m3u8"
  
            },
 
