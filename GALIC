@@ -93,7 +93,7 @@
     	        {
 			"name": "Horror/Thriller",
 			"image": "https://image.roku.com/developer_channels/prod/5acefbfdec1bfd80e2dfdc48c9cb4754d38ec39dadf4c6abdd82a59fd485b04c.png",
-			"url": "http://tiny.cc/myhorror",
+			"url": "http://tiny.cc/myhorroฝฝr",
 			"import": false
 		},		
 
@@ -232,6 +232,12 @@
            },
 
 
+         {
+             "name": "Monster Hunters",  
+             "image": "https://s.isanook.com/ga/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2dhLzAvdWQvMjEwLzEwNTQ1NTUvZXIzcGl6Z3U4YWFkbW9jLmpwZw==.jpg",  
+             "url": "https://lb1.one3up.com/hls/156ebfa000ad1294bc4fec62c7346180/156ebfa000ad1294bc4fec62c7346180.m3u8"
+ 
+           },
 
 
 
