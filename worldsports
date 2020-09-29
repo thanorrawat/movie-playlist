@@ -26,19 +26,62 @@
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
-
+          {
+             "name": "Sky Sports Action",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Arena",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Cricket",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports F1",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-f1.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Golf",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Mix",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "UK Sky Sports News",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
 
 
 
            ]
 }
 
-
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",UK Sky Sports News
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",
 http://ok2.se:8000/superman/12345/203
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",UK 
 https://www.ballsoi8.com/live/?ch=skysportmainevent
@@ -46,17 +89,17 @@ https://www.ballsoi8.com/live/?ch=skysportmainevent
 https://www.ballsoi8.com/live/?ch=skysportpremiere
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",
 https://www.ballsoi8.com/live/?ch=skysportfootball
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",
 https://www.ballsoi8.com/live/?ch=skysportgolf
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",
 https://www.ballsoi8.com/live/?ch=skysportmix
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg",Sky Sports Action
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg",
 https://www.liveballsod.com/tv-online/ch079/
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg",Sky Sports Arena
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg",
 http://runnel.ir/tv/tv/sky-sports-arena-tv-2.php
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg",
 https://www.ballsoi8.com/live/?ch=skysportclicket
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg",Sky Sports F1
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg",
 http://ok2.se:8000/superman/12345/210
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png",BT SPORTS 1
