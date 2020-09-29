@@ -277,40 +277,61 @@
 	     "url": "https://www.televisiongratishd.com/live2/directvsports21.php",
 	     "playInNatPlayer": "true"
            },
-
+          {
+             "name": "GoL T ",  
+             "image": "https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg",  
+	     "url": "http://lacalleochotv.org/gol-tv-online-en-directo-gratis/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "GoL TV",  
+             "image": "https://seeklogo.com/images/G/Gol_tv-logo-44D99F0B55-seeklogo.com.png",  
+	     "url": "https://www.televisiongratishd.com/live2/goltv1.php",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "TUDN",  
+             "image": "https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR-1024x256.png",  
+	     "url": "http://lacalleochotv.org/tudn-online-en-directo/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "TYC Sports",  
+             "image": "https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg",  
+	     "url": "http://lacalleochotv.org/tyc-sports-online-en-directo/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "TVC Deportes",  
+             "image": "https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg",  
+	     "url": "http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "TNT Sports",  
+             "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/cb/13/4b/cb134b11-cf3f-fba0-7aba-a0c0a64b6ad3/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.png",  
+	     "url": "http://lacalleochotv.org/tnt-sports-online-en-directo/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "FUEL TV",  
+             "image": "https://www.ilovesatellitetv.com/images/fuel-tv.jpg",  
+	     "url": "http://lacalleochotv.org/fuel-tv-online-en-directo/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Azteca 7",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/296px-Logo_Azteca_7_2011.svg.png",  
+	     "url": "https://www.televisiongratishd.com/live2/azteca71.php",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Golf Channel",  
+             "image": "https://showtime.sgp1.cdn.digitaloceanspaces.com/media/uploaded/icon/golf_channel-logo.jpg",  
+	     "url": "http://lacalleochotv.org/golf-channel-latino-online-en-directo/",
+	     "playInNatPlayer": "true"
+           },
 
 
            ]
 }
-
-
-
-#EXTINF:-1 tvg-logo="https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg",GoL T 
-http://lacalleochotv.org/gol-tv-online-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/Gol_tv-logo-44D99F0B55-seeklogo.com.png",GoL TV
-https://www.televisiongratishd.com/live2/goltv1.php
-
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR-1024x256.png",TUDN
-http://lacalleochotv.org/tudn-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg",TYC Sports
-http://lacalleochotv.org/tyc-sports-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg",TVC Deportes
-http://lacalleochotv.org/tvc-deportes-online-en-directo-gratis/
-
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/cb/13/4b/cb134b11-cf3f-fba0-7aba-a0c0a64b6ad3/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.png",TNT Sports
-http://lacalleochotv.org/tnt-sports-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://showtime.sgp1.cdn.digitaloceanspaces.com/media/uploaded/icon/golf_channel-logo.jpg",Golf Channel
-http://lacalleochotv.org/golf-channel-latino-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://www.ilovesatellitetv.com/images/fuel-tv.jpg",FUEL TV
-http://lacalleochotv.org/fuel-tv-online-en-directo/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/296px-Logo_Azteca_7_2011.svg.png",Azteca 7
-https://www.televisiongratishd.com/live2/azteca71.php
-
-
-
