@@ -247,6 +247,14 @@
 			"referer": "https://www.mvtv.co.th/",
 			"playInNatPlayer": "true"
                     },
+
+                    {
+	        	"name": "MV Myanmar",
+			"image": "https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",
+			"url": "https://www.mvtv.co.th/channel/mvm",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
                     {
 	        	"name": "MV Laos",
 			"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",
@@ -255,12 +263,11 @@
 			"playInNatPlayer": "true"
                     },
                     {
-	        	"name": "MV Myanmar",
-			"image": "https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",
-			"url": "https://www.mvtv.co.th/channel/mvm",
-			"referer": "https://www.mvtv.co.th/",
-			"playInNatPlayer": "true"
+	        	"name": "ลาวสตาร์",
+			"image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",
+			"url": "http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8",
                     },
+
 
 
            ]
