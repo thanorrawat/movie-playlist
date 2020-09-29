@@ -164,8 +164,8 @@
 			"playInNatPlayer": "true"
                     },
 		    {
-			"name": "MVTV",
-			"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",
+			"name": "MVTV FIVE",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
 			"url": "https://www.mvtv.co.th/channel/mvtv_home",
 			"referer": "https://www.mvtv.co.th/",
 			"playInNatPlayer": "true"
@@ -173,7 +173,7 @@
 	           {
 			"name": "TVB DRAMA THAI",
 			"image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
-			"url": "https://www.mvtv.co.th/channel/tvb-drama-thai",
+			"url": "https://www.mvtv.co.th/channel/tvb-thai",
 			"referer": "https://www.mvtv.co.th/",
 			"playInNatPlayer": "true"
                     },
