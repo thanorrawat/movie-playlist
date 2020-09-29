@@ -1,3 +1,53 @@
+{
+	"name": "Thai Digital TV",
+	"author": @แอนดรอยด์แอพฟรี",
+	"image": "http://aosat.igetweb.com/article/art_42144142.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/thaitv",
+	"stations": [
+	
+
+
+
+          {
+             "name": "ททบ.5",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ch.5_by_ATV.png/301px-Ch.5_by_ATV.png",  
+             "url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes"
+ 
+           },
+
+
+
+         {
+             "name": "NBT",  
+             "image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
+             "url": "https://tv.trueid.net/embed/nbt?autoplay=yes&nopageview=yes"
+ 
+           },
+
+
+
+          {
+             "name": "TPBS",  
+             "image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",  
+             "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+ 
+           },
+
+
+
+
+          {
+             "name": "ALTV by Thaipbs",  
+             "image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
+             "url": "https://cdn.livedoomovies.com/hls/62779fb140df5c1db16aa634a3e3f793/62779fb140df5c1db16aa634a3e3f793.m3u8"
+ 
+           },
+
+          
+           ]
+}
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
