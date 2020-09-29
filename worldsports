@@ -69,7 +69,7 @@
 	     "playInNatPlayer": "true"
            },
           {
-             "name": "UK Sky Sports News",  
+             "name": "Sky Sports News",  
              "image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
              "referer": "https://dooball66.com/",
@@ -107,6 +107,27 @@
              "name": "Eurosport 2",  
              "image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sport Bundesliga",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports 1 DE",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports 2 DE",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
