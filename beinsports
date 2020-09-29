@@ -103,26 +103,37 @@
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
-
-
-
+          {
+             "name": "Bein Sports USA",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",  
+	     "url": "https://live-golf.stream/stream/68949.html",
+	     "playInNatPlayer": "true"
+           },
+	  {
+             "name": "Bein Sports Extra",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",  
+	     "url": "https://live-golf.stream/stream/69175.html",
+	     "playInNatPlayer": "true"
+           },   
+          {
+             "name": "Bein Sports Ñ",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",  
+	     "url": "https://live-golf.stream/stream/68718.html",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports La Liga ",  
+             "image": "https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",  
+	     "url": "https://live-golf.stream/stream/69176.html",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports La Liga en Español",  
+             "image": "https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",  
+	     "url": "https://live-golf.stream/stream/69177.html",
+	     "playInNatPlayer": "true"
+           },
 
 
       ]
 }
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",Bein Sports USA
-https://live-golf.stream/stream/68949.html
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",Bein Sports Ñ
-https://live-golf.stream/stream/69175.html
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",Bein Sports Extra
-https://live-golf.stream/stream/68718.html
-
-#EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",Bein Sports La Liga 
-https://live-golf.stream/stream/69176.html
-
-#EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",Bein Sports La Liga en Español
-https://live-golf.stream/stream/69177.html
