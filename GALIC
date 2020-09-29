@@ -6,13 +6,9 @@
 	"groups": [
 	
 
-
-
-
-
 	        {
 			"name": "Thai TV",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
+			"image": "http://aosat.igetweb.com/article/art_42144142.png",
 			"url": "http://tiny.cc/thaitv01",
 			"import": false
 		},	
@@ -104,8 +100,6 @@
                        "url": "http://tiny.cc/upmovies",
 		       "import": false
 		},		
-
-
 
 
 		
