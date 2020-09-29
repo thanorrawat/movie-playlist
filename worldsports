@@ -75,68 +75,80 @@
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
-
+          {
+             "name": "BT SPORTS 1",  
+             "image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "BT SPORTS 2",  
+             "image": "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "BT SPORTS 3",  
+             "image": "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Eurosport 1",  
+             "image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Eurosport 2",  
+             "image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Fox Sports 1 USA",  
+             "image": "http://runnel.ir/ax/logo/FS1.png",  
+	     "url": "https://espn-live.stream/stream/45459.html",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Fox Sports 2 USA",  
+             "image": "http://runnel.ir/ax/logo/FS2.png",  
+	     "url": "https://espn-live.stream/stream/45460.html",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Tennis Channel",  
+             "image": "https://www.sportsvideo.org/new/wp-content/uploads/2016/01/tennis-channel-logo-300x279.jpg",  
+	     "url": "https://espn-live.stream/stream/45711.html",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "One Golf",  
+             "image": "http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",  
+	     "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+           },
+          {
+             "name": "WWE Network",  
+             "image": "https://teevee-hd.com/img/wwe.png",  
+	     "url": "https://ustvgo.tv/wwe-network/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Olympic Channel ",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png",  
+	     "url": "http://azrotv.com/iphone/En/ch/olympic.php",
+	     "playInNatPlayer": "true"
+           },
 
 
            ]
 }
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",
-http://ok2.se:8000/superman/12345/203
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",UK 
-https://www.ballsoi8.com/live/?ch=skysportmainevent
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg", 
-https://www.ballsoi8.com/live/?ch=skysportpremiere
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",
-https://www.ballsoi8.com/live/?ch=skysportfootball
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",
-https://www.ballsoi8.com/live/?ch=skysportgolf
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",
-https://www.ballsoi8.com/live/?ch=skysportmix
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg",
-https://www.liveballsod.com/tv-online/ch079/
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg",
-http://runnel.ir/tv/tv/sky-sports-arena-tv-2.php
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg",
-https://www.ballsoi8.com/live/?ch=skysportclicket
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg",
-http://ok2.se:8000/superman/12345/210
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png",BT SPORTS 1
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-1-hd/
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png",BT SPORTS 2
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-2-hd/
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png",BT SPORTS 3
-https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-3-hd/
-
-#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
-http://runnel.ir/tv/tv/eurosport-uk-1-1.php
-#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
-http://runnel.ir/tv/tv/eurosport-uk-2-1.php
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212793409972428802/GOVO09Xq_400x400.png",Fox Sports Deportes 
-https://espn-live.stream/stream/45529.html
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fs1-logo-B33E7C4A16-seeklogo.com.png",Fox Sports 1 USA
-https://espn-live.stream/stream/45459.html
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",Fox Sports 2 USA
-https://espn-live.stream/stream/45460.html
-
-#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/01/tennis-channel-logo-300x279.jpg",Tennis Channel 
-https://espn-live.stream/stream/45711.html
-
-#EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/wwe.png",WWE Network
-https://ustvgo.tv/wwe-network/
-
-#EXTINF:-1 tvg-logo="https://img.captain-droid.com/wp-content/uploads/2013/11/red-bull-tv-0.jpg", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png", Olympic Channel 
-http://azrotv.com/iphone/En/ch/olympic.php
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",M La Liga 
