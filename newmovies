@@ -7,35 +7,28 @@
 	
 
 
-
+          {
+             "name": "Archive 2020",  
+             "image": "https://m.media-amazon.com/images/M/MV5BMzFkNTRiMzYtODM2MS00YWQ2LThkNTUtMDE1Y2E2YjAwYTUxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY264_CR0,0,178,264_AL_.jpg",  
+             "url": "https://ww5.fmovie.sc/online/archive-2020/watching.html/?ep=7"
+           },
           {
              "name": "LX 2048 2020",  
              "image": "https://www.cinema.com/image_lib/16487_poster.jpg",  
              "url": "https://123moviesfree.net/movie/lx-2048-101480/watching.html"
- 
            },
-
-
-
          {
              "name": "No Escape 2020",  
              "image": "https://m.media-amazon.com/images/M/MV5BYjU4ZTlkN2MtOGJlNS00ZWE1LWFmYjUtNTY3MDBhZjgwZjQ3XkEyXkFqcGdeQXVyMjA1MzQyNDE@._V1_SY264_CR0,0,178,264_AL_.jpg",  
              "url": "https://123moviesfree.net/movie/no-escape-101449/watching.html"
  
            },
-
-
-
           {
              "name": "The Legend of the five 2020",  
              "image": "https://m.media-amazon.com/images/M/MV5BYmM1MTJhZjMtNmZjMi00MWM1LWE4MTctZmEzMDQ0NTMyMTIzXkEyXkFqcGdeQXVyMTE5NDk4NjU2._V1_SY264_CR1,0,178,264_AL_.jpg",  
              "url": "https://123moviesfree.net/movie/the-legend-of-the-five-101470/watching.html"
  
            },
-
-
-
-
           {
              "name": "Antebellum 2020",  
              "image": "https://www.doomovie-hd.com/assets/movie_poster/a/acb2f935c81d7c19dbbe0b6a42f5918a.jpg",  
@@ -171,11 +164,6 @@
            },
 
 
-
-
-
-
-		
 		
     ]
 }
