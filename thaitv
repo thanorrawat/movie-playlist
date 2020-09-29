@@ -47,6 +47,20 @@
 			"playInNatPlayer": "true"
                     },
 
+		    {
+			"name": "NEW TV",
+			"image": "https://www.movieclubhd.tv/src/images/live/tnn2_480p.jpg",
+			"url": "https://www.ballsoi8.com/live/?ch=newtv",
+			"referer": "https://www.ballsoi8.com/",
+			"playInNatPlayer": "true"
+                    },
+		    {
+			"name": "VOICE TV",
+			"image": "https://www.movieclubhd.tv/src/images/live/tnn2_480p.jpg",
+			"url": "https://www.mvtv.co.th/channel/v2t2tv",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
 
 		    {
 			"name": "Nation TV",
@@ -164,68 +178,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
-https://www.ballsoi8.com/live/?ch=5hd
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
-https://www.ballsoi8.com/live/?ch=nbt
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV4 by ThaiPBS
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://live.parliament.go.th/images/logo-trans.png",TPTV
-http://live.parliament.go.th/
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",TNN16
-https://www.tnnthailand.com/live
-
-#EXTINF:-1 tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",New TV
-https://www.ballsoi8.com/live/?ch=newtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
-https://www.mvtv.co.th/channel/v2t2tv
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215191170222919682/GVYbfGGB_400x400.jpg",Nation
-https://www.ballsoi8.com/live/?ch=nation
-
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3cfa5ba8-74dd-43b6-b28c-aa0f129b8cc8-profile_image-300x300.png",WorkPoint
-https://www.ballsoi8.com/live/?ch=workpoint
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1125650171776253953/CTYYDkQt_400x400.jpg",True4U
-https://true4u.com/live/
-
-#EXTINF:-1 tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",GMM25
-https://www.ballsoi8.com/live/?ch=gmm25
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
-https://www.ballsoi8.com/live/?ch=ch8
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
-https://www.ballsoi8.com/live/?ch=mono29
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1163745549532581889/05rAfoNE_400x400.jpg",MCOT HD
-https://www.ballsoi8.com/live/?ch=mcot
-
-#EXTINF:-1 tvg-logo="https://p16-sg-default.akamaized.net/aweme/720x720/tiktok-obj/1661962014374913.jpeg",ONE
-https://www.ballsoi8.com/live/?ch=onehd
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png",Thairath
-https://www.ballsoi8.com/live/?ch=thairath
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
-https://www.ballsoi8.com/live/?ch=3hd
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",Amarint TV
-https://www.ballsoi8.com/live/?ch=amarin
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
-https://www.ballsoi8.com/live/?ch=7hd
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
-https://www.ballsoi8.com/live/?ch=pptv
 
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",MVTV
 https://www.mvtv.co.th/channel/mvtv_home
