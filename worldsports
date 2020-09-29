@@ -1,12 +1,50 @@
+{
+	"name": "World Sports TV",
+	"author": @แอนดรอยด์แอพฟรี",
+	"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/worldsports",
+	"stations": [
+	
+          {
+             "name": "Sky Sports Premiere League",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Main Event",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Football",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+
+
+
+
+           ]
+}
+
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",UK Sky Sports News
 http://ok2.se:8000/superman/12345/203
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",UK Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",UK 
 https://www.ballsoi8.com/live/?ch=skysportmainevent
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg", Sky Sports Premiere League 
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg", 
 https://www.ballsoi8.com/live/?ch=skysportpremiere
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",
 https://www.ballsoi8.com/live/?ch=skysportfootball
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",Sky Sports Golf
 https://www.ballsoi8.com/live/?ch=skysportgolf
