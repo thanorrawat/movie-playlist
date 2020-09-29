@@ -219,32 +219,49 @@
 			"referer": "https://www.mvtv.co.th/",
 			"playInNatPlayer": "true"
                     },
-
-
-
-
+                    {
+	        	"name": "สยาม",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",
+			"url": "https://www.mvtv.co.th/channel/siamchannel",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
+                    {
+	        	"name": "ลิโด้",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",
+			"url": "https://www.mvtv.co.th/channel/lidochannell",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
+                    {
+	        	"name": "สกาล่า",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",
+			"url": "https://www.mvtv.co.th/channel/sakalachannel",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
+                    {
+	        	"name": "ราม่า",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",
+			"url": "https://www.mvtv.co.th/channel/ramachannel",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
+                    {
+	        	"name": "MV Laos",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",
+			"url": "https://www.mvtv.co.th/channel/mvlao-channel",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
+                    {
+	        	"name": "MV Myanmar",
+			"image": "https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",
+			"url": "https://www.mvtv.co.th/channel/mvm",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
 
 
            ]
 }
-
-
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",สยาม
-https://www.mvtv.co.th/channel/siamchannel
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",ลิโด้
-https://www.mvtv.co.th/channel/lidochannell
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",สกาล่า
-https://www.mvtv.co.th/channel/sakalachannel
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",ราม่า
-https://www.mvtv.co.th/channel/ramachannel
-
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MV Laos 
-https://www.mvtv.co.th/channel/mvlao-channel
-
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MVMyanmar 
-https://www.mvtv.co.th/channel/mvm
