@@ -11,41 +11,155 @@
           {
              "name": "ททบ.5",  
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ch.5_by_ATV.png/301px-Ch.5_by_ATV.png",  
-             "url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes"
- 
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
            },
-
-
-
-         {
+          {
              "name": "NBT",  
              "image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
-             "url": "https://tv.trueid.net/embed/nbt?autoplay=yes&nopageview=yes"
- 
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=hmcb4rf66f",
+	     "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
            },
-
-
-
           {
              "name": "TPBS",  
              "image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",  
              "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
- 
            },
-
-
-
-
           {
              "name": "ALTV by Thaipbs",  
              "image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
-             "url": "https://cdn.livedoomovies.com/hls/62779fb140df5c1db16aa634a3e3f793/62779fb140df5c1db16aa634a3e3f793.m3u8"
- 
+             "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
            },
+		    {
+			"name": "TPTV",
+			"image": "https://i.imgur.com/Jrqo8JP.png",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=hmcb4rf66f",
+			"referer": "https://dooball66.com/",
+			"playInNatPlayer": "true"
+                    },
+		    {
+			"name": "TNN",
+			"image": "https://www.movieclubhd.tv/src/images/live/tnn2_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
 
-          
+
+		    {
+			"name": "Nation TV",
+			"image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+		    {
+			"name": "Workpoint",
+			"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+		    {
+			"name": "True4u",
+			"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+
+		    {
+			"name": "GMM25",
+			"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+		    {
+			"name": "CH8",
+			"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+		    {
+			"name": "MONO29",
+			"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-mono&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+	           {
+			"name": "Mcot HD",
+			"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-mcot&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+		    {
+			"name": "One31 HD",
+			"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+		    {
+			"name": "Thairath HD",
+			"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+		    {
+			"name": "3HD",
+			"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",
+			"referer": "https://dooball66.com/",
+			"playInNatPlayer": "true"
+                    },
+                    
+  		    {
+			"name": "Amarin TV",
+			"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },              
+                    
+		    {
+			"name": "7HD",
+			"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",
+			"referer": "https://dooball66.com/",
+			"playInNatPlayer": "true"
+                    },
+	
+		    {
+			"name": "PPTV HD",
+			"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=mc6Ghb2",
+			"referer": "https://www.ufa191.co/",
+			"playInNatPlayer": "true"
+                    },
+
+
+
+
+
+
            ]
 }
+
+
+
 
 
 #EXTM3U
