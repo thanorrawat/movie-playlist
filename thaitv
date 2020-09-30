@@ -143,7 +143,7 @@
   		    {
 			"name": "Amarin TV",
 			"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
-			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66",
+			"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f",
 			"referer": "https://dooball66.com/",
 			"playInNatPlayer": "true"
                     },              
