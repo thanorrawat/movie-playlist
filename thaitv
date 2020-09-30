@@ -198,6 +198,13 @@
 			"referer": "https://www.mvtv.co.th/",
 			"playInNatPlayer": "true"
                     },
+                   {
+			"name": "อีสาน ทีวี",
+			"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",
+			"url": "https://www.mvtv.co.th/channel/esan-tv",
+			"referer": "https://www.mvtv.co.th/",
+			"playInNatPlayer": "true"
+                    },
                     {
 	        	"name": "69 TV",
 			"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",
@@ -251,7 +258,7 @@
                     {
 	        	"name": "MV Myanmar",
 			"image": "https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",
-			"url": "https://www.mvtv.co.th/channel/mvm",
+			"url": "https://www.mvtv.co.th/channel/v2h8-mvm",
 			"referer": "https://www.mvtv.co.th/",
 			"playInNatPlayer": "true"
                     },
