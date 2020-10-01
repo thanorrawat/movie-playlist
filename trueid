@@ -211,7 +211,7 @@
             		},
 		{
 			"name": "True Select",
-			"image": "https://www.true-shopping.com/images/logo-trueshopping-square.png",
+			"image": "http://jobsee.me/wp-content/uploads/2018/03/2016-06-22-178-0-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97_%E0%B8%97%E0%B8%A3%E0%B8%B9_%E0%B8%88%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%AA_%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94.jpg",
 			"url": "https://tv.trueid.net/embed/true-select?autoplay=yes&nopageview=yes",
 			"referer": "https://tv.trueid.net/",
 			"playInNatPlayer": "true"
