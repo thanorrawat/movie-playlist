@@ -251,6 +251,24 @@
 			"referer": "https://tv.trueid.net/",
 			"playInNatPlayer": "true"
             		},
+		{
+			"name": "Super บันเทิง",
+			"image": "https://cms.dmpcdn.com/livetv/2020/06/23/99bc7f60-b550-11ea-8fac-236a281cd6c5_320.png",
+			"url": "https://tv.trueid.net/embed/super-entertain?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "ทรูปลูกปัญญา",
+			"image": "https://pbs.twimg.com/profile_images/924843911855476736/bf0a9z2U_400x400.jpg",
+			"url": "https://tv.trueid.net/embed/trueplookpanya?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+
+
+
+
 
 
 
