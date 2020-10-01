@@ -4,7 +4,15 @@
 	"image": "https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
 	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/newmovies",
 	"stations": [
-	
+
+
+
+
+          {
+             "name": "Let It Snow 2020",  
+             "image": "https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg",  
+             "url": "https://vidcloud9.com/goto.php?url=aHR0cHM6LyURASDGHUSRFSJGYfdsffsderFStewthsfSFtrftesdf9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RydWUtZXBpc29kZS0yOTAyMTUvS1NKSTg4UEVSS0haLzIybV8xNjAxNDgxMjM5MzI5MjA5Lm1wNA=="
+           },
 
           {
              "name": "Greenland 2020 ZM",  
