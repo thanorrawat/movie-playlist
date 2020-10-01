@@ -76,6 +76,27 @@
 	     "playInNatPlayer": "true"
            },
           {
+             "name": "Sky Sport Bundesliga",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports 1 DE",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports 2 DE",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
              "name": "BT SPORTS 1",  
              "image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
@@ -111,24 +132,125 @@
 	     "playInNatPlayer": "true"
            },
           {
-             "name": "Sky Sport Bundesliga",  
-             "image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
-	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+             "name": "Bein Sports 1 TH",  
+             "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
           {
-             "name": "Sky Sports 1 DE",  
-             "image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
-	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+             "name": "Bein Sports 2 TH",  
+             "image": "https://overseer.blackboxsys.net/images/png/epl-bein2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
           {
-             "name": "Sky Sports 2 DE",  
-             "image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
-	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
+             "name": "Bein Sports 1 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
              "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 2 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN2-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 3 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN3-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 4 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN4-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 5 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN5-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 6 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN6-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 7 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN7-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 8 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN8-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 9 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN9-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 10 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN10-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 11 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN11-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports 12 AR",  
+             "image": "http://runnel.ir/ax/logo/beIN12-Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports USA",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",  
+	     "url": "https://live-golf.stream/stream/2/68949.html",
+	     "playInNatPlayer": "true"
+           },
+	  {
+             "name": "Bein Sports Extra",  
+             "image": "https://sport-tv-guide.live/images/tv-station-bein-sports-extra-us-1967.png",  
+	     "url": "https://live-golf.stream/stream/68718.html",
+	     "playInNatPlayer": "true"
+           },   
+          {
+             "name": "Bein Sports Ñ",  
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",  
+	     "url": "https://live-golf.stream/stream/69175.html",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Bein Sports La Liga",  
+             "image": "https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",  
+	     "url": "https://live-golf.stream/stream/69177.html",
 	     "playInNatPlayer": "true"
            },
           {
