@@ -1,0 +1,240 @@
+{ 
+    "name": "TrueID Stations",
+    "author": "@แอนดรอยด์แอพฟรี",
+    "image": "https://pbs.twimg.com/profile_images/1122778343118491648/lM4PqdR1_400x400.jpg",
+    "url": "/storage/emulated/0/Download/m3u/trueid.w3u",
+    "stations": [ 
+
+
+		{
+			"name": "5HD",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ch.5_by_ATV.png/301px-Ch.5_by_ATV.png",
+			"url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "NBT",
+			"image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",
+			"url": "https://tv.trueid.net/embed/nbt?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "TPBS",
+			"image": "http://3.bp.blogspot.com/_Glja12eUhwE/SlC7FQsPzDI/AAAAAAAAACY/4qH34jp8EnI/s320/TvThai_2009Logo.png",
+			"url": "https://tv.trueid.net/embed/thaipbs?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+           	 	},
+		{
+			"name": "ALTV4",
+			"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",
+			"url": "https://tv.trueid.net/embed/altv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "TPTV",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png",
+			"url": "https://tv.trueid.net/embed/tptv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "TNN16",
+			"image": "https://www.digitalbusinessconsult.asia/wp-content/uploads/2019/03/0h0BPUlkfzb21tLEISiZsQOk5_aRYBQXh-BhRjV1ZxbwseAig6VUohC0gkX1VJTnpoBkJwF0p8OA1cGSpoUVZwTkklNVlJSy86-300x300.png",
+			"url": "https://tv.trueid.net/embed/tnn16?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "New18",
+			"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
+			"url": "https://tv.trueid.net/embed/newtv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "Nation",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
+			"url": "https://tv.trueid.net/embed/nationtv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "Workpoint",
+			"image": "https://vignette.wikia.nocookie.net/logopedia/images/8/86/4b5901d2-d0d6-436a-b365-b21a00f54f22-----workpoint-logo.png",
+			"url": "https://tv.trueid.net/embed/workpointtv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "True4U",
+			"image": "https://pbs.twimg.com/profile_images/1125650171776253953/CTYYDkQt_400x400.jpg",
+			"url": "https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "Gmm25",
+			"image": "https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",
+			"url": "https://tv.trueid.net/embed/gmm25?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "CH8",
+			"image": "https://vignette.wikia.nocookie.net/logopedia/images/0/0e/Ch_8_2015%282%29.png",
+			"url": "https://tv.trueid.net/embed/ch8?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+    		{
+			"name": "MONO29",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+			"url": "https://tv.trueid.net/embed/mono29?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "Mcot HD",
+			"image": "https://upload.wikimedia.org/wikipedia/th/5/5e/Channel_9_MCOT_HD_2017.png",
+			"url": "https://tv.trueid.net/embed/9mcot-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "ONE HD",
+			"image": "https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",
+			"url": "https://tv.trueid.net/embed/one-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "Thairath",
+			"image": "https://www.thairath.co.th/static/img/thairathTV/logo.png",
+			"url": "https://tv.trueid.net/embed/thairathtv-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "3HD",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ch.3_HD_%282020%29_V.2.png",
+			"url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "Amarin TV",
+			"image": "https://www.amarintv.com/assets/images/logo.png",
+			"url": "https://tv.trueid.net/embed/amarintv-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "7HD",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BBTV_Channel_7_HD.png",
+			"url": "https://tv.trueid.net/embed/ch7-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+        		{
+			"name": "PPTV",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/PPTV_HD36.png",
+			"url": "https://tv.trueid.net/embed/pptv-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "Cartoon Club",
+			"image": "https://torcalrabee.files.wordpress.com/2015/10/cartoon-club.png",
+			"url": "https://tv.trueid.net/embed/cartoonclub?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "Toonee",
+			"image": "https://toonee.tv/images/toonee_logo_top.png",
+			"url": "https://tv.trueid.net/embed/TOONEE?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "JaTingJa",
+			"image": "https://gimmecover.files.wordpress.com/2013/08/logoe0b88ae0b988e0b8ade0b887e0b888e0b98ae0b8b0e0b897e0b8b4e0b887e0b888e0b8b2.png",
+			"url": "https://tv.trueid.net/embed/jatingjatv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "สามเณรปลูกปัญญาธรรม",
+			"image": "http://dynamic-cdn.eggdigital.com/eaPeKY5cC.jpg",
+			"url": "https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "ธรรมะทีวี",
+			"image": "https://cms.dmpcdn.com/livetv/2020/06/23/816989d0-b550-11ea-8fac-236a281cd6c5_320.png",
+			"url": "https://tv.trueid.net/embed/dharmatv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "ธรรมะวัดสังฆทานธรรม",
+			"image": "https://cms.dmpcdn.com/livetv/2020/06/23/699b0680-b550-11ea-8fac-236a281cd6c5_320.png",
+			"url": "https://tv.trueid.net/embed/sbbtv999?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "Laostar",
+			"image": "http://1.bp.blogspot.com/_tF_DyjQ-CPA/TSft_DuNs9I/AAAAAAAAFPI/WQVVj9tdkNo/s280/lao.jpg",
+			"url": "https://tv.trueid.net/embed/laostarchannel?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "FanTV",
+			"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",
+			"url": "https://tv.trueid.net/embed/fantv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "M Channel",
+			"image": "http://www.m-channel.com/M/img/logo.png",
+			"url": "https://tv.trueid.net/embed/mchannel?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "True Select",
+			"image": "https://www.true-shopping.com/images/logo-trueshopping-square.png",
+			"url": "https://tv.trueid.net/embed/true-select?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "True Shopping",
+			"image": "https://upload.wikimedia.org/wikipedia/th/thumb/e/ea/True_Shopping.png/250px-True_Shopping.png",
+			"url": "https://tv.trueid.net/embed/true-select-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "TRUE MUSIC HD",
+			"image": "https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",
+			"url": "https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+
+
+
+
+    ]
+         
+         
+}
