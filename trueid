@@ -168,6 +168,14 @@
 			"playInNatPlayer": "true"
             		},
 		{
+			"name": "ทรูปลูกปัญญา",
+			"image": "https://pbs.twimg.com/profile_images/924843911855476736/bf0a9z2U_400x400.jpg",
+			"url": "https://tv.trueid.net/embed/trueplookpanya?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+
+		{
 			"name": "สามเณรปลูกปัญญาธรรม",
 			"image": "http://dynamic-cdn.eggdigital.com/eaPeKY5cC.jpg",
 			"url": "https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes",
@@ -252,24 +260,27 @@
 			"playInNatPlayer": "true"
             		},
 		{
-			"name": "Super บันเทิง",
-			"image": "https://cms.dmpcdn.com/livetv/2020/06/23/99bc7f60-b550-11ea-8fac-236a281cd6c5_320.png",
-			"url": "https://tv.trueid.net/embed/super-entertain?autoplay=yes&nopageview=yes",
+			"name": "มังกร ทีวี",
+			"image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",
+			"url": "https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+
+		{
+			"name": "ZEE หนัง",
+			"image": "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",
+			"url": "https://tv.trueid.net/embed/zee-nung?autoplay=yes&nopageview=yes",
 			"referer": "https://tv.trueid.net/",
 			"playInNatPlayer": "true"
             		},
 		{
-			"name": "ทรูปลูกปัญญา",
-			"image": "https://pbs.twimg.com/profile_images/924843911855476736/bf0a9z2U_400x400.jpg",
-			"url": "https://tv.trueid.net/embed/trueplookpanya?autoplay=yes&nopageview=yes",
+			"name": "JKN Dramax",
+			"image": "https://cms.dmpcdn.com/livetv/2019/10/09/6a86e430-ea4c-11e9-9c39-65d5397f8b8b_320.png",
+			"url": "https://tv.trueid.net/embed/jknchannel?autoplay=yes&nopageview=yes",
 			"referer": "https://tv.trueid.net/",
 			"playInNatPlayer": "true"
             		},
-
-
-
-
-
 
 
 
