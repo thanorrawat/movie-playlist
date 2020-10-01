@@ -230,6 +230,29 @@
 			"referer": "https://tv.trueid.net/",
 			"playInNatPlayer": "true"
             		},
+		{
+			"name": "TRUE Inside",
+			"image": "https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",
+			"url": "https://tv.trueid.net/embed/true-inside-hd?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "ไทยไทย",
+			"image": "https://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",
+			"url": "https://tv.trueid.net/embed/thaithai?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+		{
+			"name": "VERY",
+			"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F8b311ba7-dccd-45cb-9b1f-dffca6ee98e2.png&w=320&h=240",
+			"url": "https://tv.trueid.net/embed/verytv?autoplay=yes&nopageview=yes",
+			"referer": "https://tv.trueid.net/",
+			"playInNatPlayer": "true"
+            		},
+
+
 
 
 
