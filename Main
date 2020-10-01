@@ -13,6 +13,27 @@
 			"import": false
 		},	
 
+	       {
+			"name": "TrueID Stations",
+			"image": "https://pbs.twimg.com/profile_images/1122778343118491648/lM4PqdR1_400x400.jpg",
+			"url": "http://tiny.cc/trueid",
+			"import": false
+		},
+
+		{
+			"name": "True Sports",
+			"image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+			"url": "http://tiny.cc/truesports",
+			"import": false
+		},
+		
+		{
+			"name": "World Sports",
+			"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+			"url": "http://tiny.cc/worldsports",
+			"import": false
+		},
+
 		{
 			"name": "Entertainment",
 			"image": "https://cdn.freebiesupply.com/logos/large/2x/home-entertainment-logo-png-transparent.png",
@@ -41,32 +62,6 @@
 			"url": "http://tiny.cc/worldnews01",
 			"import": false
 		},	
-
-
-
-		{
-			"name": "True Sports",
-			"image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-			"url": "http://tiny.cc/truesports",
-			"import": false
-		},
-
-					
-		
-		{
-			"name": "Bein Sports",
-			"image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/sports.png",
-			"url": "http://tiny.cc/beinsports",
-			"import": false
-		},
-		
-		{
-			"name": "World Sports",
-			"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
-			"url": "http://tiny.cc/worldsports",
-			"import": false
-		},
-
 
 
 		{
