@@ -80,6 +80,12 @@
                         "import": false
 		},
 
+		{
+			"name": "อาเซียน ทีวี",
+			"image": "https://www.beltandroad.news/wp-content/uploads/2019/04/ASEANs-Flags.jpg",
+			"url": "http://tiny.cc/aseantv",
+                        "import": false
+		},
 
     	        {
 			"name": "หนังที่ผมชอบ",
