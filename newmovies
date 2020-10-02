@@ -7,15 +7,30 @@
 
 
 
+          {
+             "name": "Welcome to Sudden Death 2020",  
+             "image": "https://m.media-amazon.com/images/M/MV5BMmU4MDdlMTUtOTAyMC00YzQ3LWFhYWQtNDUxNjhiNzM4NzIwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_UY268_CR4,0,182,268_AL_.jpg",  
+             "url": "https://vidcloud9.com/videos/welcome-to-sudden-death"
+           },
 
+          {
+             "name": "Sightless 2020",  
+             "image": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2020/09/Sightless-movie-film-thriller-2020-Madelaine-Petsch-poster.jpg",  
+             "url": "https://vidcloud9.com/videos/sightless"
+           },
 
+          {
+             "name": "The Scientist 2020",  
+             "image": "https://m.media-amazon.com/images/M/MV5BYjU2NDA5ZDktNGJhNi00YzMyLWJkZGUtMWU4NGYwZjYyNmZhXkEyXkFqcGdeQXVyMzMwNDc0OTg@._V1_UY268_CR5,0,182,268_AL_.jpg",  
+             "url": "https://vidcloud9.com/videos/the-scientist"
+           },
 
           {
              "name": "The dead ones 2020",  
              "image": "https://mlmillerwritesdotcom.files.wordpress.com/2020/09/thedeadones1.jpg",  
              "url": "https://vidcloud9.com/videos/the-dead-ones"
            },
-
+	   
           {
              "name": "Let It Snow 2020",  
              "image": "https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg",  
