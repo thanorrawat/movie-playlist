@@ -31,6 +31,10 @@ https://www.myanmartvchannels.com/mahar.html
 https://www.myanmartvchannels.com/hluttaw.html
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-a44.jpg",Mahar BawDi MM
 https://www.pyoneplay.com/livetv/1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/450px-MRTV_new_logo.png",MRTV MM
+https://www.myanmartvchannels.com/mrtv.html
+#EXTINF:-1 tvg-logo="https://www.jobsinyangon.com/loga/1852015055736604.png?Myanmar%20MRTV-4",MRTV4 MM
+https://www.myanmartvchannels.com/mrtv4.html
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK KH
 http://mekongtv.net/channels/tvk
