@@ -11,23 +11,28 @@ https://myklik.rtm.gov.my/channel/tv-5
 #EXTINF:-1 tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",Astro AWANI MY
 https://www.astroawani.com/video-terkini
 
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-06-32_1.jpeg",5 Plus MYAN
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-06-32_1.jpeg",5 Plus MM
 https://www.myanmartvchannels.com/5-plus-channel.html
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-02-32_1.jpeg",Channel 7 MYAN
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-02-32_1.jpeg",Channel 7 MM
 https://www.myanmartvchannels.com/channel-7.html
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-12-05_1.png",Channel 9 MYAN
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-12-05_1.png",Channel 9 MM
 https://www.myanmartvchannels.com/channel9.html
-#EXTINF:-1 tvg-logo="https://channelkmyanmar.com/img/logo/logo.png",Channel K MYAN
+#EXTINF:-1 tvg-logo="https://channelkmyanmar.com/img/logo/logo.png",Channel K MM
 https://www.myanmartvchannels.com/channel-k.html
-#EXTINF:-1 tvg-logo="https://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png",DVB MYAN
+#EXTINF:-1 tvg-logo="https://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png",DVB MM
 https://www.myanmartvchannels.com/dvb.html
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg",Farmer MYAN
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg",Farmer MM
 https://www.myanmartvchannels.com/farmer.html
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-26-55_1.jpeg",Fortune TV MYAN
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-26-55_1.jpeg",Fortune TV MM
 https://www.myanmartvchannels.com/fortune.html
-#EXTINF:-1 tvg-logo="https://en.myanmartechpress.com/wp-content/uploads/2019/08/1-3.jpg",Mahar TV MYAN
+#EXTINF:-1 tvg-logo="https://en.myanmartechpress.com/wp-content/uploads/2019/08/1-3.jpg",Mahar TV MM
 https://www.myanmartvchannels.com/mahar.html
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-10-51-25_1.jpeg",Hluttaw MYAN
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-10-51-25_1.jpeg",Hluttaw MM
 https://www.myanmartvchannels.com/hluttaw.html
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-a44.jpg",Mahar BawDi MYAN
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-a44.jpg",Mahar BawDi MM
 https://www.pyoneplay.com/livetv/1
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK KH
+http://mekongtv.net/channels/tvk
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg",TV5 KH
+http://mekongtv.net/channels/tv5
