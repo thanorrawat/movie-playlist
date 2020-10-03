@@ -65,20 +65,11 @@
 
 
 		{
-			"name": "สหราชอาณาจักร ทีวี",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/640px-Flag_of_the_United_Kingdom_%282-3%29.svg.png",
-			"url": "http://tiny.cc/uk01",
+			"name": "UK-USA TV",
+			"image": "https://www.american.edu/uploads/standard/large/USandUKflags300x200.png",
+			"url": "http://tiny.cc/uk-usa",
 			"import": false
 		},	
-
-
-
-		{
-			"name": "อเมริกา ทีวี",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/United_States_-_Rounded_Flag.svg/512px-United_States_-_Rounded_Flag.svg.png",
-			"url": "http://tiny.cc/usa001",
-                        "import": false
-		},
 
 		{
 			"name": "อาเซียน ทีวี",
