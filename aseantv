@@ -68,6 +68,8 @@ https://www.mvtv.co.th/channel/mvlao-tv
 http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png",Indosiar TV ID
+https://m.vidio.com/live/205-indosiar-tv-stream
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-t0q6DG7-i54/XC5THqBeKSI/AAAAAAAACA0/K0HckU6hRZA5kmvZ16IEcrs8o8NHpElxgCLcBGAs/s320/rcti-logo1.jpg",RCTI ID
 https://m.rctiplus.com/tv/rcti
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/640px-MNCTV_MNC-Group.svg.png",MNCTV ID
@@ -76,3 +78,5 @@ https://m.rctiplus.com/tv/mnctv
 https://m.rctiplus.com/tv/gtv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1280px-INews.png",INEWS ID
 https://m.rctiplus.com/tv/inews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV ID
+https://m.vidio.com/live/204-sctv
