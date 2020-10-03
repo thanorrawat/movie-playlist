@@ -35,8 +35,18 @@ https://www.pyoneplay.com/livetv/1
 https://www.myanmartvchannels.com/mrtv.html
 #EXTINF:-1 tvg-logo="https://www.jobsinyangon.com/loga/1852015055736604.png?Myanmar%20MRTV-4",MRTV4 MM
 https://www.myanmartvchannels.com/mrtv4.html
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MV Myanmar 
+https://www.mvtv.co.th/channel/v2h8-mvm
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK KH
 http://mekongtv.net/channels/tvk
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg",TV5 KH
 http://mekongtv.net/channels/tv5
+
+
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MVlaos
+https://www.mvtv.co.th/channel/mvlao-tv
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",ลาวสตาร์
+http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
+    
