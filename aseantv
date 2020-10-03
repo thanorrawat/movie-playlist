@@ -87,7 +87,23 @@ https://m.vidio.com/live/6165-beritasatu
 https://m.vidio.com/live/874-kompas-tv
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4 VN
-https://english.vtv.vn/tv-video.htm
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png",VTV1 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/HUA5USF8OI.png",VTV2 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/JNIJC8YZZY.png",VTV3 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/N3WARKD1DR.png",VTV4 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/J648Q4P76M.png",VTC1 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/7P85CGFUPW.png",VTC10 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/RL5GUIDQSG.png",VTC16 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/XJD4D89N7V.png",TTXVN VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png",HN VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn
+#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/G5I534ZDXF.png",HTV9 VN
+http://vn.tvnet.gov.vn/kenh-truyen-hinh/1012/htv9
