@@ -57,6 +57,8 @@ http://mekongtv.net/channels/apsaratv
 http://mekongtv.net/channels/pnn
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/06/1b/5f/061b5f8e-54c0-4e15-4ff6-caefd20d6ed7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",Wiki TV KH
 http://mekongtv.net/channels/wikitv
+#EXTINF:-1 tvg-logo="http://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png",FreshNews KH
+http://worldlivetv.stream/channel/freshnews
 
 
 
