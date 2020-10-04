@@ -7,42 +7,52 @@
 
 
 
+
+          {
+             "name": "Seized 2020",  
+             "image": "https://m.media-amazon.com/images/M/MV5BZGNhMzQzNzUtNmYyYi00NDRlLWEyNjMtNWViYTQ3NzExOGZiXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_UY268_CR4,0,182,268_AL_.jpg",  
+             "url": "https://vidcloud9.com/videos/seized"
+           },
+          {
+             "name": "12 Hour Shift 2020",  
+             "image": "https://m.media-amazon.com/images/M/MV5BNjIxNzIxYzgtMzEzNS00MDFjLWE5MDEtNjY2NzExMmJlMmRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+             "url": "https://vidcloud9.com/videos/12-hour-shift"
+           },
+          {
+             "name": "2067 2020",  
+             "image": "https://m.media-amazon.com/images/M/MV5BM2RiYTM3NjAtNDUyOC00OWFhLWE3ZGEtNjkzNzI5YmE1M2E5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+             "url": "https://vidcloud9.com/videos/2067"
+           },
           {
              "name": "Welcome to Sudden Death 2020",  
              "image": "https://m.media-amazon.com/images/M/MV5BMmU4MDdlMTUtOTAyMC00YzQ3LWFhYWQtNDUxNjhiNzM4NzIwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_UY268_CR4,0,182,268_AL_.jpg",  
              "url": "https://vidcloud9.com/videos/welcome-to-sudden-death"
            },
-
           {
              "name": "Sightless 2020",  
              "image": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2020/09/Sightless-movie-film-thriller-2020-Madelaine-Petsch-poster.jpg",  
              "url": "https://vidcloud9.com/videos/sightless"
            },
-
           {
              "name": "The Scientist 2020",  
              "image": "https://m.media-amazon.com/images/M/MV5BYjU2NDA5ZDktNGJhNi00YzMyLWJkZGUtMWU4NGYwZjYyNmZhXkEyXkFqcGdeQXVyMzMwNDc0OTg@._V1_UY268_CR5,0,182,268_AL_.jpg",  
              "url": "https://vidcloud9.com/videos/the-scientist"
            },
-
           {
              "name": "Emperor 2020",  
              "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZmVhMzMtNjk3YS00MzUwLWFkNWYtMTA0ZjBjYmMwYTU3XkEyXkFqcGdeQXVyMTgyNDE3NTc@._V1_UX182_CR0,0,182,268_AL_.jpg",  
              "url": "https://vidcloud9.com/videos/emperor"
            },
-
           {
              "name": "The dead ones 2020",  
              "image": "https://mlmillerwritesdotcom.files.wordpress.com/2020/09/thedeadones1.jpg",  
              "url": "https://vidcloud9.com/videos/the-dead-ones"
            },
-	   
-          {
+	   {
              "name": "Let It Snow 2020",  
              "image": "https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg",  
              "url": "https://vidcloud9.com/videos/let-it-snow-2020"
            },
-
           {
              "name": "Greenland 2020 ZM",  
              "image": "https://m.media-amazon.com/images/M/MV5BMzcyMzU4MDUtM2JhOC00ZDg2LTg5MGMtZjc2OGMyMjhlMGE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",  
