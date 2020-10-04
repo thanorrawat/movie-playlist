@@ -257,30 +257,35 @@
              "name": "TSN 1 CA",  
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",
+	     "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "TSN 2 CA",  
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn2.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",
+	     "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "TSN 3 CA",  
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn3.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",
+	     "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "TSN 4 CA",  
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn4.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4rf66f",
+	     "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "TSN 5 CA",  
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",
+	     "referer": "https://embed-dev.blackboxsys.net/",
 	     "playInNatPlayer": "true"
            },
           {
