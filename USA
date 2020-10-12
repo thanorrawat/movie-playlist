@@ -85,7 +85,77 @@
             "playInNatPlayer": "true"
            },
           {
-            "name": "Cinemax USA",
+            "name": "CMT USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/175px-CMT_2017.png",
+            "url": "https://ustvgo.tv/cmt/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Cartoon Network USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",
+            "url": "https://ustvgo.tv/cartoon-network/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "CNBC USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/301px-CNBC_logo.svg.png",
+            "url": "https://ustvgo.tv/cnbc/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "CNN USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png",
+            "url": "https://ustvgo.tv/cnn-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Comedy Central USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Comedy_Central_Logo_2011_vertikal.png/313px-Comedy_Central_Logo_2011_vertikal.png",
+            "url": "https://ustvgo.tv/comedy-central-live-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "CW USA",
+            "image": "https://pmctvline2.files.wordpress.com/2016/01/cw_logo_2016.png",
+            "url": "https://ustvgo.tv/the-cw-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Destination America USA",
+            "image": "http://1.bp.blogspot.com/-y9K-1m-84-g/T3zFyLrsCxI/AAAAAAAAEx4/HUPU-Ely2nQ/s280/Destination+America+logo+2012.jpg",
+            "url": "https://ustvgo.tv/destination-america/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Disney Channel USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/320px-Disney_Channel_logo_%282014%29.svg.png",
+            "url": "https://ustvgo.tv/disney-channel-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Disney Junior USA",
+            "image": "http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png",
+            "url": "http://myustv.com/watch/disney-junior/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Disney XD USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/400px-Disney_XD_-_2015.svg.png",
+            "url": "https://ustvgo.tv/disneyxd/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "xxxx USA",
             "image": "http",
             "url": "http",
             "referer": "https://ustvgo.tv/",
@@ -98,35 +168,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/175px-CMT_2017.png" ,CMT
-https://ustvgo.tv/cmt/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network
-https://ustvgo.tv/cartoon-network/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/301px-CNBC_logo.svg.png" ,CNBC
-https://ustvgo.tv/cnbc/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png" ,CNN
-https://ustvgo.tv/cnn-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Comedy_Central_Logo_2011_vertikal.png/313px-Comedy_Central_Logo_2011_vertikal.png" ,Comedy Central
-https://ustvgo.tv/comedy-central-live-free/
-
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/01/cw_logo_2016.png" ,CW
-https://ustvgo.tv/the-cw-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-y9K-1m-84-g/T3zFyLrsCxI/AAAAAAAAEx4/HUPU-Ely2nQ/s280/Destination+America+logo+2012.jpg" ,Destination America
-https://ustvgo.tv/destination-america/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/320px-Disney_Channel_logo_%282014%29.svg.png" ,Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" ,Disney Junior
-http://myustv.com/watch/disney-junior/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/400px-Disney_XD_-_2015.svg.png" ,Disney XD
-https://ustvgo.tv/disneyxd/
 
 #EXTINF:-1 tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/espn2-768x757.jpg" ,ESPN2
 https://ustvgo.tv/espn2/
