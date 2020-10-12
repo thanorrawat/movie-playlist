@@ -218,6 +218,55 @@
             "playInNatPlayer": "true"
            },
           {
+            "name": "FX USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png",
+            "url": "https://ustvgo.tv/fx-channel-live/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "FXM USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/400px-FXM_Logo.svg.png",
+            "url": "https://ustvgo.tv/fxm/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "FXX USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/400px-FXX_Logo.svg.png",
+            "url": "https://ustvgo.tv/fxx/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Hallmark USA",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/400px-Hallmark_Channel_logo.svg.png",
+            "url": "https://ustvgo.tv/hallmark-channel-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Hallmark Movies Mysteries USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png",
+            "url": "https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "HGTV USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/400px-HGTV_2010.svg.png",
+            "url": "https://ustvgo.tv/hgtv-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "HLN USA",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/300px-HLN_%28TV_network%29_2017_logo.svg.png",
+            "url": "https://ustvgo.tv/hln/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
             "name": "xxxx USA",
             "image": "hjpg",
             "url": "hhhh",
@@ -226,30 +275,14 @@
            },
 
 
+
+
+
            ]
 }
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png" ,FX
-https://ustvgo.tv/fx-channel-live/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/400px-FXM_Logo.svg.png" ,FXM
-https://ustvgo.tv/fxm/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/400px-FXX_Logo.svg.png" ,FXX
-https://ustvgo.tv/fxx/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/400px-Hallmark_Channel_logo.svg.png" ,Hallmark Channel 
-https://ustvgo.tv/hallmark-channel-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/400px-HGTV_2010.svg.png" ,HGTV
-https://ustvgo.tv/hgtv-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/300px-HLN_%28TV_network%29_2017_logo.svg.png" ,HLN
-https://ustvgo.tv/hln/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png" ,Hallmark Movies Mysteries
-https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/432px-Investigation_Discovery_Logo_2018.svg.png" ,Investigation Discovery
 https://ustvgo.tv/investigation-discovery-live-streaming-free/
