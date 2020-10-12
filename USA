@@ -1,19 +1,61 @@
-#EXTM3U
+{
+	"name": "USA TV",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://clipart.info/images/ccovers/1559856917USA-Flag-Map-PNG-Clip-Art-Image.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/USA",
+	"stations": [
+	
+  
+  
+            {
+            "name": "ABC USA",  
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",
+            "url": "https://ustvgo.tv/abc-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "AMC USA",
+            "image": "https://seeklogo.com/images/A/amc-logo-AB7E62FB02-seeklogo.com.png",
+            "url": "https://ustvgo.tv/amc-live/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Animal Planet USA",
+            "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+            "url": "https://ustvgo.tv/animal-planet-live/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "BBC America USA",
+            "image": "https://cdn.seat42f.com/wp-content/uploads/2012/08/12000434/BBC-AMERICA-Logo.jpg",
+            "url": "https://ustvgo.tv/bbc-america-live/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Boomerang USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png",
+            "url": "https://ustvgo.tv/boomerang/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "USA",
+            "image": "http",
+            "url": "http",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC
-https://ustvgo.tv/abc-live-streaming-free/
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-logo-AB7E62FB02-seeklogo.com.png",AMC
-https://ustvgo.tv/amc-live/
 
-#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
-https://ustvgo.tv/animal-planet-live/
 
-#EXTINF:-1 tvg-logo="https://cdn.seat42f.com/wp-content/uploads/2012/08/12000434/BBC-AMERICA-Logo.jpg",BBC America 
-https://ustvgo.tv/bbc-america-live/
+           ]
+}
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png" ,Boomerang 
-https://ustvgo.tv/boomerang/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bravo_TV_%282017_Logo%29.png/318px-Bravo_TV_%282017_Logo%29.png" ,Bravo
 https://ustvgo.tv/bravo-channel-live-free/
