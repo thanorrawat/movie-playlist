@@ -13,13 +13,6 @@
 			"import": false
 		},	
 
-	       {
-			"name": "TrueID ทีวี",
-			"image": "https://pbs.twimg.com/profile_images/1122778343118491648/lM4PqdR1_400x400.jpg",
-			"url": "http://tiny.cc/trueid",
-			"import": false
-		},
-
 		{
 			"name": "กีฬา ทรูสปอร์ต",
 			"image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
