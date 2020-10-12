@@ -65,9 +65,17 @@
 
 
 		{
-			"name": "UK-USA TV",
-			"image": "https://www.american.edu/uploads/standard/large/USandUKflags300x200.png",
-			"url": "http://tiny.cc/uk-usa",
+			"name": "UK TV",
+			"image": "http://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG.png",
+			"url": "http://tiny.cc/UKTV",
+			"import": false
+		},	
+
+
+		{
+			"name": "USA TV",
+			"image": "https://clipart.info/images/ccovers/1559856917USA-Flag-Map-PNG-Clip-Art-Image.png",
+			"url": "http://tiny.cc/USATV",
 			"import": false
 		},	
 
