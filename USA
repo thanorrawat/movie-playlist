@@ -155,9 +155,72 @@
             "playInNatPlayer": "true"
            },
           {
+            "name": "E! USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/74px-E%21_Logo.svg.png",
+            "url": "https://ustvgo.tv/eonline/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "ESPN2 USA",
+            "image": "https://www.dailydot.com/wp-content/uploads/2020/05/espn2-768x757.jpg",
+            "url": "https://ustvgo.tv/espn2-live/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "ESPNU USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/240px-ESPN_U_logo.svg.png",
+            "url": "https://ustvgo.tv/espnu/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "ESPN News USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/798px-Espnnews.png",
+            "url": "https://ustvgo.tv/espnews/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Food Network USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png",
+            "url": "https://ustvgo.tv/food-network-live-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Fox USA",
+            "image": "https://pmctvline2.files.wordpress.com/2015/12/fox-logo-620.jpg",
+            "url": "https://ustvgo.tv/fox-hd-live-streaming/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Fox Business USA",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/640px-Fox_Business.svg.png",
+            "url": "https://ustvgo.tv/fox-business-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Fox News USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png",
+            "url": "https://ustvgo.tv/fox-news-live-streaming-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
+            "name": "Freeform USA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/320px-Freeform_2018.svg.png",
+            "url": "https://ustvgo.tv/freeform-channel-live-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
+          {
             "name": "xxxx USA",
-            "image": "http",
-            "url": "http",
+            "image": "hjpg",
+            "url": "hhhh",
             "referer": "https://ustvgo.tv/",
             "playInNatPlayer": "true"
            },
@@ -166,26 +229,6 @@
            ]
 }
 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/espn2-768x757.jpg" ,ESPN2
-https://ustvgo.tv/espn2/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" ,Food Network 
-https://ustvgo.tv/food-network-live-free/
-
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2015/12/fox-logo-620.jpg" ,Fox
-https://ustvgo.tv/fox-hd-live-streaming/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/640px-Fox_Business.svg.png" ,Fox Business
-https://ustvgo.tv/fox-business-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" ,Fox News
-https://ustvgo.tv/fox-news-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" ,Fox Sports 2
-https://ustvgo.tv/fox-sports-2/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png" ,FX
 https://ustvgo.tv/fx-channel-live/
