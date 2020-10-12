@@ -1,43 +1,103 @@
-#EXTM3U
+{
+	"name": "ช่องสารคดี",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/documentary",
+	"stations": [
+	
+  
+      {
+      "name": "Discovery Channel",
+      "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Discovery Asia",
+      "image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "History HD",
+      "image": "https://images.iptvhero.com/channel/hd-history.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "H2",
+      "image": "https://images.iptvhero.com/channel/hd-history2.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Nat Geo Graphic",
+      "image": "https://images.iptvhero.com/channel/hd-natgeo.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Nat Geo Wild",
+      "image": "https://images.iptvhero.com/channel/hd-natgeowild.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/nat-geo-wild/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Animal Planet",
+      "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Love Nature",
+      "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+      "url": "https://www.we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/lovenature-4k/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "TLC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
+      "url": "https://www.we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/tlc-hd/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "BBC EARTH",
+      "image": "https://teevee-hd.com/img/bbcearth.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "BBC LIFESTYLE",
+      "image": "https://teevee-hd.com/img/bbclifestyle.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Outdoor Channel",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
+      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Documentary4U",
+      "image": "https://www.ginikousa.com/channels/logo/documentaries-4u.jpg",
+      "url": "https://www.ginikousa.com/live.php?id=695",
+      "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",Discovery Channel 
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/
 
-#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/
-
-#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-history.png",History HD
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/
-
-#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-history2.png",H2
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
-
-#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Nat Geo Graphic
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/
-
-#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/nat-geo-wild/
-
-#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Nat Geo People
-http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",Love Nature
-https://www.we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/lovenature-4k/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",TLC
-https://www.we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/tlc-hd/
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",Outdoor Channel
-https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/
-
-#EXTINF:-1 tvg-logo="https://www.ginikousa.com/channels/logo/documentaries-4u.jpg",Documentary4U
-https://www.ginikousa.com/live.php?id=695
+           ]
+}
