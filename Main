@@ -15,20 +15,20 @@
 
 		{
 			"name": "กีฬา ทรูสปอร์ต",
-			"image": "http://westrandsocceracademy.co.za/wp-content/uploads/2018/02/kid-playing-soccer-clipart-transparent-background-10.png",
+			"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
 			"url": "http://tiny.cc/truesports",
 			"import": false
 		},
 		
 		{
 			"name": "กีฬารอบโลก",
-			"image": "https://www.pnclogos.com/wp-content/uploads/2017/02/The-9Best-Sports-Logo-Designs-in-History.png",
+			"image": "https://www.freepnglogos.com/uploads/sport-png/sport-kids-hobby-store-shop-for-activity-kits-art-craft-35.png",
 			"url": "http://tiny.cc/worldsports",
 			"import": false
 		},
 
 		{
-			"name": "ช่องบันเทิงหนังซีรีส์",
+			"name": "บันเทิงหนังซีรีส์",
 			"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
 			"url": "http://tiny.cc/entertainment01",
 			"import": false
@@ -81,7 +81,7 @@
 
     	        {
 			"name": "หนังที่ผมชอบ",
-			"image": "https://image.roku.com/developer_channels/prod/5acefbfdec1bfd80e2dfdc48c9cb4754d38ec39dadf4c6abdd82a59fd485b04c.png",
+			"image": "http://peppermedia.gr/wp-content/uploads/2019/11/The_HORRO%D0%AF_Channel.png",
 			"url": "http://tiny.cc/myhorror",
 			"import": false
 		},		
@@ -89,7 +89,7 @@
 
                {
                        "name": "หนังมาใหม่",
-                       "image": "https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
+                       "image": "http://www.i2clipart.com/cliparts/f/e/2/2/clipart-movies-512x512-fe22.png",
                        "url": "http://tiny.cc/upmovies",
 		       "import": false
 		},		
