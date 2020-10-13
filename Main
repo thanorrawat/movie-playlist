@@ -28,12 +28,17 @@
 		},
 
 		{
-			"name": "บันเทิงหนังซีรีส์",
+			"name": "ช่องหนังและซีรีส์",
 			"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
 			"url": "http://tiny.cc/entertainment01",
 			"import": false
 		},
-
+		{
+			"name": "ช่องเพลงล้วนๆ",
+			"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
+			"url": "http://tiny.cc/musiconly",
+			"import": false
+		},
                {
 			"name": "ช่องสารคดี",
 			"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
