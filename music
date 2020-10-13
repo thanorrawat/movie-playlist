@@ -6,6 +6,14 @@
 	"stations": [
   
   
+  
+    {
+  "name": "True Music",
+  "image": "https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",
+  "url": "https://www.we-play.tv/videos/tv-entertainment/true-music-hd/",
+  "referer": "https://www.we-play.tv/",
+  "playInNatPlayer": "true"
+  },
   {
   "name": "Today's Country",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
