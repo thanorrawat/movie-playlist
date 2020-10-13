@@ -7,13 +7,34 @@
   
   
   
-    {
-  "name": "True Music",
-  "image": "https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",
-  "url": "https://www.we-play.tv/videos/tv-entertainment/true-music-hd/",
-  "referer": "https://www.we-play.tv/",
-  "playInNatPlayer": "true"
-  },
+	{
+	"name": "True Music",
+	"image": "https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",
+	"url": "https://www.we-play.tv/videos/tv-entertainment/true-music-hd/",
+	"referer": "https://www.we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "MTV Block Party",
+	"image": "https://www.pngitem.com/pimgs/m/70-704750_mtv-logo-80s-hd-png-download.png",
+	"url": "http://photocall.tv/fV3h/l1?ch=mtv_party",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "MTV Biggest Pop",
+	"image": "https://www.pngitem.com/pimgs/m/70-704750_mtv-logo-80s-hd-png-download.png",
+	"url": "http://photocall.tv/fV3h/l1?ch=mtv_pop",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "RETRO",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",
+	"url": "http://photocall.tv/fV3h/l1?ch=retro",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	},
   {
   "name": "Country Network",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
@@ -119,10 +140,183 @@
   "referer": "http://photocall.tv/",
   "playInNatPlayer": "true"
   }, 
- 
- 
- 
- 
- 
+	{
+	"name": "MC Play",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=mc_play",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Dance/EDM",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=dance",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Y2K",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=y2k",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "90s",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=90s",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "80s",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=80s",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Soft Rock",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=softrock",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Brits+Hits",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=britsnhits",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Hiphop-R&B",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=hiphopnrnb",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "RAB",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=rap",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "R&B Soul",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=rnbsoul",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Throwback Jamz",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=throwbackjamz",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "R&B2K",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=rnb2k",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "RAB2K",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=rap2k",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Ladies of R&B",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=ladiesofrnb",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Rock",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=rock",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Metal",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=metal",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Kidz Only",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=kidzonly",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Radio Disney",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=radiodisney",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "KIDZ BOP",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=kidzbop",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Youth Hits",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=youthhits",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Wonderama",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=wonderama",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Toddler Tunes",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZdN0/mc.php?ch=toddlertunes",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Baeble",
+	"image": "https://ww1.prweb.com/prfiles/2012/07/31/12331490/gI_120921_baebleLogo.png",
+	"url": "http://photocall.tv/fV3h/l1?ch=baeble",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Classic Arts",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png",
+	"url": "http://photocall.tv/fV3h/l1?ch=classicarts",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "ROCK TV",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",
+	"url": "http://photocall.tv/fV3h/l1?ch=rockfm",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+
+
+
               ]
 }
