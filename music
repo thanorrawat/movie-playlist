@@ -1,0 +1,28 @@
+{
+  "name": "เพลงล้วนๆ",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/music",
+	"stations": [
+  
+  
+  {
+  "name": "Today's Country",
+  "image": "https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png",
+  "url": "http://stream.pcriot.com/ZdN0/mc.php?ch=todayscountry",
+  "referer": "http://photocall.tv/",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Country Hits",
+  "image": "https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png",
+  "url": "http://stream.pcriot.com/ZdN0/mc.php?ch=countryhits",
+  "referer": "http://photocall.tv/",
+  "playInNatPlayer": "true"
+  },
+  
+  
+  
+  
+              ]
+}
