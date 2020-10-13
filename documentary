@@ -6,6 +6,12 @@
 	"stations": [
 	
   
+        {
+      "name": "PSI สาระดี 24 ชั่วโมง",
+      "image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
+      "url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
+      "playInNatPlayer": "true"
+      },
       {
       "name": "Discovery Channel",
       "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
@@ -53,6 +59,12 @@
       "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
       "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/",
       "referer": "https://www.we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "World Animal",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
+      "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
       "playInNatPlayer": "true"
       },
       {
