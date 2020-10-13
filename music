@@ -15,6 +15,20 @@
   "playInNatPlayer": "true"
   },
   {
+  "name": "Country Network",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
+  "url": "http://photocall.tv/fV3h/l1?ch=countrynetwork",
+  "referer": "http://photocall.tv/",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "CMC USA",
+  "image": "https://www.freeetv.com/images/01_logo/california_music_channel_usa.jpg",
+  "url": "http://photocall.tv/fV3h/l1?ch=cmc_us",
+  "referer": "http://photocall.tv/",
+  "playInNatPlayer": "true"
+  },
+  {
   "name": "Today's Country",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
   "url": "http://stream.pcriot.com/ZdN0/mc.php?ch=todayscountry",
