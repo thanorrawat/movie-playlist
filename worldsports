@@ -325,7 +325,8 @@
           {
              "name": "ESPN Deportes",  
              "image": "http://runnel.ir/ax/logo/ESPN-Deportes.png",  
-	     "url": "https://www.televisiongratishd.com/live2/espndeportes1.php",
+	     "url": "http://photocall.tv/v7Dw/l1?ch=espndep",
+	     "referer": "http://photocall.tv/",
 	     "playInNatPlayer": "true"
            },
           {
@@ -397,13 +398,15 @@
           {
              "name": "DIRECTV SPORTS",  
              "image": "http://runnel.ir/ax/logo/DirecTV_Sports.png",  
-	     "url": "https://www.televisiongratishd.com/live2/directvsports1.php",
+	     "url": "http://dpelota.com/directvsports.php",
+	     "referer": "http://photocall.tv/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "DIRECTV SPORTS 2",  
              "image": "http://runnel.ir/ax/logo/DirecTV_Sports_2.png",  
-	     "url": "https://www.televisiongratishd.com/live2/directvsports21.php",
+	     "url": "http://dpelota.com/directvsports2.php",
+	     "referer": "http://photocall.tv/",
 	     "playInNatPlayer": "true"
            },
           {
