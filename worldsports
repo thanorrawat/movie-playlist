@@ -277,9 +277,8 @@
           {
              "name": "TSN 5 CA",  
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
-	     "url": "https://nhl.freestreams-live1.com/tsn-5/",
+	     "url": "https://mygoodstream.pw/tsn/play.html?id=aHR0cHM6Ly9wZS1hay1scDAxYS05YzltZWRpYS5ha2FtYWl6ZWQubmV0L2xpdmUvVFNONS9wL2Rhc2gvMjAwMDAwMDEvMDg3YjgwNDNkY2UzNjFjMC9tYW5pZmVzdC5tcGQ",
 	     "referer": "https://freestreams-live1.com/",
-	     "userAgent": "exoplayer_video",
 	     "playInNatPlayer": "true"
            },
           {
