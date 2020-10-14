@@ -1,10 +1,38 @@
-#EXTM3U
+{
+  "name": "ข่าวต่างประเทศ",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/worldnews",
+	"stations": [
+  
+	{
+	"name": "ABC NEWS",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",
+	"url": "https://onvision.info/channels/abcnews.html",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "CNN",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png",
+	"url": "https://ustvgo.tv/cnn-live-streaming-free/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "xxxx",
+	"image": "xxxx",
+	"url": "xxxx",
+	"playInNatPlayer": "true"
+	},
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",ABC NEWS
-https://onvision.info/channels/abcnews.html
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png" ,CNN
-https://ustvgo.tv/cnn-live-streaming-free/
+
+
+
+         ]
+}
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",BBC News
 https://uk.easyview.eu/hls/nbcb.m3u8
