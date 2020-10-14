@@ -279,6 +279,7 @@
              "image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
 	     "url": "https://nhl.freestreams-live1.com/tsn-5/",
 	     "referer": "https://freestreams-live1.com/",
+	     "userAgent": "exoplayer_video",
 	     "playInNatPlayer": "true"
            },
           {
