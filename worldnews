@@ -55,10 +55,10 @@
 	},
 
       {
-         "name": "Me at the zoo",
+         "name": "Sky News",
          "image": "https://img.youtube.com/vi/9Auq9mYxFEE/0.jpg",
          "imageScale": "centerCrop",
-         "url": "https://www.youtube.com/watch?v=9Auq9mYxFEE"
+         "url": "https://www.youtube.com/embed/9Auq9mYxFEE"
       },
 
 	{
