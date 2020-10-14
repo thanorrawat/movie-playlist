@@ -70,6 +70,21 @@
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	}, 
+	{
+	"name": "Spirit TV",
+	"image": "https://lh3.googleusercontent.com/QdaAfD3AQmBCJ81_I_HhYp8gpbJ50eWv0-ytZtZ4ueWsaGOMwooyLn5nOc1tKVF5tZU=s180-rw",
+	"url": "http://photocall.tv/v7Dw/l1?ch=spirittv",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "LivexLive TV",
+	"image": "https://lh3.googleusercontent.com/Ire1O3H7cX6CptWb8f9bFKfvTMboAnElsn3RNdpx-2-BJOcVuo93u9T9CPfGfcwPkG8=s180-rw",
+	"url": "http://photocall.tv/v7Dw/l1?ch=lxl",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+
 
 
 
