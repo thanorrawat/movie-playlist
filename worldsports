@@ -132,20 +132,6 @@
 	     "playInNatPlayer": "true"
            },
           {
-             "name": "Bein Sports 1 TH",  
-             "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",  
-	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
-             "referer": "https://dooball66.com/",
-	     "playInNatPlayer": "true"
-           },
-          {
-             "name": "Bein Sports 2 TH",  
-             "image": "https://overseer.blackboxsys.net/images/png/epl-bein2.png",  
-	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
-             "referer": "https://dooball66.com/",
-	     "playInNatPlayer": "true"
-           },
-          {
              "name": "Bein Sports 1 AR",  
              "image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
