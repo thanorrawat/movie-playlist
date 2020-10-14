@@ -53,6 +53,14 @@
 	"url": "https://ustvgo.tv/cbs-live-streaming-free/",
 	"playInNatPlayer": "true"
 	},
+
+      {
+         "name": "Me at the zoo",
+         "image": "https://img.youtube.com/vi/9Auq9mYxFEE/0.jpg",
+         "imageScale": "centerCrop",
+         "url": "https://www.youtube.com/watch?v=9Auq9mYxFEE"
+      }
+
 	{
 	"name": "Sky News",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",
