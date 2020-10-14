@@ -396,20 +396,6 @@
 	     "playInNatPlayer": "true"
            },
           {
-             "name": "DIRECTV SPORTS",  
-             "image": "http://runnel.ir/ax/logo/DirecTV_Sports.png",  
-	     "url": "http://dpelota.com/directvsports.php",
-	     "referer": "http://dpelota.com/",
-	     "playInNatPlayer": "true"
-           },
-          {
-             "name": "DIRECTV SPORTS 2",  
-             "image": "http://runnel.ir/ax/logo/DirecTV_Sports_2.png",  
-	     "url": "http://dpelota.com/directvsports2.php",
-	     "referer": "http://photocall.tv/",
-	     "playInNatPlayer": "true"
-           },
-          {
              "name": "GoL T ",  
              "image": "https://www.telefonoatencionclientes.com/wp-content/uploads/2018/10/telefono-goltv.jpg",  
 	     "url": "http://lacalleochotv.org/gol-tv-online-en-directo-gratis/",
