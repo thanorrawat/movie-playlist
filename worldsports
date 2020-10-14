@@ -275,6 +275,13 @@
 	     "playInNatPlayer": "true"
            },
           {
+             "name": "TSN 5 CA",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
+	     "url": "https://nhl.freestreams-live1.com/tsn-5/",
+	     "referer": "https://freestreams-live1.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
              "name": "Fox Sports 1 USA",  
              "image": "http://runnel.ir/ax/logo/FS1.png",  
 	     "url": "https://espn-live.stream/stream/45459.html",
