@@ -84,7 +84,27 @@
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	}, 
-
+	{
+	"name": "Melody Channel TV",
+	"image": "https://assets.streamtest.in/logo/3216/203_melody-channel-tv.jpg",
+	"url": "http://photocall.tv/v7Dw/l1?ch=melodychannel",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Melody Channel TV",
+	"image": "https://images.radiovolna.net/_files/images/stations/10535/71bb81f1998eb0e73039ca4abbf6a0c6.png",
+	"url": "http://photocall.tv/v7Dw/l1?ch=littoralfm",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "GO TV",
+	"image": "http://www.digitaltvnews.net/wp-content/uploads/logos/gocommt.png",
+	"url": "http://photocall.tv/v7Dw/l1?ch=go",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
 
 
 
