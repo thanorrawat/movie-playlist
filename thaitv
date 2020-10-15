@@ -52,6 +52,7 @@
 			"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
 			"url": "https://www.duball24.net/index.php?goto=play_new&id=568253&ch=newtv",
 			"referer": "https://www.duball24.net/",
+                        "UserAgent": "exoplayer_video",
 			"playInNatPlayer": "true"
                     },
 		    {
