@@ -92,8 +92,9 @@
       {
       "name": "True Sport 7",
       "image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-      "url": "https://www.we-play.tv/watching/tv/true-sports-7",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://www.duball24.net/index.php?goto=play_new&id=568253&ch=truesport7",
+      "referer": "https://www.duball24.net/",
+      "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
       },
       {
