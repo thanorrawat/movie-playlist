@@ -10,84 +10,84 @@
       {
       "name": "Discovery Channel",
       "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/",
+      "url": "https://www.we-play.tv/watching/tv/discovery-channel",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Discovery Asia",
       "image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia/",
+      "url": "https://www.we-play.tv/watching/tv/discovery-asia",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "History HD",
       "image": "https://images.iptvhero.com/channel/hd-history.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/",
+      "url": "https://www.we-play.tv/watching/tv/history-hd",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "H2",
       "image": "https://images.iptvhero.com/channel/hd-history2.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/",
+      "url": "https://www.we-play.tv/watching/tv/h2",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Nat Geo Graphic",
       "image": "https://images.iptvhero.com/channel/hd-natgeo.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/",
+      "url": "https://www.we-play.tv/watching/tv/national-geographic",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Nat Geo Wild",
       "image": "https://images.iptvhero.com/channel/hd-natgeowild.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/nat-geo-wild/",
+      "url": "https://www.we-play.tv/watching/tv/nat-geo-wild",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Animal Planet",
       "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/",
+      "url": "https://www.we-play.tv/watching/tv/animal-planet",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Love Nature",
       "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
-      "url": "https://www.we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/lovenature-4k/",
+      "url": "https://www.we-play.tv/watching/tv/lovenature-4k",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "TLC",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
-      "url": "https://www.we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/tlc-hd/",
+      "url": "https://www.we-play.tv/watching/tv/tlc-hd",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "BBC EARTH",
       "image": "https://teevee-hd.com/img/bbcearth.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/",
+      "url": "https://www.we-play.tv/watching/tv/bbc-earth",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "BBC LIFESTYLE",
       "image": "https://teevee-hd.com/img/bbclifestyle.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/",
+      "url": "https://www.we-play.tv/watching/tv/bbc-lifestyle",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Outdoor Channel",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
-      "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/",
+      "url": "https://www.we-play.tv/watching/tv/outdoor-channel",
       "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
