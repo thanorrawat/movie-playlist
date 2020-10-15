@@ -1,7 +1,7 @@
 {
 	"name": "New Movies Update",
 	"author": "@แอนดรอยด์แอพฟรี",
-	"image": "https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
+	"image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
 	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/newmovies",
 	"stations": [
 
@@ -32,32 +32,40 @@
 	"url": "https://cdn.livedoomovies.com/hls/f3f486301ee6ba95ba7c9719b70b7ced/f3f486301ee6ba95ba7c9719b70b7ced.m3u8"
 	},
 	{
-	"name": "xxxx",  
-	"image": "xxxx",  
-	"url": "xxxx"
+	"name": "Antebellum - หลอน ย้อน โลก",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/a/acb2f935c81d7c19dbbe0b6a42f5918a.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/9f5f7c96aedac82eb545c47e96f9d4fd/9f5f7c96aedac82eb545c47e96f9d4fd.m3u8"
 	},
 	{
-	"name": "xxxx",  
-	"image": "xxxx",  
-	"url": "xxxx"
+	"name": "Malasana 32-ย่านผีอยู่",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/0/06313624a676e645846145e907497e6b.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/9ba7648ea4a68fcdb5ea15fb54c66a19/9ba7648ea4a68fcdb5ea15fb54c66a19.m3u8"
 	},
 	{
-	"name": "xxxx",  
-	"image": "xxxx",  
-	"url": "xxxx"
+	"name": "Special Actors - เล่นใหญ่ ใจเกินร้อย",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/8/84ce25f965fcf8e543035ab486853f81.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/fd628807f82401f801c9ec3a85993498/fd628807f82401f801c9ec3a85993498.m3u8"
 	},
 	{
-	"name": "xxxx",  
-	"image": "xxxx",  
-	"url": "xxxx"
+	"name": "The New Mutants - มิวแทนท์รุ่นใหม่",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/4/493e3988277823d691f571d80319e717.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/c8e402790040c314698dfc9ff7081277/c8e402790040c314698dfc9ff7081277.m3u8"
 	},
 	{
-	"name": "xxxx",  
-	"image": "xxxx",  
-	"url": "xxxx"
+	"name": "Mulan - มู่หลาน",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/4/41d55424a6f5c1f8f6c3d3572a9b93ac.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/f5187765f33a2ddcbe6a5c67e5f5edea/f5187765f33a2ddcbe6a5c67e5f5edea.m3u8"
 	},
-
-
+	{
+	"name": "Tenet [Zoom] - เทเน็ท",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/9/9031bc10e88ebd640611fb62cc116820.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/31d22fedeb99034dbe0c29e7411487d6/31d22fedeb99034dbe0c29e7411487d6.m3u8"
+	},
+	{
+	"name": "Lingering - โรงแรมผีจอง(เวร)",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/4/437ef42c98ccbb17f8e921423a197859.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/e72b9848fea8abdcc86ea45df04b91bb/e72b9848fea8abdcc86ea45df04b91bb.m3u8"
+	},
 
 		
     ]
