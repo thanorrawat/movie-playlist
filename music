@@ -10,63 +10,63 @@
 	{
 	"name": "True Music",
 	"image": "https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",
-	"url": "https://www.we-play.tv/videos/tv-entertainment/true-music-hd/",
+	"url": "https://www.we-play.tv/watching/tv/true-music-hd",
 	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "MTV Block Party",
 	"image": "https://www.pngitem.com/pimgs/m/70-704750_mtv-logo-80s-hd-png-download.png",
-	"url": "http://photocall.tv/fV3h/l1?ch=mtv_party",
+	"url": "http://photocall.tv/v7Dw/l1?ch=mtv_party",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "MTV Biggest Pop",
 	"image": "https://www.pngitem.com/pimgs/m/70-704750_mtv-logo-80s-hd-png-download.png",
-	"url": "http://photocall.tv/fV3h/l1?ch=mtv_pop",
+	"url": "http://photocall.tv/v7Dw/l1?ch=mtv_pop",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "RETRO",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",
-	"url": "http://photocall.tv/fV3h/l1?ch=retro",
+	"url": "http://photocall.tv/v7Dw/l1?ch=retro",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	},
   {
   "name": "Country Network",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
-  "url": "http://photocall.tv/fV3h/l1?ch=countrynetwork",
+  "url": "http://photocall.tv/v7Dw/l1?ch=countrynetwork",
   "referer": "http://photocall.tv/",
   "playInNatPlayer": "true"
   },
   {
   "name": "CMC USA",
   "image": "https://www.freeetv.com/images/01_logo/california_music_channel_usa.jpg",
-  "url": "http://photocall.tv/fV3h/l1?ch=cmc_us",
+  "url": "http://photocall.tv/v7Dw/l1?ch=cmc_us",
   "referer": "http://photocall.tv/",
   "playInNatPlayer": "true"
   },
 	{
 	"name": "Baeble",
 	"image": "https://ww1.prweb.com/prfiles/2012/07/31/12331490/gI_120921_baebleLogo.png",
-	"url": "http://photocall.tv/fV3h/l1?ch=baeble",
+	"url": "http://photocall.tv/v7Dw/l1?ch=baeble",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Classic Arts",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png",
-	"url": "http://photocall.tv/fV3h/l1?ch=classicarts",
+	"url": "http://photocall.tv/v7Dw/l1?ch=classicarts",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "ROCK TV",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",
-	"url": "http://photocall.tv/fV3h/l1?ch=rockfm",
+	"url": "http://photocall.tv/v7Dw/l1?ch=rockfm",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	}, 
