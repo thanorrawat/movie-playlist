@@ -189,6 +189,20 @@
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
 	}, 
+	{
+	"name": "Euro Latina TV",
+	"image": "https://i.ytimg.com/vi/ipSScnKB40o/maxresdefault.jpg",
+	"url": "http://photocall.tv/v7Dw/l1?ch=eurolatinatv",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Europa Plus TV",
+	"image": "https://live-tv-channels.org/pt-data/uploads/logo/ru-europa-plus-tv.jpg",
+	"url": "http://photocall.tv/v7Dw/l1?ch=europaplus",
+	"referer": "http://photocall.tv/",
+	"playInNatPlayer": "true"
+	}, 
 
 
               ]
