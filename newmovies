@@ -66,6 +66,37 @@
 	"image": "https://www.doomovie-hd.com/assets/movie_poster/4/437ef42c98ccbb17f8e921423a197859.jpg",  
 	"url": "https://cdn.livedoomovies.com/hls/e72b9848fea8abdcc86ea45df04b91bb/e72b9848fea8abdcc86ea45df04b91bb.m3u8"
 	},
+	{
+	"name": "ฝ่านรกซอมบี้คลั่ง",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/f/ffff169bd7e6c6c19c6bf3fa62be2c06.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/11c85bee784426e2c3191a560d7ab22a/11c85bee784426e2c3191a560d7ab22a.m3u8"
+	},
+	{
+	"name": "Ava - เอวา มาแล้วฆ่า",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/8/836d2099b424756696730757872712bd.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/b22a1622cd06b16ace33665d31b39cc9/b22a1622cd06b16ace33665d31b39cc9.m3u8"
+	},
+	{
+	"name": "Intruder - อย่าให้ยูจินเข้าบ้าน",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/d/d6c2babfa173b38aff5ef23500833684.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/5c1560862fa654cca5257ac9cc60bb78/5c1560862fa654cca5257ac9cc60bb78.m3u8"
+	},
+	{
+	"name": "White Snake - ตำนาน นางพญางูขาว ",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/9/917ae1cb6493229f664df31175ccf4a1.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/b15879fa269fa406f344929951e5bf78/b15879fa269fa406f344929951e5bf78.m3u8"
+	},
+	{
+	"name": "กระชากนรก โคตรไอ้เข้",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/f/fd438fa3bc1eeb30ca806e500fcb196c.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/82f264784ac1f79bbc4e032564063ba2/82f264784ac1f79bbc4e032564063ba2.m3u8"
+	},
+	{
+	"name": "Unhinged - เฮียคลั่ง ดับเครื่องชน",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/1/182cd891c73cd3ebaa2ba26355e0ba47.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/652889535d5b5eb782c6193fd4f6fc18/652889535d5b5eb782c6193fd4f6fc18.m3u8"
+	},
+
 
 		
     ]
