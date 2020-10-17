@@ -9,14 +9,21 @@
   
 	{
 	"name": "True Music",
-	"image": "https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg",
+	"image": "https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg",
 	"url": "https://www.we-play.tv/watching/tv/true-music-hd",
 	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
+	"name": "SexyKPop TV",
+	"image": "https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",
+	"url": "http://photocall.tv/v7Dw/l1?ch=sexykpop",
+	"referer": "https://www.we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+	{
 	"name": "MTV Block Party",
-	"image": "https://www.pngitem.com/pimgs/m/70-704750_mtv-logo-80s-hd-png-download.png",
+	"image": "https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png",
 	"url": "http://photocall.tv/v7Dw/l1?ch=mtv_party",
 	"referer": "http://photocall.tv/",
 	"playInNatPlayer": "true"
