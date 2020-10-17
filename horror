@@ -10,7 +10,7 @@
 	{
 	"name": "Let it snow 2020",  
 	"image": "https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg",  
-	"url": "https://vidcloud9.com/goto.php?url=aHR0cHM6LyURASDGHUSRFSJGYfdsffsderFStewthsfSFtrftesdf9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RydWUtZXBpc29kZS0yOTAyMTUvS1NKSTg4UEVSS0haLzIybV8xNjAxNDgxMjM5MzI5MjA5Lm1wNA==",
+	"url": "https://vidcloud9.com/videos/let-it-snow-2020",
 	"playInNatPlayer": "true"
         },
 	{
@@ -38,6 +38,13 @@
 	"playInNatPlayer": "true"
 	},
 	{
+	"name": "Cold Pursuit 2019",  
+	"image": "http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg",  
+	"url": "https://lb1.one3up.com/hls/b1a65ea4b26ec264f94349f44388377b/b1a65ea4b26ec264f94349f44388377b.m3u8",
+	"userAgent": "exoplayer_video",
+	"playInNatPlayer": "true"
+	},
+	{
 	"name": "xxxx",  
 	"image": "xxxx",  
 	"url": "xxxx",
@@ -48,12 +55,9 @@
 
 
 
-
   ]
 }
 
-#EXTINF:-1 tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,Cold Pursuit 2019
-https://lb1.one3up.com/hls/b1a65ea4b26ec264f94349f44388377b/b1a65ea4b26ec264f94349f44388377b.m3u8
 #EXTINF:-1 tvg-logo="https://www.movie2mee.com/wp-content/uploads/2020/08/Cold-Blood-202x300.jpg" ,Cold Blood 2019
 https://lb1.one3up.com/hls/f9a9871d43734dd0d4bccd26167dfe8c/f9a9871d43734dd0d4bccd26167dfe8c.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/08/The-Furies.jpg" ,The Furies 2019
