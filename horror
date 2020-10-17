@@ -6,46 +6,61 @@
 	"stations": [
 
 
+
 	{
-	"name": "Cry in the Wild",  
-	"image": "https://m.media-amazon.com/images/M/MV5BYjQxMjQyNzEtZGU2OS00NDU4LWI3MDQtMzMyNThjMGQwN2QwXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_UY268_CR9,0,182,268_AL_.jpg",  
-	"url": "https://tubitv.com/movies/495400/cry_in_the_wild_the_taking_of_peggy_ann?start=true",
-	"referer": "https://tubitv.com/",
+	"name": "Let it snow 2020",  
+	"image": "https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg",  
+	"url": "https://vidcloud9.com/goto.php?url=aHR0cHM6LyURASDGHUSRFSJGYfdsffsderFStewthsfSFtrftesdf9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RydWUtZXBpc29kZS0yOTAyMTUvS1NKSTg4UEVSS0haLzIybV8xNjAxNDgxMjM5MzI5MjA5Lm1wNA==",
+	"referer": "https://vidcloud9.com/",
 	"userAgent": "exoplayer_video",
 	"playInNatPlayer": "true"
 	},
-  
-  
-  
-  
+	{
+	"name": "No Escape 2020",  
+	"image": "https://m.media-amazon.com/images/M/MV5BYjU4ZTlkN2MtOGJlNS00ZWE1LWFmYjUtNTY3MDBhZjgwZjQ3XkEyXkFqcGdeQXVyMjA1MzQyNDE@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+	"url": "https://123moviesfree.net/movie/no-escape-101449/watching.html",
+	"referer": "https://123moviesfree.net/",
+	"userAgent": "exoplayer_video",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "Becky 2020",  
+	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Becky_poster.jpg/220px-Becky_poster.jpg",  
+	"url": "https://ww5.fmovie.sc/online/becky-2020/watching.html/?ep=7",
+	"referer": "https://ww5.fmovie.sc/",
+	"userAgent": "exoplayer_video",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "Unhinged 2020",  
+	"image": "http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg",  
+	"url": "https://123moviesfree.net/movie/unhinged-101304/watching.html",
+	"referer": "https://123moviesfree.net/",
+	"userAgent": "exoplayer_video",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "The Hunt 2020",  
+	"image": "https://www.123-hd.com/wp-content/uploads/2020/06/The-Hunt-2020-300x450.png",  
+	"url": "https://123moviesfree.net/movie/the-hunt-100575/watching.html",
+	"referer": "https://123moviesfree.net/",
+	"userAgent": "exoplayer_video",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "xxxx",  
+	"image": "xxxx",  
+	"url": "xxxx",
+	"referer": "xxxx",
+	"userAgent": "exoplayer_video",
+	"playInNatPlayer": "true"
+	},
+
+
+
+
   ]
 }
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg",Let it snow 2020
-https://vidcloud9.com/goto.php?url=aHR0cHM6LyURASDGHUSRFSJGYfdsffsderFStewthsfSFtrftesdf9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RydWUtZXBpc29kZS0yOTAyMTUvS1NKSTg4UEVSS0haLzIybV8xNjAxNDgxMjM5MzI5MjA5Lm1wNA==
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU4ZTlkN2MtOGJlNS00ZWE1LWFmYjUtNTY3MDBhZjgwZjQ3XkEyXkFqcGdeQXVyMjA1MzQyNDE@._V1_UX182_CR0,0,182,268_AL_.jpg",No Escape 2020
-https://123moviesfree.net/movie/no-escape-101449/watching.html
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51O9nk3F2RL._AC_SY400_.jpg",Blood and Money 2020
-https://123moviesfree.net/movie/blood-and-money-100874/watching.html
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/26483c9190d55751a9993729c13d65c3.jpg",The Owners 2020
-https://123moviesfree.net/movie/the-owners-101376/watching.html
-#EXTINF:-1 tvg-logo="https://www.newdvdreleasedates.com/images/posters/large/the-silencing-2020-01.jpg",The Silencing 2020
-https://123moviesfree.net/movie/the-silencing-101147/watching.html
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Becky_poster.jpg/220px-Becky_poster.jpg",Becky 2020
-https://ww5.fmovie.sc/online/becky-2020/watching.html/?ep=7
-#EXTINF:-1 tvg-logo="https://i0.wp.com/moviesandmania.com/wp-content/uploads/2020/07/Ravage-movie-film-2019-thriller-torture-poster-Annabelle-Dexter-Jones.png",Ravage 2020
-https://123moviesfree.net/movie/ravage-101315/watching.html
-#EXTINF:-1 tvg-logo="http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2020/07/Unhinged-Poster-Thai03-12-Aug.jpg" ,Unhinged 2020
-https://123moviesfree.net/movie/unhinged-101304/watching.html
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/06/The-Hunt-2020-300x450.png" ,The Hunt 2020
-https://123moviesfree.net/movie/the-hunt-100575/watching.html
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://www.lovedesigner.net/wp-content/uploads/2019/03/Cold-Pursuit-Poster.jpg" ,Cold Pursuit 2019
 https://lb1.one3up.com/hls/b1a65ea4b26ec264f94349f44388377b/b1a65ea4b26ec264f94349f44388377b.m3u8
