@@ -11,6 +11,7 @@
 	"image": "https://m.media-amazon.com/images/M/MV5BYjQxMjQyNzEtZGU2OS00NDU4LWI3MDQtMzMyNThjMGQwN2QwXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_UY268_CR9,0,182,268_AL_.jpg",  
 	"url": "https://tubitv.com/movies/495400/cry_in_the_wild_the_taking_of_peggy_ann?start=true",
 	"referer": "https://tubitv.com/",
+	"userAgent": "exoplayer_video",
 	"playInNatPlayer": "true"
 	},
   
