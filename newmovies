@@ -121,8 +121,11 @@
 	"image": "https://www.doomovie-hd.com/assets/movie_poster/7/798e1fad4938b138e997d8bc857c9cd1.jpg",  
 	"url": "https://cdn.livedoomovies.com/hls/c38d13ad93ab65f8f2da5038f35de601/c38d13ad93ab65f8f2da5038f35de601.m3u8"
 	},
-
-
+	{
+	"name": "Gretel & Hansel",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/0/0f394d97bfb1964042728648770873c2.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/5e638e53f26cc4b52db473212dd172aa/5e638e53f26cc4b52db473212dd172aa.m3u8"
+	},
 
 		
     ]
