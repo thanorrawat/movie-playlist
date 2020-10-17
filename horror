@@ -1,3 +1,25 @@
+{
+	"name": "หนังที่ผมชอบ",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "http://peppermedia.gr/wp-content/uploads/2019/11/The_HORRO%D0%AF_Channel.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/horror",
+	"stations": [
+
+
+	{
+	"name": "Cry in the Wild",  
+	"image": "https://m.media-amazon.com/images/M/MV5BYjQxMjQyNzEtZGU2OS00NDU4LWI3MDQtMzMyNThjMGQwN2QwXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_UY268_CR9,0,182,268_AL_.jpg",  
+	"url": "https://tubitv.com/movies/495400/cry_in_the_wild_the_taking_of_peggy_ann?start=true"
+	"referer": "https://tubitv.com/",
+	"playInNatPlayer": "true"
+	},
+  
+  
+  
+  
+  ]
+}
+
 #EXTM3U
 
 
