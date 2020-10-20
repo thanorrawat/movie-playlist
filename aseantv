@@ -1,5 +1,37 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK KH
+http://mekongtv.net/channels/tvk
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg",TV5 KH
+http://mekongtv.net/channels/tv5
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png",CTV9 KH
+http://mekongtv.net/channels/ctv9
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png",Bayontv KH
+http://mekongtv.net/channels/bayontv
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/",BTV KH
+http://mekongtv.net/channels/bayontv1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png",SeaTV KH
+http://mekongtv.net/channels/seatv
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/Apsara_tv.png",Apsara TV KH
+http://mekongtv.net/channels/apsaratv
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png",PNN KH
+http://mekongtv.net/channels/pnn
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/06/1b/5f/061b5f8e-54c0-4e15-4ff6-caefd20d6ed7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",Wiki TV KH
+http://mekongtv.net/channels/wikitv
+#EXTINF:-1 tvg-logo="http://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png",FreshNews KH
+http://worldlivetv.stream/channel/freshnews
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MVlaos
+https://www.mvtv.co.th/channel/mvlao-tv
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",ลาวสตาร์
+http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1 MY
 https://myklik.rtm.gov.my/channel/tv-1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1200px-Logo_of_TV2_%28Malaysia%29.svg.png",TV2 MY
@@ -35,34 +67,6 @@ https://www.myanmartvchannels.com/mrtv4.html
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MV Myanmar 
 https://www.mvtv.co.th/channel/v2h8-mvm
 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK KH
-http://mekongtv.net/channels/tvk
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg",TV5 KH
-http://mekongtv.net/channels/tv5
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png",CTV9 KH
-http://mekongtv.net/channels/ctv9
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png",Bayontv KH
-http://mekongtv.net/channels/bayontv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/",BTV KH
-http://mekongtv.net/channels/bayontv1
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png",SeaTV KH
-http://mekongtv.net/channels/seatv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/Apsara_tv.png",Apsara TV KH
-http://mekongtv.net/channels/apsaratv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png",PNN KH
-http://mekongtv.net/channels/pnn
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/06/1b/5f/061b5f8e-54c0-4e15-4ff6-caefd20d6ed7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",Wiki TV KH
-http://mekongtv.net/channels/wikitv
-#EXTINF:-1 tvg-logo="http://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png",FreshNews KH
-http://worldlivetv.stream/channel/freshnews
-
-
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MVlaos
-https://www.mvtv.co.th/channel/mvlao-tv
-#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",ลาวสตาร์
-http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png",Indosiar TV ID
