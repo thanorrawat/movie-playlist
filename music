@@ -57,157 +57,129 @@
 	"playInNatPlayer": "true"
 	},
 	{
+	"name": "Retro Plus TV",
+	"image": "https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",
+	"url": "https://59f2354c05961.streamlock.net:1443/retroplustv/retroplustv/.m3u8",
+	"playInNatPlayer": "true"
+	}, 
+	{
 	"name": "Baeble",
 	"image": "https://ww1.prweb.com/prfiles/2012/07/31/12331490/gI_120921_baebleLogo.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=baeble",
-	"referer": "http://photocall.tv/",
+	"url": "https://baeble-stirr.amagi.tv/playlist.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Classic Arts",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=classicarts",
-	"referer": "http://photocall.tv/",
+	"url": "https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Spirit TV",
 	"image": "https://lh3.googleusercontent.com/QdaAfD3AQmBCJ81_I_HhYp8gpbJ50eWv0-ytZtZ4ueWsaGOMwooyLn5nOc1tKVF5tZU=s180-rw",
-	"url": "http://photocall.tv/jV3f/l1?ch=spirittv",
-	"referer": "http://photocall.tv/",
+	"url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "LivexLive TV",
 	"image": "https://lh3.googleusercontent.com/Ire1O3H7cX6CptWb8f9bFKfvTMboAnElsn3RNdpx-2-BJOcVuo93u9T9CPfGfcwPkG8=s180-rw",
-	"url": "http://photocall.tv/jV3f/l1?ch=lxl",
-	"referer": "http://photocall.tv/",
+	"url": "https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Melody Channel TV",
 	"image": "https://assets.streamtest.in/logo/3216/203_melody-channel-tv.jpg",
-	"url": "http://photocall.tv/jV3f/l1?ch=melodychannel",
-	"referer": "http://photocall.tv/",
-	"playInNatPlayer": "true"
-	}, 
-	{
-	"name": "Melody Channel TV",
-	"image": "https://images.radiovolna.net/_files/images/stations/10535/71bb81f1998eb0e73039ca4abbf6a0c6.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=littoralfm",
-	"referer": "http://photocall.tv/",
+	"url": "https://5f2eaf2aa4061.streamlock.net/live/MelodyChannel.smil/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "GO TV",
 	"image": "http://www.digitaltvnews.net/wp-content/uploads/logos/gocommt.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=go",
-	"referer": "http://photocall.tv/",
+	"url": "https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Deluxe Music",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=deluxemusic",
-	"referer": "http://photocall.tv/",
+	"url": "http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "ROCKLAND",
 	"image": "https://img.new.livestream.com/accounts/000000000154476a/cd5fc9f2-535a-4346-9274-b4026de70e3e_170x170.png",
-	"url": "http://photocall.tv/jV3f/ls?ch=rockland",
-	"referer": "http://photocall.tv/",
+	"url": "https://livestream.com/accounts/22300522/events/6680139/player?autoPlay=true",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "ROCK TV",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=rockfm",
-	"referer": "http://photocall.tv/",
+	"url": "https://fms-https1.mediadirect.ro/embed/source/rocktv.html",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "RADIOZU",
 	"image": "https://www.intactmediagroup.ro/wp-content/uploads/2014/04/ZUTV_logo_FullColor_4lightBACKGROUND.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=radiozu",
-	"referer": "http://photocall.tv/",
+	"url": "https://live11es.antenaplay.ro/zurtv/zurtv.m3u8?/",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "V2Beat",
 	"image": "https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-1.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=v2beat",
-	"referer": "http://photocall.tv/",
+	"url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Spotlight",
 	"image": "http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg",
-	"url": "http://photocall.tv/jV3f/l1?ch=spotlight",
-	"referer": "http://photocall.tv/",
+	"url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "UNO",
 	"image": "https://pbs.twimg.com/profile_images/1267875708044533765/j2ITZD9N_400x400.jpg",
-	"url": "http://photocall.tv/jV3f/l1?ch=uno",
-	"referer": "http://photocall.tv/",
+	"url": "http://media.profesionalhosting.com:1935/8441/8441/mono.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Cadena Elite",
 	"image": "https://www.cadenaelite.es/img/logoMenu.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=elite",
-	"referer": "http://photocall.tv/",
+	"url": "https://5b38ce71f1f00.streamlock.net/8066/8066/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Tele Musica",
 	"image": "https://lh3.googleusercontent.com/n23OKSMllMG3SgzxwIO0d6JVcKs0eVRxnj3_RlFEQMtwnTBGFM70EA29rRR4GEGpq0Q=s180",
-	"url": "http://photocall.tv/jV3f/l1?ch=telemusica",
-	"referer": "http://photocall.tv/",
+	"url": "https://5f2eaf2aa4061.streamlock.net/live/telemusica_web.smil/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "TDI Colombia",
 	"image": "https://www.tdicolombia.com.co/wp-content/uploads/2018/10/tdi-logo.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=tdicolombia",
-	"referer": "http://photocall.tv/",
+	"url": "https://streaming.amelbasoluciones.co/hls/tdicolombia.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "RU TV",
 	"image": "https://s.glaz.tv/images/logos/tv/big/ru-tv.jpg",
-	"url": "http://photocall.tv/jV3f/l1?ch=rutv",
-	"referer": "http://photocall.tv/",
-	"playInNatPlayer": "true"
-	}, 
-	{
-	"name": "Retro Plus TV",
-	"image": "https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=retroplustv",
-	"referer": "http://photocall.tv/",
+	"url": "https://rutv.gcdn.co/streams/1410_1272/playlist.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Virgin Radio TV",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",
-	"url": "http://photocall.tv/jV3f/msi?ch=virgin",
-	"referer": "http://photocall.tv/",
+	"url": "http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Euro Latina TV",
 	"image": "https://i.ytimg.com/vi/ipSScnKB40o/maxresdefault.jpg",
-	"url": "http://photocall.tv/jV3f/l1?ch=eurolatinatv",
-	"referer": "http://photocall.tv/",
+	"url": "https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Europa Plus TV",
 	"image": "https://live-tv-channels.org/pt-data/uploads/logo/ru-europa-plus-tv.jpg",
-	"url": "http://photocall.tv/jV3f/l1?ch=europaplus",
-	"referer": "http://photocall.tv/",
+	"url": "http://europaplustv.com/embed/video?online=1",
 	"playInNatPlayer": "true"
 	}, 
 
