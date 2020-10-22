@@ -7,6 +7,26 @@
 	
   
 
+
+      {
+      "name": "PSI สาระดี 24 ชั่วโมง",
+      "image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
+      "url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "World Animal",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
+      "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "สำรวจโลก",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
+      "playInNatPlayer": "true"
+      },
       {
       "name": "Discovery Channel",
       "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
@@ -71,17 +91,15 @@
       "playInNatPlayer": "true"
       },
       {
-      "name": "BBC EARTH",
-      "image": "https://teevee-hd.com/img/bbcearth.png",
-      "url": "https://www.we-play.tv/watching/tv/bbc-earth",
-      "referer": "https://www.we-play.tv/",
+      "name": "Way Point",
+      "image": "https://lh3.googleusercontent.com/Y75swKZiF976cC34ingBDNaAUexKFuZ6A5CsOkCs_LG9Epqmhlru0S1ydV5bf4f4DYQ=s180-rw",
+      "url": "https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8",
       "playInNatPlayer": "true"
       },
       {
-      "name": "BBC LIFESTYLE",
-      "image": "https://teevee-hd.com/img/bbclifestyle.png",
-      "url": "https://www.we-play.tv/watching/tv/bbc-lifestyle",
-      "referer": "https://www.we-play.tv/",
+      "name": "PURSUIT UP",
+      "image": "https://mossyoak-cezjaqp1wr.netdna-ssl.com/sites/default/files/inline-images/Pursuit-logo-web_4.jpghttps://teevee-hd.com/img/bbclifestyle.png",
+      "url": "https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8",
       "playInNatPlayer": "true"
       },
       {
@@ -92,22 +110,21 @@
       "playInNatPlayer": "true"
       },
       {
-      "name": "PSI สาระดี 24 ชั่วโมง",
-      "image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
-      "url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
+      "name": "HUNT Channel",
+      "image": "https://www.pngkit.com/png/full/206-2062370_hunt-hunt-channel.png",
+      "url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
       "playInNatPlayer": "true"
       },
       {
-      "name": "World Animal",
-      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
-      "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
-      "userAgent": "exoplayer_video",
+      "name": "Outdoor America",
+      "image": "https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png",
+      "url": "https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8",
       "playInNatPlayer": "true"
       },
       {
-      "name": "สำรวจโลก",
-      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
-      "url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
+      "name": "TV Agro HD",
+      "image": "http://tvagro.tv/wp-content/uploads/2019/05/logo-tvagro-png-letras-blancas.png",
+      "url": "http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8",
       "playInNatPlayer": "true"
       },
 
