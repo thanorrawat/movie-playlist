@@ -15,47 +15,47 @@
 	"playInNatPlayer": "true"
 	},
 	{
+	"name": "Fan TV",
+	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",
+	"url": "https://www.doomovie-hd.com/?r=tv_view&id=42",
+	"playInNatPlayer": "true"
+	},
+	{
 	"name": "SexyKPop TV",
 	"image": "https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=sexykpop",
-	"referer": "http://photocall.tv/",
+	"url": "https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "Country Network",
+	"image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
+	"url": "https://tcncountry.net/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "CMC USA",
+	"image": "https://www.freeetv.com/images/01_logo/california_music_channel_usa.jpg",
+	"url": "https://www.cmctvusa.com/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "MTV Block Party",
 	"image": "https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=mtv_party",
-	"referer": "http://photocall.tv/",
+	"url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "MTV Biggest Pop",
 	"image": "https://www.pngitem.com/pimgs/m/70-704750_mtv-logo-80s-hd-png-download.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=mtv_pop",
-	"referer": "http://photocall.tv/",
+	"url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "RETRO",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",
-	"url": "http://photocall.tv/jV3f/l1?ch=retro",
-	"referer": "http://photocall.tv/",
+	"url": "http://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8",
 	"playInNatPlayer": "true"
 	},
-  {
-  "name": "Country Network",
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
-  "url": "http://photocall.tv/jV3f/l1?ch=countrynetwork",
-  "referer": "http://photocall.tv/",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "CMC USA",
-  "image": "https://www.freeetv.com/images/01_logo/california_music_channel_usa.jpg",
-  "url": "http://photocall.tv/jV3f/l1?ch=cmc_us",
-  "referer": "http://photocall.tv/",
-  "playInNatPlayer": "true"
-  },
 	{
 	"name": "Baeble",
 	"image": "https://ww1.prweb.com/prfiles/2012/07/31/12331490/gI_120921_baebleLogo.png",
