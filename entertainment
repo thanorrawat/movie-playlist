@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",True Film HD
-https://www.we-play.tv/watching/tv/true-film-hd
+https://www.doomovie-hd.com/?r=tv_view&id=127
 
 #EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_THAIF.jpg",True Thai Film
 https://www.we-play.tv/watching/tv/true-thai-film
@@ -19,7 +19,7 @@ https://www.we-play.tv/watching/tv/warner-tv
 https://www.we-play.tv/watching/tv/paramount-channel
 
 #EXTINF:-1 tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
-https://www.we-play.tv/watching/tv/hits-movies
+https://www.doomovie-hd.com/?r=tv_view&id=234
 
 #EXTINF:-1 tvg-logo="https://hitstv.com/assets/logo_hits.png",Hits
 https://www.we-play.tv/watching/tv/hits
@@ -28,7 +28,7 @@ https://www.we-play.tv/watching/tv/hits
 https://www.we-play.tv/watching/tv/fox-thai
 
 #EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_FMP.jpg",Fox Movies Premium
-https://www.we-play.tv/watching/tv/fox-movies-premium
+https://www.doomovie-hd.com/?r=tv_view&id=38
 
 #EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_FAM.jpg",Fox Action Movies
 https://www.we-play.tv/watching/tv/fox-action-movies
@@ -43,10 +43,10 @@ https://www.we-play.tv/watching/tv/fox-family-movies
 https://www.we-play.tv/watching/tv/fox-life
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",HBO HD
-https://www.we-play.tv/watching/tv/hbo-hd
+https://www.doomovie-hd.com/?r=tv_view&id=41
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO Hits
-https://www.we-play.tv/watching/tv/hbo-hit
+https://www.doomovie-hd.com/?r=tv_view&id=43
 
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",HBO RED
 https://www.we-play.tv/watching/tv/red-by-hbo
