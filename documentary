@@ -30,64 +30,71 @@
       {
       "name": "Discovery Channel",
       "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
-      "url": "https://www.we-play.tv/watching/tv/discovery-channel",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/discovery-channel",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Discovery Asia",
       "image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
-      "url": "https://www.we-play.tv/watching/tv/discovery-asia",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/discovery-asia",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "History HD",
       "image": "https://images.iptvhero.com/channel/hd-history.png",
-      "url": "https://www.we-play.tv/watching/tv/history-hd",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/history-hd",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "H2",
       "image": "https://images.iptvhero.com/channel/hd-history2.png",
-      "url": "https://www.we-play.tv/watching/tv/h2",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/history-h2",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Nat Geo Graphic",
       "image": "https://images.iptvhero.com/channel/hd-natgeo.png",
-      "url": "https://www.we-play.tv/watching/tv/national-geographic",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/national-geographic",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Nat Geo Wild",
       "image": "https://images.iptvhero.com/channel/hd-natgeowild.png",
-      "url": "https://www.we-play.tv/watching/tv/nat-geo-wild",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/nat-geo-wild",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Animal Planet",
       "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-      "url": "https://www.we-play.tv/watching/tv/animal-planet",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/animal-planet",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "Love Nature",
       "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
-      "url": "https://www.we-play.tv/watching/tv/lovenature-4k",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/lovenature-4k",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
       "name": "TLC",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
-      "url": "https://www.we-play.tv/watching/tv/tlc-hd",
-      "referer": "https://www.we-play.tv/",
+      "url": "https://we-play.tv/watching/tv/tlc-hd",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Outdoor Channel",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
+      "url": "https://we-play.tv/watching/tv/outdoor-channel",
+      "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
@@ -100,13 +107,6 @@
       "name": "PURSUIT UP",
       "image": "https://mossyoak-cezjaqp1wr.netdna-ssl.com/sites/default/files/inline-images/Pursuit-logo-web_4.jpg",
       "url": "https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Outdoor Channel",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
-      "url": "https://www.we-play.tv/watching/tv/outdoor-channel",
-      "referer": "https://www.we-play.tv/",
       "playInNatPlayer": "true"
       },
       {
