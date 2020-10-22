@@ -76,6 +76,18 @@
 	     "playInNatPlayer": "true"
            },
           {
+             "name": "Sky Sports News DE",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+	     "url": "http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports News IT",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+	     "url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8",
+	     "playInNatPlayer": "true"
+           },
+          {
              "name": "Sky Sport Bundesliga",  
              "image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
 	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
