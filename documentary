@@ -92,13 +92,6 @@
       "playInNatPlayer": "true"
       },
       {
-      "name": "Documentary4U",
-      "image": "https://www.ginikousa.com/channels/logo/documentaries-4u.jpg",
-      "url": "https://www.ginikousa.com/live.php?id=695",
-      "referer": "https://www.we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
       "name": "PSI สาระดี 24 ชั่วโมง",
       "image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
       "url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
@@ -111,7 +104,12 @@
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
       },
-
+      {
+      "name": "สำรวจโลก",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
+      "playInNatPlayer": "true"
+      },
 
 
            ]
