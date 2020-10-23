@@ -102,6 +102,12 @@
       "playInNatPlayer": "true"
       },
       {
+      "name": "Outside TV",
+      "image": "http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",
+      "url": "https://outsidetv-roku-us.amagi.tv/playlist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
       "name": "Way Point",
       "image": "https://lh3.googleusercontent.com/Y75swKZiF976cC34ingBDNaAUexKFuZ6A5CsOkCs_LG9Epqmhlru0S1ydV5bf4f4DYQ=s180-rw",
       "url": "https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8",
@@ -131,6 +137,13 @@
       "url": "http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8",
       "playInNatPlayer": "true"
       },
+      {
+      "name": "FISH TV",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fishtv.png",
+      "url": "https://youtube.com/embed/ZMNKkiiShZI?autoplay=1",
+      "playInNatPlayer": "true"
+      },
+
 
 
            ]
