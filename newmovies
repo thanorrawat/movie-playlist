@@ -7,7 +7,16 @@
 
 
 
-
+	{
+	"name": "Unhinged - เฮียคลั่ง ดับเครื่องชน",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/1/182cd891c73cd3ebaa2ba26355e0ba47.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/3c48bdf403fdd57cd16f77aa13b82910/3c48bdf403fdd57cd16f77aa13b82910.m3u8"
+	},
+	{
+	"name": "มหัศจรรย์มังกรสุดขอบฟ้า",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/f/ffd5a41989c4be5e94dc3a0a47e1fe33.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/bf9b48c8eeebbcc4f0ff677b8ad86f98/bf9b48c8eeebbcc4f0ff677b8ad86f98.m3u8"
+	},
 	{
 	"name": " ถ้าปู่แน่ ก็มาดิครับ",  
 	"image": "https://www.doomovie-hd.com/assets/movie_poster/1/1785634bc39fb7562ddc610a7ff7c745.jpg",  
@@ -108,11 +117,6 @@
 	"name": "กระชากนรก โคตรไอ้เข้",  
 	"image": "https://www.doomovie-hd.com/assets/movie_poster/f/fd438fa3bc1eeb30ca806e500fcb196c.jpg",  
 	"url": "https://cdn.livedoomovies.com/hls/82f264784ac1f79bbc4e032564063ba2/82f264784ac1f79bbc4e032564063ba2.m3u8"
-	},
-	{
-	"name": "Unhinged - เฮียคลั่ง ดับเครื่องชน",  
-	"image": "https://www.doomovie-hd.com/assets/movie_poster/1/182cd891c73cd3ebaa2ba26355e0ba47.jpg",  
-	"url": "https://cdn.livedoomovies.com/hls/652889535d5b5eb782c6193fd4f6fc18/652889535d5b5eb782c6193fd4f6fc18.m3u8"
 	},
 	{
 	"name": "The Balkan Line",  
