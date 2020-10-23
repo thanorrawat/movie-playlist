@@ -48,8 +48,7 @@
 	{
 	"name": "TNN",
 	"image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.tnnthailand.com/live",
 	"playInNatPlayer": "true"
 	},
 	{
@@ -69,8 +68,7 @@
 	{
 	"name": "Nation TV",
 	"image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.adintrend.tv/hd/m/ch37",
 	"playInNatPlayer": "true"
 	},
 	{
@@ -83,15 +81,13 @@
 	{
 	"name": "True4u",
 	"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://true4u.com/live/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "GMM25",
 	"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.adintrend.tv/hd/m/ch0",
 	"playInNatPlayer": "true"
 	},
 	{
