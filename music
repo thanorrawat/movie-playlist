@@ -7,7 +7,7 @@
   
 
 	{
-	"name": "22 October 2020",  
+	"name": "23 October 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -16,6 +16,13 @@
 	"name": "True Music",
 	"image": "https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg",
 	"url": "https://www.we-play.tv/watching/tv/true-music-hd",
+	"referer": "https://www.we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "Stingray iConcerts",
+	"image": "https://img2.pngio.com/stingray-png-stingray-iconcerts-png-transparent-cartoon-free-cartoon-stingray-png-920_355.png",
+	"url": "https://we-play.tv/watching/tv/stingray-iconcerts",
 	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
