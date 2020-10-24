@@ -7,7 +7,7 @@
 	
   
 	{
-	"name": "23 October 2020",  
+	"name": "24 October 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -84,6 +84,13 @@
 	"url": "https://www.we-play.tv/watching/tv/true-spark-jump",
 	"playInNatPlayer": "true"
 	},
+	{
+	"name": "True Spark Play",  
+	"image": "http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",  
+	"url": "https://we-play.tv/watching/tv/true-spark-play",
+	"playInNatPlayer": "true"
+	},
+
 
 ]
 }
