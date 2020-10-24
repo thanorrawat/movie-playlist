@@ -8,7 +8,7 @@
 
 
 	{
-	"name": "22 October 2020",  
+	"name": "24 October 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -238,25 +238,28 @@
           {
              "name": "Bein Sports USA",  
              "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",  
-	     "url": "https://playback2.akamaized.net/streams/27856921_8478493_lsizt9onapebpj2mhxz_1/master.m3u8?dw=80&hdnts=exp=1603500403~acl=/streams/27856921_8478493_lsizt9onapebpj2mhxz_1/master.m3u8*~hmac=617a0c3fe0fbe5252fc1579d36716bf3e1755a252ee8d05e6ebfc37eb0549063",
+	     "url": "https://live-golf.stream/stream/68949.html",
+             "referer": "https://sportsbay.org/",     
 	     "playInNatPlayer": "true"
            },
 	  {
              "name": "Bein Sports Extra",  
-             "image": "https://sport-tv-guide.live/images/tv-station-bein-sports-extra-us-1967.png",  
+             "image": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",  
 	     "url": "https://bein-xtra-roku-us.amagi.tv/playlist.m3u8",
 	     "playInNatPlayer": "true"
            },   
           {
              "name": "Bein Sports Ñ",  
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/640px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",  
-	     "url": "https://playback2.akamaized.net/streams/27856896_8563077_lsi5q6fnn7sejq0vf1n_1/master.m3u8?dw=80&hdnts=exp=1603500712~acl=/streams/27856896_8563077_lsi5q6fnn7sejq0vf1n_1/master.m3u8*~hmac=b7b5b046be85081ccc210538a8aaf23d41c2e2e1aa85936930d2b4c46fe8fab1",
+	     "url": "https://sportsbay.org/watch/69175/1/bein-sports-n-live.html",
+             "referer": "https://sportsbay.org/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "Bein Sports La Liga",  
              "image": "https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680/https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",  
-	     "url": "https://playback2.akamaized.net/streams/28255175_8584065_lsig1os6uxex0r7cmjn_1/master.m3u8?dw=80&hdnts=exp=1603500572~acl=/streams/28255175_8584065_lsig1os6uxex0r7cmjn_1/master.m3u8*~hmac=797ce29d0ed2aecc4549875d5c427fac496557d7404f322f06c9ec040b3b51f0",
+	     "url": "https://live-golf.stream/stream/69176.html",
+             "referer": "https://sportsbay.org/",
 	     "playInNatPlayer": "true"
            },
           {
