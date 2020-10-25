@@ -314,7 +314,13 @@
              "userAgent": "exoplayer_video",
 	     "playInNatPlayer": "true"
            },
-
+          {
+             "name": "Fox Sports Premium Latino",  
+             "image": "https://www.latino-web-tv.com/logos/foxsportspremium.png",  
+	     "url": "https://www.latino-web-tv.com/embed/fspremium",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
 
 
 
