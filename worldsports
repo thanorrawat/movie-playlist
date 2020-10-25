@@ -321,6 +321,34 @@
              "userAgent": "exoplayer_video",
 	     "playInNatPlayer": "true"
            },
+          {
+             "name": "ESPN Latino",  
+             "image": "https://www.latino-web-tv.com/logos/espn.png",  
+	     "url": "https://www.latino-web-tv.com/embed/espn",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "ESPN 2 Latino",  
+             "image": "https://www.latino-web-tv.com/logos/espn2.png",  
+	     "url": "https://www.latino-web-tv.com/embed/espn2",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "ESPN 3 Latino",  
+             "image": "https://www.latino-web-tv.com/logos/espn3.png",  
+	     "url": "https://www.latino-web-tv.com/embed/espn3",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "ESPN + Latino",  
+             "image": "https://vignette.wikia.nocookie.net/tvcable/images/0/02/ESPN%2BHD.png/revision/latest/scale-to-width-down/200?cb=20150905132555&path-prefix=es",  
+	     "url": "https://www.latino-web-tv.com/embed/espnplus",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
 
 
 
