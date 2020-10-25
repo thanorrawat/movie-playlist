@@ -300,6 +300,22 @@
 	     "url": "http://runnel.ir/tv/tv/sport.tv-5-1.php",
 	     "playInNatPlayer": "true"
            },
+          {
+             "name": "Fox Sports Latino",  
+             "image": "https://www.latino-web-tv.com/logos/foxsports.png",  
+	     "url": "https://www.latino-web-tv.com/embed/foxsports",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Fox Sports 2 Latino",  
+             "image": "https://www.latino-web-tv.com/logos/foxsports2.png",  
+	     "url": "https://www.latino-web-tv.com/embed/foxsports2",
+             "userAgent": "exoplayer_video",
+	     "playInNatPlayer": "true"
+           },
+
+
 
 
            ]
