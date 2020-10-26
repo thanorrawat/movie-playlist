@@ -41,8 +41,7 @@
 	{
 	"name": "TPTV",
 	"image": "https://i.imgur.com/Jrqo8JP.png",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "http://live.parliament.go.th/",
 	"playInNatPlayer": "true"
 	},
 	{
