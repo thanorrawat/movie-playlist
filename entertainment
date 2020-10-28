@@ -90,6 +90,20 @@
 	"playInNatPlayer": "true"
 	},
   {
+	"name": "M Channel",  
+	"image": "http://www.m-channel.com/logo.png",  
+	"url": "http://27.254.142.207:8080/live/web.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "channel8thailand",  
+	"image": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",  
+	"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",
+	"playInNatPlayer": "true"
+	},
+	
+	
+  {
 	"name": "True Film HD",  
 	"image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",  
 	"url": "https://we-play.tv/watching/tv/true-film-hd",
