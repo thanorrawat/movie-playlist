@@ -101,8 +101,14 @@
 	"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",
 	"playInNatPlayer": "true"
 	},
-	
-	
+  {
+	"name": "TVN",  
+	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",  
+	"url": "https://www.we-play.tv/watching/tv/tvn",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+
   {
 	"name": "True Film HD",  
 	"image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",  
