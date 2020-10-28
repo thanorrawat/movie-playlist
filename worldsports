@@ -270,6 +270,25 @@
 	     "url": "http://azrotv.com/iphone/En/ch/olympic.php",
 	     "playInNatPlayer": "true"
            },
+           {
+             "name": "Racing.Com แข่งม้า",  
+             "image": "https://www.vippng.com/png/full/178-1788672_racing-com-racing-com-logo-png.png",  
+	     "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8",
+	     "playInNatPlayer": "true"
+           },
+           {
+             "name": "Teletrak.cl แข่งม้า",  
+             "image": "https://www.teletrak.cl/imagenes/logo.png",  
+	     "url": "https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+	     "playInNatPlayer": "true"
+           },
+           {
+             "name": "Horse&Country",  
+             "image": "https://appcmsprod.viewlift.com/b037179d-e00e-41cf-bc1e-f94f45e39ccf/images/H&C_Logo_Desktop_10280x720.png",  
+	     "url": "https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/index.m3u8",
+	     "playInNatPlayer": "true"
+           },
+	   
           {
              "name": "Sport TV 1 Portugal",  
              "image": "http://runnel.ir/ax/logo/SportTV1-Small.png",  
