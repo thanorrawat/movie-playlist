@@ -42,6 +42,11 @@
 	"url": "https://ustvgo.tv/disney-channel-live-streaming-free/",
 	"playInNatPlayer": "true"
 	},
+	"name": "Disney XD",  
+	"image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",  
+	"url": "https://www.doomovie-hd.com/?r=tv_view&id=86",
+	"playInNatPlayer": "true"
+	},
 	{
 	"name": "Disney Junior",  
 	"image": "http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png",  
@@ -61,11 +66,6 @@
 	"playInNatPlayer": "true"
 	},
 	{
-	"name": "Disney XD",  
-	"image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",  
-	"url": "https://www.we-play.tv/watching/tv/disney-xd",
-	"playInNatPlayer": "true"
-	},
 	{
 	"name": "Nickelodeon",  
 	"image": "http://tvsmagazine.com/images/channels/sm_NICK.jpg",  
