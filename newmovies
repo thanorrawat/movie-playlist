@@ -8,6 +8,16 @@
 
 
 	{
+	"name": "Relic - กลับมาเยี่ยมผี ",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/7/7d24113c5e5bfaf7317eb6627708d859.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/644b81ece2f1948dd8edb670d20169ea/644b81ece2f1948dd8edb670d20169ea.m3u8"
+	},
+	{
+	"name": "Pinocchio - พินอคคิโอ",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/b/b930af3c251ece2b8b81188a58d77922.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/490fc4a720c28f86ae19a9600f8d636a/490fc4a720c28f86ae19a9600f8d636a.m3u8"
+	},
+	{
 	"name": "Unhinged - เฮียคลั่ง ดับเครื่องชน",  
 	"image": "https://www.doomovie-hd.com/assets/movie_poster/1/182cd891c73cd3ebaa2ba26355e0ba47.jpg",  
 	"url": "https://cdn.livedoomovies.com/hls/3c48bdf403fdd57cd16f77aa13b82910/3c48bdf403fdd57cd16f77aa13b82910.m3u8"
