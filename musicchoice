@@ -19,7 +19,7 @@
   {
   "name": "Country Hits",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1115/O0U9MTYwMzc3ODkxMztBPTE7Sz0wO1A9MDExMTA7Uz0yODM4M2E4MmU4OWRiNWE0ZDRmMGI2OGE1OWQyYTY3ZGMxYTlhZTZm/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1115&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=countryhits",
   "referer": "http://photocall.tv/",
   "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
@@ -27,7 +27,7 @@
   {
   "name": "Pop Latino",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL123/O0U9MTYwMzc3OTEwMTtBPTE7Sz0wO1A9MDExMTA7Uz05ZTI4ODRhNDNjNjczYzdmOTYzN2FmZDI4OGE0MzVjOTFlZjkyOGI5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_123&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=poplatino",
   "referer": "http://photocall.tv/",
   "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
@@ -35,7 +35,7 @@
   {
   "name": "Musica Urbana",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL128/O0U9MTYwMzc3OTE3ODtBPTE7Sz0wO1A9MDExMTA7Uz0zMDhhM2M4ZjdhNzFlNzE1ZWY2ZDZmNGE0OWM2ZGNiYjU4ZWRjNzMz/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_128&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=musicaurbana",
   "referer": "http://photocall.tv/",
   "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
@@ -43,218 +43,249 @@
   {
   "name": "Tropicales",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL137/O0U9MTYwMzc3OTI2MjtBPTE7Sz0wO1A9MDExMTA7Uz1lM2QwNDU4NjZiMTUxZDA3MDQyOGJlNGEyMjMwZDVjMTgwMzM2Mjhk/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_137&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=tropicales",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   },
   {
   "name": "Mexicana",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL131/O0U9MTYwMzc3OTMzNTtBPTE7Sz0wO1A9MDExMTA7Uz04NTdjMGJmMzA5NzI4MjQ5OTNjNTVhZWJlZDk5OGZhMzdmNDJhZGU3/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_131&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=mexicana",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   },
   {
   "name": "Alternative",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL122/O0U9MTYwMzc3OTM4ODtBPTE7Sz0wO1A9MDExMTA7Uz0wZDNlMTVjZjVkMzljYTJjYmU0YTcxMTQ4MTIyZjU1MjFlMmI3ZDc4/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_122&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=alternative",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   },
   {
   "name": "Adult Alternative",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1114/O0U9MTYwMzc3OTQzNjtBPTE7Sz0wO1A9MDExMTA7Uz02NjcwM2I2ZWE4N2FmMWIxOWQ0NzNkNWE2NGVkMWZkNjkxZWIyMjky/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1114&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=adult_alt",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   },
   {
   "name": "Indie",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL129/O0U9MTYwMzc3OTUyMDtBPTE7Sz0wO1A9MDExMTA7Uz05N2QxNzQzMzcxZTZmNWMxZTVjYTM5MmU4ODMyYzY3YjcxOWMwMjI0/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_129&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=indie",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   }, 
    {
   "name": "Hit List",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL100/O0U9MTYwMzc3OTYwNTtBPTE7Sz0wO1A9MDExMTA7Uz0xZmI0NmFjNmQ3YzY5ODU4Yjg5ZTlmMjhjNmM5MzA1ZTBjMzcyNGFk/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_100&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=hitlist",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   }, 
    {
   "name": "Pop Hits",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL133/O0U9MTYwMzc3OTU3NDtBPTE7Sz0wO1A9MDExMTA7Uz03ZTk3M2MxYjgyNGI2Y2U0NTQ2YzRiODkxMzNjNDYyNzk0NTFmNWNm/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_133&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=pophits",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   },  
    {
   "name": "Pop & Country",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL132/O0U9MTYwMzc3OTY5MjtBPTE7Sz0wO1A9MDExMTA7Uz0xNzBmNTk2NmM4ZGI5MGI0NDk0ZjRhNzFkN2I4YjVlNzQzNGEwYzc5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_132&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=popncountry",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   }, 
    {
   "name": "Teen Beats",
   "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL118/O0U9MTYwMzc3OTc2NjtBPTE7Sz0wO1A9MDExMTA7Uz1hZTFhMDY2NDllODRiMTE0NjI3ZDMwMjRmZGEyYWQwOWI2OGYyYjJk/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_118&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+  "url": "http://stream.pcriot.com/ZsK6/mc.php?ch=teenbeats",
   "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
   "playInNatPlayer": "true"
   }, 
 	{
 	"name": "MC Play",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1104/O0U9MTYwMzc3OTgxMTtBPTE7Sz0wO1A9MDExMTA7Uz00ZGYyZjM4ZGVmZGY0MGVmZjY4ZWIzNTZiZDljZTRjYmVlNzI1ZDYw/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1104&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "http://stream.pcriot.com/ZsK6/mc.php?ch=mc_play",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Dance/EDM",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL127/O0U9MTYwMzc3OTkxMTtBPTE7Sz0wO1A9MDExMTA7Uz0zOTkzZTczZWY0OGY1NThkMWY0Y2U2MzY1ZmFjYmQ2Y2Q1YWQyMWI1/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_127&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "http://stream.pcriot.com/ZsK6/mc.php?ch=dance",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Y2K",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL145/O0U9MTYwMzc3OTk3ODtBPTE7Sz0wO1A9MDExMTA7Uz0zM2RkN2Q2NjBjMzVhZTRkZGFkYmNlZjVlNjRmYzE5NDQ3ZmY0MGJh/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_145&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "90s",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL140/O0U9MTYwMzc4MDAxNjtBPTE7Sz0wO1A9MDExMTA7Uz1lOTkzMTFkYzI3NGU2NTMwNzI3MDk1ODk0OTIxYTE4YjAyZWM0ZWM4/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "80s",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1113/O0U9MTYwMzc4MDA1MztBPTE7Sz0wO1A9MDExMTA7Uz0wNTM4ZjJiYWFjMWJlY2UyZGVmMTIzMWFkOTNhMGU0NjQ1YThjZTJm/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1113&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Soft Rock",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1118/O0U9MTYwMzc4MDA5ODtBPTE7Sz0wO1A9MDExMTA7Uz1hODkyMWU5ZjdjMzc2NGMwNmNiNmJlZWQxNjUxNTlhZTMzN2U4MDJj/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1118&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Brits+Hits",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL143/O0U9MTYwMzc4MDEzODtBPTE7Sz0wO1A9MDExMTA7Uz0zYWFhYWRmNmZkMmZkZDFiM2UzZWY5NDk5ZWQ1NGUzM2IwN2ZjYjUx/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_143&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Hiphop-R&B",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL106/O0U9MTYwMzc4MDE5MztBPTE7Sz0wO1A9MDExMTA7Uz02ZjZiZWUwNzQ5NGMyOTA5MDBmZDJmM2M3MjhhMmYwMjYyOGEwZjU0/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_106&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "RAB",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL125/O0U9MTYwMzc4MDIzOTtBPTE7Sz0wO1A9MDExMTA7Uz0zMGJhOTgwZTVjNTJhN2VhZjgyOWNmODVkMzEzOTMwYjY2YTZkOGQ5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_125&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "R&B Soul",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL124/O0U9MTYwMzc4MDI4NDtBPTE7Sz0wO1A9MDExMTA7Uz1kMGQyZjVmNTk0ZWE2ZGVjYTIyODg1MWFiNzZiOTEzMzg3YmM2ZDk3/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_124&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Throwback Jamz",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL142/O0U9MTYwMzc4MDMyMTtBPTE7Sz0wO1A9MDExMTA7Uz1jYzJhODU4MmI0MDExMDQwNmE5NGNiZWYyYjE4MWQ4ZWFhNjdkOTA5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_142&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "R&B2K",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1117/O0U9MTYwMzc4MDM2MDtBPTE7Sz0wO1A9MDExMTA7Uz0wMTI0OGY2MWJlYmM1OGFhYjgzM2U5YWU4N2ExYzhmNTA1OTgzZDc3/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1117&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "RAB2K",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL141/O0U9MTYwMzc4MDM5OTtBPTE7Sz0wO1A9MDExMTA7Uz02YmI4MWNlMTMyOTg1N2Q2MWMwYzU3ZTYxMTNhZWU2MGU1NzQ3MzQ0/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_141&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Ladies of R&B",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1116/O0U9MTYwMzgzMjI2NztBPTE7Sz0wO1A9MDExMTA7Uz0yYjI1ZmRkMDc2NTBmZWE3NDQzZDNmM2E2NzcwNzFhY2JjMzdlMTI5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1116&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Rock",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL138/O0U9MTYwMzgzMjcyMTtBPTE7Sz0wO1A9MDExMTA7Uz04Zjc3NWZhMGNhODEzMGRiOGQwYTk4MWFmY2MxMzQxYjkzYzRlMTg0/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_138&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Metal",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL139/O0U9MTYwMzgzMjY3MjtBPTE7Sz0wO1A9MDExMTA7Uz04ZjMxY2ZjYTA4ZDkwOWJlYzgyZmFjZDIxMmJmMGQ5Y2I4OWRiZmIz/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_139&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Kidz Only",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL130/O0U9MTYwMzgzMjU5OTtBPTE7Sz0wO1A9MDExMTA7Uz1iODE4NzQwZGUyZDI1MThjMjc1Njk5YzczNmNmMThjZTEzYmIwNmI0/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_130&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Radio Disney",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1106/O0U9MTYwMzgzMjU0NztBPTE7Sz0wO1A9MDExMTA7Uz0wNjE3NDgzN2Y2MjlhM2ZjMjY3NzkyODNlOTUwNjU4YjA5YzI3MWI5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1106&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "KIDZ BOP",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1105/O0U9MTYwMzgzMjQ5MztBPTE7Sz0wO1A9MDExMTA7Uz04ZGI0ZmMxMzExYzAwZTg3ZWZjODEwNWU5YTk4NDIzZGYxODhmMzdl/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1105&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Youth Hits",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1110/O0U9MTYwMzgzMjQ0NztBPTE7Sz0wO1A9MDExMTA7Uz1iYjE5ODVhMzlhMDI3NWU1MDI1ODcyNGVmMzE0Zjk2MDhlMzcwMjhm/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1110&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Wonderama",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1107/O0U9MTYwMzgzMjM5MjtBPTE7Sz0wO1A9MDExMTA7Uz0wMzk2OGNhMWRhOGYyZmQ4NGI0Njc1OWU1YjE2OGU0MTdmMjgwNDZi/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1107&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	{
 	"name": "Toddler Tunes",
 	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL144/O0U9MTYwMzgzMjM0MztBPTE7Sz0wO1A9MDExMTA7Uz0zM2EyMmNhY2Y2NmJmZjY5YjRhZTc0NzA5ZDZmMmYzYTJiNjRlZDZm/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_144&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False",
+	"url": "xxxx",
 	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 	"playInNatPlayer": "true"
 	}, 
 	
