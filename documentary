@@ -8,7 +8,7 @@
   
 
 	{
-	"name": "24 October 2020",  
+	"name": "29 October 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -139,11 +139,12 @@
       "playInNatPlayer": "true"
       },
       {
-      "name": "FISH TV",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fishtv.png",
-      "url": "https://youtube.com/embed/ZMNKkiiShZI?autoplay=1",
+      "name": "The Pet Collective",
+      "image": "https://www.viewlift.com/common/assets/img/clients/thepetcollective.png",
+      "url": "https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8",
       "playInNatPlayer": "true"
       },
+      {
 
 
 
