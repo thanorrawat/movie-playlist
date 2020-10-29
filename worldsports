@@ -8,7 +8,7 @@
 
 
 	{
-	"name": "24 October 2020",  
+	"name": "29 October 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -253,6 +253,13 @@
 	     "url": "https://espn-live.stream/stream/45711.html",
 	     "playInNatPlayer": "true"
            },
+          {
+             "name": "The T Channel",  
+             "image": "https://www.sportsvideo.org/new/wp-content/uploads/2016/01/tennis-channel-logo-300x279.jpg",  
+	     "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8",
+	     "playInNatPlayer": "true"
+           },   
+
           {
              "name": "One Golf",  
              "image": "http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",  
