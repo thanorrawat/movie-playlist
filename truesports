@@ -6,75 +6,110 @@
 	"stations": [
 	  
 
-	{
-	"name": "24 October 2020",  
-	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-	"url": "https://androidtvtech.blogspot.com/",
-	"playInNatPlayer": "true"
-	},
-	{
-      "name": "Premiere Football HD 1",
-      "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
-      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Premiere Football HD 2",
-      "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
-      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-2",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Premiere Football HD 3",
-      "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
-      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-3",
-      "referer": "https://doomovie-hd.com/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Premiere Football HD 4",
-      "image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
-      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-4",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Premiere Football HD 5",
-      "image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
-      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-5",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "True Sport HD",
-      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-      "url": "https://we-play.tv/watching/tv/true-sports-hd",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "True Sport HD 2",
-      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
-      "url": "https://we-play.tv/watching/tv/true-sports-hd-2",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "True Sport HD 3",
-      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-      "url": "https://we-play.tv/watching/tv/true-sports-hd-3",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "True Sport HD 4",
-      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",
-      "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
-      "referer": "https://dooball66.com/",
-      "playInNatPlayer": "true"
-      },
+{
+"name": "24 October 2020",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "https://androidtvtech.blogspot.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL1 สำรอง 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2 สำรอง 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3 สำรอง 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 4",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-4",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4 สำรอง 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=154",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 5",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-5",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5 สำรอง 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
       {
       "name": "True Sport 2",
       "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
