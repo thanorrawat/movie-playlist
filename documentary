@@ -8,7 +8,7 @@
   
 
 	{
-	"name": "29 October 2020",  
+	"name": "2 November 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -55,7 +55,7 @@
       },
       {
       "name": "History HD",
-      "image": "https://images.iptvhero.com/channel/hd-history.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png",
       "url": "https://we-play.tv/watching/tv/history-hd",
       "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
@@ -102,6 +102,13 @@
       "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
       },
+          {
+            "name": "Travel Channel USA",
+            "image": "https://tvreleasedates.com/wp-content/uploads/2019/05/tchannel.png",
+            "url": "https://ustvgo.tv/travel-channel-live-free/",
+            "referer": "https://ustvgo.tv/",
+            "playInNatPlayer": "true"
+           },
       {
       "name": "Outside TV",
       "image": "http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",
